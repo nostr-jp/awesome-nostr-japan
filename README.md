@@ -96,6 +96,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [Nostr版togetterのNosliとNIP-33 / About Nosli and NIP-33](https://speakerdeck.com/akiomik/about-nosli-and-nip-33) - by [akiomik](https://github.com/akiomik)
 * [とある絵描きの Nostr の楽しみかた](https://speakerdeck.com/awayukinet/toaruhui-miao-kino-nostr-nole-simikata) - by [awayuki](https://iris.to/awayuki)
 * [NIP-11a(NIP-111)の要望と変遷](https://speakerdeck.com/kappaseijin/nostr-study-meeting-1-by-kappaseijin) by [kappaseijin](https://iris.to/kappa.seijin.jp)
+* [Passkey Authentication with Nostr (NIP-07, nostr-keyx, YubiKey)](https://speakerdeck.com/s_ota/nostr-keyx-20230310) by [susumuota](https://github.com/susumuota)
  
 ## Videos
 
