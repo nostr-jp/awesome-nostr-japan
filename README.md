@@ -1,6 +1,6 @@
 # awesome-nostr-japan
 
-Awesome [nostr](https://nostr.com/) in Japan.
+Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bots created by Japanese.
 
 ## Relays
 
