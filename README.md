@@ -103,4 +103,4 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 
 * [Nostr勉強会#0 (nostrstudy #0)](https://www.youtube.com/live/IbMhpGNhUuE?feature=share) - nostr conference 1 in Japan powered by [四谷ラボ](https://428lab.net/)
 * [Nostr勉強会#1 (nostrstudy #1)](https://www.youtube.com/live/J6wgG4epGK0?feature=share) - nostr conference 2 in Japan powered by [四谷ラボ](https://428lab.net/)
- 
+  * [Nostr勉強会#1 [わいがや副音声] (nostrstudy #1 public viewing)](https://youtube.com/live/jHuMltEjp2w) - public viewing of the conference powered by [ROBO358](https://www.robo358.com/)
