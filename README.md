@@ -2,7 +2,7 @@
 
 Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bots created by Japanese.
 
-##  Relays
+## Relays
 
 * `wss://relay.nostr.wirednet.jp` - World wide relay by [imksoo](https://github.com/imksoo)
 * `wss://relay-jp.nostr.wirednet.jp` - Japanese oriented relay by [imksoo](https://github.com/imksoo)
@@ -44,11 +44,11 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
  
 ## CLI Clients
 
-* [algia](https://github.com/mattn/algia) - A cli application for nostr by [mattn](https://iris.to/mattn)
+* [algia](https://github.com/mattn/algia) - A cli application for nostr by [mattn](https://github.com/mattn)
  
 ## Relay implementations
 
-* [nostr-relay](https://github.com/mattn/nostr-relay) - sqlite3 friendly nostr relay. backup by [litestream](https://litestream.io/). by [mattn](https://iris.to/mattn)
+* [nostr-relay](https://github.com/mattn/nostr-relay) - sqlite3 friendly nostr relay. backup by [litestream](https://litestream.io/). by [mattn](https://github.com/mattn)
 * [searchnos](https://github.com/darashi/searchnos) - An experimental implementation of NIP-50. by [darashi](https://github.com/darashi)
  
 ## Tools
@@ -57,10 +57,10 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
  
 ## Bots
 
-* [haiku](https://iris.to/haiku) - [Haiku ](https://en.wikipedia.org/wiki/Haiku) collector by [mattn](https://iris.to/mattn)
+* [haiku](https://iris.to/haiku) - [Haiku ](https://en.wikipedia.org/wiki/Haiku) collector by [mattn](https://github.com/mattn)
 * [golang_news](https://iris.to/golang_news@mattn.github.io)
-* [Go](https://go.dev) language news by [mattn](https://iris.to/mattn)
-* [nips_changes](https://iris.to/nips_changes@mattn.github.io) - Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/) by [mattn](https://iris.to/mattn)
+* [Go](https://go.dev) language news by [mattn](https://github.com/mattn)
+* [nips_changes](https://iris.to/nips_changes@mattn.github.io) - Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/) by [mattn](https://github.com/mattn)
 * [EEWなまずくん予報](https://iris.to/namazu@matsuu.org) - Earthquake Early Warning by [matsuu](https://iris.to/matsuu@matsuu.org)
 * [Nostify](https://github.com/kojira/nostify) - A bot that posts Nostr posts that match the filter settings to discord. by [kojira](https://nostx.shino3.net/npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd)
 * [Nostr-chan](https://github.com/kojira/nostr-chan) - communication bots powered by ChatGPT(Currently there are 8 related bots) by [kojira](https://nostx.shino3.net/npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd)
