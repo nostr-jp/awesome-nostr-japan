@@ -62,7 +62,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [haiku](https://iris.to/haiku) - [Haiku ](https://en.wikipedia.org/wiki/Haiku) collector by [mattn](https://github.com/mattn)
 * [golang_news](https://iris.to/golang_news@mattn.github.io) - [Go](https://go.dev) language news by [mattn](https://github.com/mattn)
 * [nips_changes](https://iris.to/nips_changes@mattn.github.io) - Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/) by [mattn](https://github.com/mattn)
-* [makeitquote](https://iris.to/nips_changes@mattn.github.io) - Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/) by [mattn](https://github.com/mattn)
+* [makeitquote](https://iris.to/makeitquote) - Generate image of the post by [mattn](https://github.com/mattn)
 * [EEWなまずくん予報](https://iris.to/namazu@matsuu.org) - Earthquake Early Warning by [matsuu](https://iris.to/matsuu@matsuu.org)
 * [Nostify](https://github.com/kojira/nostify) - A bot that posts Nostr posts that match the filter settings to discord. by [kojira](https://github.com/kojira)
 * [Nostr-chan](https://github.com/kojira/nostr-chan) - communication bots powered by ChatGPT(Currently there are 8 related bots) by [kojira](https://github.com/kojira)
