@@ -40,6 +40,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostter](http://nostter.vercel.app) - Nostr client for web. by [SnowCait](https://github.com/SnowCait)
 * [Rabbit](https://syusui-s.github.io/rabbit/) - A nostr client like TweetDeck powered by SolidJS. by [syusui-s](https://github.com/syusui-s)
 * [Astraea](https://astraea.mousedev.page) - Nostr client for web. by [mouse](https://iris.to/mouse_484@mousedev.page)
+* [Nostr Feeds from relay-jp.nostr.wirednet.jp.](https://relay-jp.nostr.wirednet.jp/index.html) - Simple Nostr Relay Feed Reader by [imksoo](https://github.com/imksoo)
 * [GARNET](https://garnet.nostrian.net) - Nostr Public Chat(NIP-28) Client. by [murakmii](https://github.com/murakmii)
 * [nos.today](https://nos.today/) - search web client by [darashi](https://github.com/darashi)
 * [Nostr playground](https://snowcait.github.io/nostr-playground/) - JSON-based Nostr web client written in plain JavaScript. by [SnowCait](https://github.com/SnowCait)
@@ -75,6 +76,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
     - [Nostaro](https://nostx.shino3.net/npub1nwzquyssngld942vwh58yfrwwmvk530um443w8w8y0h2cu3ju2dsl4hqsg)
     - [Skyka](https://nostx.shino3.net/npub1ae7eax3n5erecwys65kwjcp0lqlsxfj9789f842gwvuy79kq9dzqf7h6mm)
     - [Qchan](https://nostx.shino3.net/npub13exd4j32ldnktu7p34w4csw2nc2s9cypd6tw3h60cau7qvgrp49qpvqjhl) - Create a Japanese timeline summary
+* [日本人ユーザー (bot)](https://nostx.shino3.net/npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p) - Follow Japanese users. by [SnowCait](https://github.com/SnowCait)
 * [ログボbot](https://iris.to/cnpgirl@erechorse.github.io) - A bot to earn "Login bonus" by [erechorse](https://nostx.shino3.net/npub17syr9cntr5f03gnhz7mqdxtt4mmgh39khpky5dw2sflkl09l2y0qra94wl)
 * [じほう](https://nostx.shino3.net/npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7) - a bot that tells JST time by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [tm2](https://nostx.shino3.net/npub16n4x0pvu38xw9ghjt3qlpm7grk5zn8cgdc6wlaravcvq0hxgaxpq7f06cx) - a bot that tells JST time by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
