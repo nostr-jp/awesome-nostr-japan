@@ -58,6 +58,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 ## Tools
 
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - A NIP-07 browser extension that uses the OS's keychain or YubiKey to protect your private keys.  by [susumuota](https://github.com/susumuota)
+* [share-on-nostr](https://github.com/penpenpng/share-on-nostr]) - Chrome extension to share URL of an active tab on Nostr. by [penpenpng](https://github.com/penpenpng)
  
 ## Bots
 
