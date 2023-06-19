@@ -84,7 +84,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 ## Libaries
 
 * [nostr-fetch](https://github.com/jiftechnify/nostr-fetch) - A utility library that allows JS/TS apps to effortlessly fetch past events from Nostr relays. by [jiftechnify](https://github.com/jiftechnify)
-* [rx-nostr](https://github.com/penpenpng/rx-nostr) - A utility to control Nostr in RxJS. by [penpenpng](https://github.com/penpenpng)
+* [rx-nostr](https://github.com/penpenpng/rx-nostr) - A library based on RxJS, which allows Nostr applications to easily communicate with relays. by [penpenpng](https://github.com/penpenpng)
 * [nostr-mux](https://github.com/murakmii/nostr-mux) - Multiplexed connections management for Nostr client. by [murakmii](https://github.com/murakmii)
  
 ## Articles
