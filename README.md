@@ -63,7 +63,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [haiku](https://iris.to/haiku) - [Haiku ](https://en.wikipedia.org/wiki/Haiku) collector by [mattn](https://github.com/mattn)
 * [golang_news](https://iris.to/golang_news@mattn.github.io) - [Go](https://go.dev) language news by [mattn](https://github.com/mattn)
 * [nips_changes](https://iris.to/nips_changes@mattn.github.io) - Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/) by [mattn](https://github.com/mattn)
-* [makeitquote](https://iris.to/makeitquote) - Generate image of the post by [mattn](https://github.com/mattn)
+* [makeitquote](https://iris.to/makeitquote) - Generate image of the post by [mattn](https://github.com/mattn/nostr-makeitquote)
 * [nullpoga](https://nostx.shino3.net/npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc) - A misc bot by [mattn](https://github.com/mattn/cloudflare-nostr-nullpoga)
 * [mahjong](https://nostx.shino3.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x) - A bot for playing mahjong game by [mattn](https://github.com/mattn/nostr-mahjongbot)
 * [EEWなまずくん予報](https://iris.to/namazu@matsuu.org) - Earthquake Early Warning by [matsuu](https://iris.to/matsuu@matsuu.org)
