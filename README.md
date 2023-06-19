@@ -44,6 +44,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [GARNET](https://garnet.nostrian.net) - Nostr Public Chat(NIP-28) Client. by [murakmii](https://github.com/murakmii)
 * [nos.today](https://nos.today/) - search web client by [darashi](https://github.com/darashi)
 * [Nostr playground](https://snowcait.github.io/nostr-playground/) - JSON-based Nostr web client written in plain JavaScript. by [SnowCait](https://github.com/SnowCait)
+* [Angolmois](https://github.com/nikolat/angolmois) - Retrieve posts from Nostr and send SSTP to Ukagaka. by [nikolat](https://github.com/nikolat)
+
  
 ## CLI Clients
 
@@ -87,6 +89,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [へんしんbot](https://nostx.shino3.net/npub1738uh3jagexkr27wyw7pwx2gh8xnrcfk09pxptqf6f6aqwtrf5hq3q0j8s) - An Kamen-Rider-like bot by [ひゅうが霄](https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4)
 * [迫るショッカーbot](https://nostx.shino3.net/npub1r25zsj7hcpjqd0yur2ss4t3r0l9h6wavzp6na9vnnjhr87wttp2qmx0zct) - An Shocker-like bot by [ひゅうが霄](https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4)
 * [mochi](https://nostx.shino3.net/npub19xm6kcedxef3232d222gj0sxql8vs2tutyg0fq4z6875zfs3d8ascl440n) - A mochi mochi bot by [awayuki](https://nostx.shino3.net/npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76)
+* [Yodogawa-Janken](https://nostx.shino3.net/npub1y0d0eezhwaskpjhc7rvk6vkkwepu9mj42qt5pqjamzjr97amh2yszkevjg) - A bot for playing RPS game by [n0nakamura](https://github.com/n0nakamura)
+* [うにゅう](https://nostx.shino3.net/npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t) - An Unyu bot by [nikolat](https://github.com/nikolat)
  
 ## Libaries
 
