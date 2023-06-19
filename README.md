@@ -64,6 +64,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [golang_news](https://iris.to/golang_news@mattn.github.io) - [Go](https://go.dev) language news by [mattn](https://github.com/mattn)
 * [nips_changes](https://iris.to/nips_changes@mattn.github.io) - Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/) by [mattn](https://github.com/mattn)
 * [makeitquote](https://iris.to/makeitquote) - Generate image of the post by [mattn](https://github.com/mattn)
+* [nullpoga](https://nostx.shino3.net/npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc) - A misc bot by [mattn](https://github.com/mattn)
+* [mahjong](https://nostx.shino3.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x) - A bot for playing mahjong game by [mattn](https://github.com/mattn)
 * [EEWなまずくん予報](https://iris.to/namazu@matsuu.org) - Earthquake Early Warning by [matsuu](https://iris.to/matsuu@matsuu.org)
 * [Nostify](https://github.com/kojira/nostify) - A bot that posts Nostr posts that match the filter settings to discord. by [kojira](https://github.com/kojira)
 * [Nostr-chan](https://github.com/kojira/nostr-chan) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
@@ -77,19 +79,27 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
     - [Skyka](https://nostx.shino3.net/npub1ae7eax3n5erecwys65kwjcp0lqlsxfj9789f842gwvuy79kq9dzqf7h6mm)
     - [Qchan](https://nostx.shino3.net/npub13exd4j32ldnktu7p34w4csw2nc2s9cypd6tw3h60cau7qvgrp49qpvqjhl) - Create a Japanese timeline summary
 * [日本人ユーザー (bot)](https://nostx.shino3.net/npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p) - Follow Japanese users. by [SnowCait](https://github.com/SnowCait)
+* [REQ](https://nostx.shino3.net/npub1x22zy06nn8h44cycdv4trxp8v0dv8qq3ayahpkrcn3rh90gp552sqs8hmv) - A bot for replying REQ response by [SnowCait](https://github.com/SnowCait)
 * [ログボbot](https://iris.to/cnpgirl@erechorse.github.io) - A bot to earn "Login bonus" by [erechorse](https://nostx.shino3.net/npub17syr9cntr5f03gnhz7mqdxtt4mmgh39khpky5dw2sflkl09l2y0qra94wl)
 * [じほう](https://nostx.shino3.net/npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7) - a bot that tells JST time by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [tm2](https://nostx.shino3.net/npub16n4x0pvu38xw9ghjt3qlpm7grk5zn8cgdc6wlaravcvq0hxgaxpq7f06cx) - a bot that tells JST time by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
+* [やぶみちゃん](https://nostx.shino3.net/npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r) - A relay bot on wss://yabu.me by [𓃠](https://nostx.shino3.net/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7)
+* [へんしんbot](https://nostx.shino3.net/npub1738uh3jagexkr27wyw7pwx2gh8xnrcfk09pxptqf6f6aqwtrf5hq3q0j8s) - An Kamen-Rider-like bot by [ひゅうが霄](https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4)
+* [迫るショッカーbot](https://nostx.shino3.net/npub1r25zsj7hcpjqd0yur2ss4t3r0l9h6wavzp6na9vnnjhr87wttp2qmx0zct) - An Shocker-like bot by [ひゅうが霄](https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4)
+* [mochi](https://nostx.shino3.net/npub19xm6kcedxef3232d222gj0sxql8vs2tutyg0fq4z6875zfs3d8ascl440n) - A mochi mochi bot by [awayuki](https://nostx.shino3.net/npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76)
  
 ## Libaries
 
 * [nostr-fetch](https://github.com/jiftechnify/nostr-fetch) - A utility library that allows JS/TS apps to effortlessly fetch past events from Nostr relays. by [jiftechnify](https://github.com/jiftechnify)
 * [rx-nostr](https://github.com/penpenpng/rx-nostr) - A utility to control Nostr in RxJS. by [penpenpng](https://github.com/penpenpng)
 * [nostr-mux](https://github.com/murakmii/nostr-mux) - Multiplexed connections management for Nostr client. by [murakmii](https://github.com/murakmii)
+* [nosvelte](https://github.com/akiomik/nosvelte) - An experimental Svelte library for building Nostr apps easily. by [akiomik](https://github.com/akiomik)
+* [lophus](https://github.com/hasundue/lophus) - Yet another TypeScript library for Nostr. by [hasundue](https://github.com/hasundue)
  
 ## Articles
 
 * [SoftwareDesign](https://gihyo.jp/magazine/SD) - In a few months, SoftwareDesign, a magazine published by [gihyo](https://gihyho.jp), a publisher of technical information magazines, will publish a series of articles about nostr.
+    * [Software Design 2023/7](https://gihyo.jp/magazine/SD/archive/2023/202307)
  
 ## Blog Entries
 
