@@ -91,6 +91,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [mochi](https://nostx.shino3.net/npub19xm6kcedxef3232d222gj0sxql8vs2tutyg0fq4z6875zfs3d8ascl440n) - A mochi mochi bot by [awayuki](https://nostx.shino3.net/npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76)
 * [Yodogawa-Janken](https://nostx.shino3.net/npub1y0d0eezhwaskpjhc7rvk6vkkwepu9mj42qt5pqjamzjr97amh2yszkevjg) - A bot for playing RPS game by [n0nakamura](https://github.com/n0nakamura)
 * [うにゅう](https://nostx.shino3.net/npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t) - An Unyu bot by [nikolat](https://github.com/nikolat)
+* [Scrapbox更新通知(bot)](https://nostx.shino3.net/npub1d0hysq6tqys54n2v4tdu2zh2f2e758kj9dr4fpgcvz3ps3l8dzmswes3pc) - A bot that serves notification about updated nostr Scrapbox articles by [jiftechnify](https://github.com/jiftechnify)
  
 ## Libaries
 
@@ -99,11 +100,14 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostr-mux](https://github.com/murakmii/nostr-mux) - Multiplexed connections management for Nostr client. by [murakmii](https://github.com/murakmii)
 * [nosvelte](https://github.com/akiomik/nosvelte) - An experimental Svelte library for building Nostr apps easily. by [akiomik](https://github.com/akiomik)
 * [lophus](https://github.com/hasundue/lophus) - Yet another TypeScript library for Nostr. by [hasundue](https://github.com/hasundue)
+* [n8n-nodes-Nostrobots](https://github.com/ocknamo/n8n-nodes-nostrobots) - An [n8n](https://n8n.io/) node for nostr. by [ocknamo](https://github.com/ocknamo)
  
-## Articles
+## Books/Articles
 
 * [SoftwareDesign](https://gihyo.jp/magazine/SD) - In a few months, SoftwareDesign, a magazine published by [gihyo](https://gihyho.jp), a publisher of technical information magazines, will publish a series of articles about nostr.
     * [Software Design 2023/7](https://gihyo.jp/magazine/SD/archive/2023/202307)
+* [Hello Nostr! 先住民が教えるNostrの歩き方](https://nip-book.nostr-jp.org/book/1/) - A nostr fanzine contributed by writers and illustrators who are Japanese nostr users.
+* [nostr Scrapbox](https://scrapbox.io/nostr/) - A knowledge base about nostr in Japanese.
  
 ## Blog Entries
 
