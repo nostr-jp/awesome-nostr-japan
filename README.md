@@ -93,6 +93,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [うにゅう](https://nostx.shino3.net/npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t) - An Unyu bot by [nikolat](https://github.com/nikolat)
 * [Scrapbox更新通知(bot)](https://nostx.shino3.net/npub1d0hysq6tqys54n2v4tdu2zh2f2e758kj9dr4fpgcvz3ps3l8dzmswes3pc) - A bot that serves notification about updated nostr Scrapbox articles by [jiftechnify](https://github.com/jiftechnify)
 * [やる夫bot](https://nostx.shino3.net/npub1vf4huvhkfhgvys2qf4wlmncf855dzd3c6894mw2snktpxzh08vdsgcgkxx) - Communication bots powered by ChatGPT by [Hakkadaikon](https://github.com/Hakkadaikon)
+* [kojiraBot](https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64) - A kojira bot, 呼んだ？ by [imksoo](https://github.com/imksoo/nostr-kojirabot)
  
 ## Libaries
 
