@@ -34,7 +34,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [BBS on Nostr](https://bbs-on-nostr.vercel.app/) - BBS using nostr as data storage https://github.com/murakmii/bbs-on-nostr by [murakmii](https://github.com/murakmii)
 * [nostrbbs](https://test.ikeji.ma/nostrbbs) - BBS using nostr as data storage by [ikeji](https://github.com/ikeji)
 * [nostr-reversi](https://github.com/studiokaiji/nostr-reversi) - Reversi working on Nostr by [kaiji](https://github.com/studiokaiji)
- 
+* [shotr](https://github.com/ocknamo/shotr) - Shorted URL service powered by nostr. by [ocknamo](https://github.com/ocknamo)
+
 ## Web Clients
 
 * [nostter](http://nostter.vercel.app) - Nostr client for web. by [SnowCait](https://github.com/SnowCait)
