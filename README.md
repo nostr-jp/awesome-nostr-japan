@@ -50,6 +50,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 ## CLI Clients
 
 * [algia](https://github.com/mattn/algia) - A cli application for nostr by [mattn](https://github.com/mattn)
+* [nostk](https://github.com/mitsugu/nostk) -  A cli application for nostr by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
  
 ## Relay implementations
 
