@@ -85,6 +85,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
     - [Qchan](https://nostx.shino3.net/npub13exd4j32ldnktu7p34w4csw2nc2s9cypd6tw3h60cau7qvgrp49qpvqjhl) - Create a Japanese timeline summary
 * [日本人ユーザー (bot)](https://nostx.shino3.net/npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p) - Follow Japanese users. by [SnowCait](https://github.com/SnowCait)
 * [REQ](https://nostx.shino3.net/npub1x22zy06nn8h44cycdv4trxp8v0dv8qq3ayahpkrcn3rh90gp552sqs8hmv) - A bot for replying REQ response by [SnowCait](https://github.com/SnowCait)
+* [search](https://nostx.shino3.net/npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26) - A bot to help you search by [SnowCait](https://github.com/SnowCait)
 * [ログボbot](https://iris.to/cnpgirl@erechorse.github.io) - A bot to earn "Login bonus" by [erechorse](https://nostx.shino3.net/npub17syr9cntr5f03gnhz7mqdxtt4mmgh39khpky5dw2sflkl09l2y0qra94wl)
 * [じほう](https://nostx.shino3.net/npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7) - a bot that tells JST time by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [tm2](https://nostx.shino3.net/npub16n4x0pvu38xw9ghjt3qlpm7grk5zn8cgdc6wlaravcvq0hxgaxpq7f06cx) - a bot that tells JST time by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
@@ -95,8 +96,11 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [Yodogawa-Janken](https://nostx.shino3.net/npub1y0d0eezhwaskpjhc7rvk6vkkwepu9mj42qt5pqjamzjr97amh2yszkevjg) - A bot for playing RPS game by [n0nakamura](https://github.com/n0nakamura)
 * [うにゅう](https://nostx.shino3.net/npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t) - An Unyu bot by [nikolat](https://github.com/nikolat)
 * [Scrapbox更新通知(bot)](https://nostx.shino3.net/npub1d0hysq6tqys54n2v4tdu2zh2f2e758kj9dr4fpgcvz3ps3l8dzmswes3pc) - A bot that serves notification about updated nostr Scrapbox articles by [jiftechnify](https://github.com/jiftechnify)
+* [リプライ連鎖数はかるくん](https://nostx.shino3.net/npub1cwve0du5w46zetzsqymx6ae5hr7ghyn6xs339e0tpkeft6htm07sm8qm6f) - A bot that counts the number of chains of replies from other bots by [jiftechnify](https://github.com/jiftechnify)
 * [やる夫bot](https://nostx.shino3.net/npub1vf4huvhkfhgvys2qf4wlmncf855dzd3c6894mw2snktpxzh08vdsgcgkxx) - Communication bots powered by ChatGPT by [Hakkadaikon](https://github.com/Hakkadaikon)
 * [kojiraBot](https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64) - A kojira bot, 呼んだ？ by [imksoo](https://github.com/imksoo/nostr-kojirabot)
+* [ルークさん](https://nostx.shino3.net/npub185gk75vh09f9up248pjeqm53r3yvtau4cu82d32t8sxxg4qyxfcqxx3dm7) - A dog bot by [NK1961](https://nostx.shino3.net/npub1dsjzgp8mnpk3sn975t4ea98glecg5d0ahadqyxvv4thdah5eh6ssgwpg5w)
+* [NIPs 占い](https://nostx.shino3.net/npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0) - A NIPs fortune-telling bot by [AsaiToshiya](https://github.com/AsaiToshiya)
  
 ## Libraries
 
