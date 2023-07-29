@@ -98,7 +98,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [やる夫bot](https://nostx.shino3.net/npub1vf4huvhkfhgvys2qf4wlmncf855dzd3c6894mw2snktpxzh08vdsgcgkxx) - Communication bots powered by ChatGPT by [Hakkadaikon](https://github.com/Hakkadaikon)
 * [kojiraBot](https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64) - A kojira bot, 呼んだ？ by [imksoo](https://github.com/imksoo/nostr-kojirabot)
  
-## Libaries
+## Libraries
 
 * [nostr-fetch](https://github.com/jiftechnify/nostr-fetch) - A utility library that allows JS/TS apps to effortlessly fetch past events from Nostr relays. by [jiftechnify](https://github.com/jiftechnify)
 * [rx-nostr](https://github.com/penpenpng/rx-nostr) - A library based on RxJS, which allows Nostr applications to easily communicate with relays. by [penpenpng](https://github.com/penpenpng)
