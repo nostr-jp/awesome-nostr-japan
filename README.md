@@ -51,7 +51,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 
 * [algia](https://github.com/mattn/algia) - A cli application for nostr by [mattn](https://github.com/mattn)
 * [nostk](https://github.com/mitsugu/nostk) -  A cli application for nostr by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
- 
+* [nosp](https://github.com/mitsugu/nosp) - A tui controller and pager for nostk
+
 ## Relay implementations
 
 * [nostr-relay](https://github.com/mattn/nostr-relay) - sqlite3 friendly nostr relay. backup by [litestream](https://litestream.io/). by [mattn](https://github.com/mattn)
