@@ -1,0 +1,846 @@
+[awesome-nostr-japan]
+
+caption = "awesome-nostr-japan"
+description =  "Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bots created by Japanese."
+
+# Key is for reference only. 
+
+[Relays]
+
+caption = "Relays"
+
+  [Relays.relay_nostr_wirednet_jp]
+  name = ""
+  address = "wss://relay.nostr.wirednet.jp"
+  description = "World wide relay"
+  author_name = ["imksoo"]
+  author_url = ["https://github.com/imksoo"]
+
+  [Relays.relay-jp_nostr_wirednet_jp]
+  name = ""
+  address = "wss://relay-jp.nostr.wirednet.jp"
+  description = "Japanese oriented relay"
+  author_name = ["imksoo"]
+  author_url = ["https://github.com/imksoo"]
+
+  [Relays.ipv6_nostr_wirednet_jp]
+  name = ""
+  address = "wss://ipv6.nostr.wirednet.jp"
+  description = "ipv6 relay"
+  author_name = ["imksoo"]
+  author_url = ["https://github.com/imksoo"]
+
+  [Relays.nostr_h3z_jp]
+  name = ""
+  address = "wss://nostr.h3z.jp"
+  description = "Free relay"
+  author_name = ["h3z"]
+  author_url = ["https://h3z.jp/"]
+
+  [Relays.nostr-paid_h3z_jp]
+  name = ""
+  address = "wss://nostr-paid.h3z.jp"
+  description = "Paid relay"
+  author_name = ["h3z"]
+  author_url = ["https://h3z.jp/"]
+
+  [Relays.nostr-world_h3z_jp]
+  name = ""
+  address = "wss://nostr-world.h3z.jp"
+  description = "Relay to access \"nostr.h3z.jp\" from overseas"
+  author_name = ["h3z"]
+  author_url = ["https://h3z.jp/"]
+
+  [Relays.nostr_holybea_com]
+  name = ""
+  address = "wss://nostr.holybea.com"
+  description = ""
+  author_name = ["ほりべあ"]
+  author_url = ["https://holybea.com"]
+
+  [Relays.nostr_fediverse_jp]
+  name = ""
+  address = "wss://nostr.fediverse.jp"
+  description = ""
+  author_name = ["αυγοτάραχο σολωμου"]
+  author_url = ["https://nostx.shino3.net/npub1xmqfm9s0yxyadzjh0cp7gsf7fxy0xfgaq23cp9p7fnee6cehrlxq6c6tkw"]
+
+  [Relays.nostr-relay_nokotaro_com]
+  name = ""
+  address = "wss://nostr-relay.nokotaro.com"
+  description = ""
+  author_name = ["Nokotaro Takeda"]
+  author_url = ["https://nostx.shino3.net/npub12ftld459xqw7s7fqnxstzu7r74l5yagxztwcwmaqj4d24jgpj2csee3mx0"]
+
+[WebServices]
+
+caption = "Web Services"
+
+  [WebServices.Nostrends]
+  name = "Nostrends"
+  address = "https://nostrends.vercel.app"
+  description = "Trending posts on nostr."
+  author_name = ["akiomik"]
+  author_url = ["https://github.com/akiomik"]
+
+
+  [WebServices.nostrbuzzs]
+  name = "nostrbuzzs"
+  address = "https://nostrbuzzs.deno.dev"
+  description = "Trending nostr's buzz word"
+  author_name = ["darashi"]
+  author_url = ["https://github.com/darashi"]
+
+
+  [WebServices.nosutora]
+  name = "nosutora"
+  address = "https://nosutora.com"
+  description = "Get NIP-05"
+  author_name = ["https://iris.to/piyo@nosutora.com"]
+  author_url = ["https://iris.to/piyo@nosutora.com"]
+
+
+  [WebServices.nostr-post-checker]
+  name = "nostr-post-checker"
+  address = "https://koteitan.github.io/nostr-post-checker/"
+  description = "post checker for nostr protocol."
+  author_name = ["koteitan"]
+  author_url = ["https://github.com/koteitan"]
+
+
+  [WebServices.Nosli]
+  name = "Nosli"
+  address = "https://nosli.vercel.app"
+  description = "Create curated list of posts on nostr with NIP-23 backend."
+  author_name = ["akiomik"]
+  author_url = ["https://github.com/akiomik"]
+
+
+  [WebServices.nostr-picker]
+  name = "nostr-picker"
+  address = "https://penpenpng.github.io/nostr-picker/"
+  description = "Nostr Picker"
+  author_name = ["penpenpng"]
+  author_url = ["https://github.com/penpenpng"]
+
+
+  [WebServices.nostradio]
+  name = "Nostr村放送局(nostradio)"
+  address = "https://nostradio.deno.dev/"
+  description = "Speaking nostr's post on web radio"
+  author_name = ["darashi"]
+  author_url = ["https://github.com/darashi"]
+
+
+  [WebServices.murasaki]
+  name = "murasaki"
+  address = "https://github.com/darashi/murasaki"
+  description = "Nostr speaker on web with [VOICEVOX](https://voicevox.hiroshiba.jp/)"
+  author_name = ["darashi"]
+  author_url = ["https://github.com/darashi"]
+
+
+  [WebServices.Speaking_nostrs_post_on_web_radio_by_murasaki]
+  name = "Speaking nostr's post on web radio by murasaki"
+  address = "http://ik1-219-79732.vs.sakura.ne.jp:5000/nostr_listen.html"
+  description = ""
+  author_name = ["淀川"]
+  author_url = ["https://nostx.shino3.net/npub15w7wp9wdp6p53vy5eysph5xryu82ltmc7am9zl6pqyexmt6ukllst6ddy2"]
+
+
+  [WebServices.Nosaray]
+  name = "Nosaray"
+  address = "https://github.com/jiftechnify/nosaray"
+  description = "Wayback Machine for Nostr"
+  author_name = ["jiftechnify"]
+  author_url = ["https://github.com/jiftechnify"]
+
+
+  [WebServices.nostr-notes-duplicate]
+  name = "nostr-notes-duplicate"
+  address = "https://nostrlogs-relay-jp.nostr.wirednet.jp/nostr-notes-duplicate.html"
+  description = "Post synchronization tool to multiple relays "
+  author_name = ["imksoo"]
+  author_url = ["https://github.com/imksoo"]
+
+
+  [WebServices.NostrFlu]
+  name = "NostrFlu"
+  address = "https://heguro.github.io/nostr-following-list-util/"
+  description = "Find and display past kind:3 (Contacts) events from multiple relays, backup and etc"
+  author_name = ["heguro"]
+  author_url = ["https://github.com/heguro"]
+
+
+  [WebServices.NosTx]
+  name = "NosTx"
+  address = "https://github.com/ShinoharaTa/Nostx"
+  description = "To Nostr client transformer from note & userpub key"
+  author_name = ["ShinoharaTa"]
+  author_url = ["https://github.com/ShinoharaTa/Nostx"]
+
+
+  [WebServices.Nostr_search_portal]
+  name = "Nostr search portal"
+  address = "https://nostr.hoku.in/"
+  description = "Nostr portal. Big function is  a search engine in japanese. and etc."
+  author_name = ["hoku"]
+  author_url = ["https://iris.to/hoku@nostr.hoku.in"]
+
+
+  [WebServices.illust_tagged_notes_on_Nostr]
+  name = "#illust tagged notes on Nostr"
+  address = "https://nostr-illust.vercel.app/"
+  description = "Illustration viewing"
+  author_name = ["murakmii"]
+  author_url = ["https://github.com/murakmii"]
+
+
+  [WebServices.BBS_on_Nostr]
+  name = "BBS on Nostr"
+  address = "https://bbs-on-nostr.vercel.app/"
+  description = "BBS using nostr as data storage [https://github.com/murakmii/bbs-on-nostr](https://github.com/murakmii/bbs-on-nostr)"
+  author_name = ["murakmii"]
+  author_url = ["https://github.com/murakmii"]
+
+
+  [WebServices.nostrbbs]
+  name = "nostrbbs"
+  address = "https://test.ikeji.ma/nostrbbs"
+  description = "BBS using nostr as data storage"
+  author_name = ["ikeji"]
+  author_url = ["https://github.com/ikeji"]
+
+
+  [WebServices.nostr-reversi]
+  name = "nostr-reversi"
+  address = "https://github.com/studiokaiji/nostr-reversi"
+  description = "Reversi working on Nostr"
+  author_name = ["kaiji"]
+  author_url = ["https://github.com/studiokaiji"]
+
+
+  [WebServices.shotr]
+  name = "shotr"
+  address = "https://github.com/ocknamo/shotr"
+  description = "Shorted URL service powered by nostr."
+  author_name = ["ocknamo"]
+  author_url = ["https://github.com/ocknamo"]
+
+
+[WebClients]
+
+caption = "Web Clients"
+
+  [WebClients.nostter]
+  name = "nostter"
+  address = "http://nostter.vercel.app"
+  description = "Nostr client for web."
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
+
+
+  [WebClients.Rabbit]
+  name = "Rabbit"
+  address = "https://syusui-s.github.io/rabbit/"
+  description = "A nostr client like TweetDeck made with SolidJS."
+  author_name = ["syusui-s"]
+  author_url = ["https://github.com/syusui-s"]
+
+
+  [WebClients.Astraea]
+  name = "Astraea"
+  address = "https://astraea.mousedev.page"
+  description = "Nostr client for web."
+  author_name = ["mouse"]
+  author_url = ["https://iris.to/mouse_484@mousedev.page"]
+
+
+  [WebClients.Nostr_Feeds_from_relay-jp_nostr_wirednet_jp]
+  name = "Nostr Feeds from relay-jp.nostr.wirednet.jp."
+  address = "https://relay-jp.nostr.wirednet.jp/index.html"
+  description = "Simple Nostr Relay Feed Reader"
+  author_name = ["imksoo"]
+  author_url = ["https://github.com/imksoo"]
+
+
+  [WebClients.GARNET]
+  name = "GARNET"
+  address = "https://garnet.nostrian.net"
+  description = "Nostr Public Chat(NIP-28) Client."
+  author_name = ["murakmii"]
+  author_url = ["https://github.com/murakmii"]
+
+
+  [WebClients.nos_today]
+  name = "nos.today"
+  address = "https://nos.today/"
+  description = "search web client"
+  author_name = ["darashi"]
+  author_url = ["https://github.com/darashi"]
+
+
+  [WebClients.Nostr_playground]
+  name = "Nostr playground"
+  address = "https://snowcait.github.io/nostr-playground/"
+  description = "JSON-based Nostr web client written in plain JavaScript."
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
+
+
+  [WebClients.Angolmois]
+  name = "Angolmois"
+  address = "https://github.com/nikolat/angolmois"
+  description = "Retrieve posts from Nostr and send SSTP to Ukagaka."
+  author_name = ["nikolat"]
+  author_url = ["https://github.com/nikolat"]
+
+
+[CLIClients]
+
+caption = "CLI Clients"
+
+  [CLIClients.algia]
+  name = "algia"
+  address = "https://github.com/mattn/algia"
+  description = "A cli application for nostr"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [CLIClients.nostk]
+  name = "nostk"
+  address = "https://github.com/mitsugu/nostk"
+  description = "A cli application for nostr"
+  author_name = ["mitsugu oyama (orzbruford)"]
+  author_url = ["https://github.com/mitsugu"]
+
+
+  [CLIClients.nosp]
+  name = "nosp"
+  address = "https://github.com/mitsugu/nosp"
+  description = "A tui controller and pager for nostk"
+  author_name = ["mitsugu oyama (orzbruford)"]
+  author_url = ["https://github.com/mitsugu"]
+
+
+[RelayImplementations]
+
+caption = "Relay implementations"
+
+  [RelayImplementations.nostr-relay]
+  name = "nostr-relay"
+  address = "https://github.com/mattn/nostr-relay"
+  description = "sqlite3 friendly nostr relay. backup"
+  author_name = ["litestream","mattn"]
+  author_url = ["https://litestream.io/","https://github.com/mattn"]
+
+
+  [RelayImplementations.searchnos]
+  name = "searchnos"
+  address = "https://github.com/darashi/searchnos"
+  description = "An experimental implementation of NIP-50."
+  author_name = ["darashi"]
+  author_url = ["https://github.com/darashi"]
+
+
+[Tools]
+
+caption = "Tools"
+
+  [Tools.nostr-keyx]
+  name = "nostr-keyx"
+  address = "https://github.com/susumuota/nostr-keyx"
+  description = "A NIP-07 browser extension that uses the OS's keychain or YubiKey to protect your private keys. "
+  author_name = ["susumuota"]
+  author_url = ["https://github.com/susumuota"]
+
+
+  [Tools.share-on-nostr]
+  name = "share-on-nostr"
+  address = "https://github.com/penpenpng/share-on-nostr"
+  description = "Chrome extension to share URL of an active tab on Nostr."
+  author_name = ["penpenpng"]
+  author_url = ["https://github.com/penpenpng"]
+
+
+[Bots]
+
+caption = "Bots"
+
+  [Bots.haiku]
+  name = "haiku"
+  address = "https://iris.to/haiku"
+  description = "[Haiku](https://en.wikipedia.org/wiki/Haiku) collector"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.golang_news]
+  name = "golang_news"
+  address = "https://iris.to/golang_news@mattn.github.io"
+  description = "[Go](https://go.dev) language news"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.nips_changes]
+  name = "nips_changes"
+  address = "https://iris.to/nips_changes@mattn.github.io"
+  description = "Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.makeitquote]
+  name = "makeitquote"
+  address = "https://iris.to/makeitquote"
+  description = "Generate image of the post"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.nullpoga]
+  name = "nullpoga"
+  address = "https://nostx.shino3.net/npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc"
+  description = "A misc bot"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.mahjong]
+  name = "mahjong"
+  address = "https://nostx.shino3.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x"
+  description = "A bot for playing mahjong game"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.namazu]
+  name = "EEWなまずくん予報"
+  address = "https://iris.to/namazu@matsuu.org"
+  description = "Earthquake Early Warning"
+  author_name = ["matsuu"]
+  author_url = ["https://iris.to/matsuu@matsuu.org"]
+
+
+  [Bots.Nostify]
+  name = "Nostify"
+  address = "https://github.com/kojira/nostify"
+  description = "A bot that posts Nostr posts that match the filter settings to discord."
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.Nostr-chan]
+  name = "Nostr-chan"
+  address = "https://github.com/kojira/nostr-chan"
+  description = "communication bots powered by ChatGPT(Currently there are 9 related bots)"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.Nostrchan]
+  name = "Nostrchan"
+  address = "https://nostx.shino3.net/npub1f2v6jwct47c2wx5849zzyv5hmpkzulmj3tj44s0r5h7ljxfyay3s5fp3te"
+  description = "communication bots powered by ChatGPT(Currently there are 9 related bots)"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.Nostrchan2]
+  name = "Nostrchan2"
+  address = "https://nostx.shino3.net/npub1ev3s5h5ngxscp8qd094wfd367xj38de4cjdc4gyj0r7ng99wmqeqj66k2s"
+  description = "communication bots powered by ChatGPT(Currently there are 9 related bots)"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.Nostrchan3]
+  name = "Nostrchan3"
+  address = "https://nostx.shino3.net/npub1qpvchcscwvtxnn4aj4r0ya2lfujmvua76k7rn3mrcap47vjkp5nsu7rcm3"
+  description = "communication bots powered by ChatGPT(Currently there are 9 related bots)"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.Nostrchan4]
+  name = "Nostrchan4"
+  address = "https://nostx.shino3.net/npub1ytrn8t6yeehhkgarfkd7hxdnpy665zfxkhd6gnjdm6wzmkjqjnlsgnz5r2"
+  description = "communication bots powered by ChatGPT(Currently there are 9 related bots)"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.Nostrchan0]
+  name = "Nostrchan0"
+  address = "https://nostx.shino3.net/npub1hk8wmj288k48ezpqe9ptw3rkkmucue6c60gs9rtjk60ftpp9qxlqv2xhle"
+  description = "communication bots powered by ChatGPT(Currently there are 9 related bots)"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.kojiranyan]
+  name = "kojiranyan"
+  address = "https://nostx.shino3.net/npub1nnumvzrexs63usytjuwn6ntcy3gr4jqm3ek5tcqsuf2yqk2dkjrsrdxqrl"
+  description = "communication bots powered by ChatGPT(Currently there are 9 related bots)"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.Nostaro]
+  name = "Nostaro"
+  address = "https://nostx.shino3.net/npub1nwzquyssngld942vwh58yfrwwmvk530um443w8w8y0h2cu3ju2dsl4hqsg"
+  description = "communication bots powered by ChatGPT(Currently there are 9 related bots)"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.Skyka]
+  name = "Skyka"
+  address = "https://nostx.shino3.net/npub1ae7eax3n5erecwys65kwjcp0lqlsxfj9789f842gwvuy79kq9dzqf7h6mm"
+  description = "communication bots powered by ChatGPT(Currently there are 9 related bots)"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.Qchan]
+  name = "Qchan"
+  address = "https://nostx.shino3.net/npub13exd4j32ldnktu7p34w4csw2nc2s9cypd6tw3h60cau7qvgrp49qpvqjhl"
+  description = "Create a Japanese timeline summary"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
+
+  [Bots.npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p]
+  name = "日本人ユーザー (bot)"
+  address = "https://nostx.shino3.net/npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p"
+  description = "Follow Japanese users."
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
+
+
+  [Bots.REQ]
+  name = "REQ"
+  address = "https://nostx.shino3.net/npub1x22zy06nn8h44cycdv4trxp8v0dv8qq3ayahpkrcn3rh90gp552sqs8hmv"
+  description = "A bot for replying REQ response"
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
+
+
+  [Bots.search]
+  name = "search"
+  address = "https://nostx.shino3.net/npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26"
+  description = "A bot to help you search"
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
+
+
+  [Bots.cnpgirl]
+  name = "ログボbot"
+  address = "https://iris.to/cnpgirl@erechorse.github.io"
+  description = "A bot to earn \"Login bonus\""
+  author_name = ["erechorse"]
+  author_url = ["https://nostx.shino3.net/npub17syr9cntr5f03gnhz7mqdxtt4mmgh39khpky5dw2sflkl09l2y0qra94wl"]
+
+
+  [Bots.npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7]
+  name = "じほう"
+  address = "https://nostx.shino3.net/npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7"
+  description = "a bot that tells JST time"
+  author_name = ["mono"]
+  author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
+
+
+  [Bots.tm2]
+  name = "tm2"
+  address = "https://nostx.shino3.net/npub16n4x0pvu38xw9ghjt3qlpm7grk5zn8cgdc6wlaravcvq0hxgaxpq7f06cx"
+  description = "a bot that tells JST time"
+  author_name = ["mono"]
+  author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
+
+
+  [Bots.npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r]
+  name = "やぶみちゃん"
+  address = "https://nostx.shino3.net/npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r"
+  description = "A relay bot on wss://yabu.me"
+  author_name = ["𓃠"]
+  author_url = ["https://nostx.shino3.net/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7"]
+
+
+  [Bots.npub1738uh3jagexkr27wyw7pwx2gh8xnrcfk09pxptqf6f6aqwtrf5hq3q0j8s]
+  name = "へんしんbot"
+  address = "https://nostx.shino3.net/npub1738uh3jagexkr27wyw7pwx2gh8xnrcfk09pxptqf6f6aqwtrf5hq3q0j8s"
+  description = "An Kamen-Rider-like bot"
+  author_name = ["ひゅうが霄"]
+  author_url = ["https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4"]
+
+
+  [Bots.npub1r25zsj7hcpjqd0yur2ss4t3r0l9h6wavzp6na9vnnjhr87wttp2qmx0zct]
+  name = "迫るショッカーbot"
+  address = "https://nostx.shino3.net/npub1r25zsj7hcpjqd0yur2ss4t3r0l9h6wavzp6na9vnnjhr87wttp2qmx0zct"
+  description = "An Shocker-like bot"
+  author_name = ["ひゅうが霄"]
+  author_url = ["https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4"]
+
+
+  [Bots.mochi]
+  name = "mochi"
+  address = "https://nostx.shino3.net/npub19xm6kcedxef3232d222gj0sxql8vs2tutyg0fq4z6875zfs3d8ascl440n"
+  description = "A mochi mochi bot"
+  author_name = ["awayuki"]
+  author_url = ["https://nostx.shino3.net/npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76"]
+
+
+  [Bots.Yodogawa-Janken]
+  name = "Yodogawa-Janken"
+  address = "https://nostx.shino3.net/npub1y0d0eezhwaskpjhc7rvk6vkkwepu9mj42qt5pqjamzjr97amh2yszkevjg"
+  description = "A bot for playing RPS game"
+  author_name = ["n0nakamura"]
+  author_url = ["https://github.com/n0nakamura"]
+
+
+  [Bots.npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t]
+  name = "うにゅう"
+  address = "https://nostx.shino3.net/npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t"
+  description = "An Unyu bot"
+  author_name = ["nikolat"]
+  author_url = ["https://github.com/nikolat"]
+
+
+  [Bots.npub1d0hysq6tqys54n2v4tdu2zh2f2e758kj9dr4fpgcvz3ps3l8dzmswes3pc]
+  name = "Scrapbox更新通知(bot)"
+  address = "https://nostx.shino3.net/npub1d0hysq6tqys54n2v4tdu2zh2f2e758kj9dr4fpgcvz3ps3l8dzmswes3pc"
+  description = "A bot that serves notification about updated nostr Scrapbox articles"
+  author_name = ["jiftechnify"]
+  author_url = ["https://github.com/jiftechnify"]
+
+
+  [Bots.npub1cwve0du5w46zetzsqymx6ae5hr7ghyn6xs339e0tpkeft6htm07sm8qm6f]
+  name = "リプライ連鎖数はかるくん"
+  address = "https://nostx.shino3.net/npub1cwve0du5w46zetzsqymx6ae5hr7ghyn6xs339e0tpkeft6htm07sm8qm6f"
+  description = "A bot that counts the number of chains of replies from other bots"
+  author_name = ["jiftechnify"]
+  author_url = ["https://github.com/jiftechnify"]
+
+
+  [Bots.npub1vf4huvhkfhgvys2qf4wlmncf855dzd3c6894mw2snktpxzh08vdsgcgkxx]
+  name = "やる夫bot"
+  address = "https://nostx.shino3.net/npub1vf4huvhkfhgvys2qf4wlmncf855dzd3c6894mw2snktpxzh08vdsgcgkxx"
+  description = "Communication bots powered by ChatGPT"
+  author_name = ["Hakkadaikon"]
+  author_url = ["https://github.com/Hakkadaikon"]
+
+
+  [Bots.kojiraBot]
+  name = "kojiraBot"
+  address = "https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64"
+  description = "A kojira bot, 呼んだ？"
+  author_name = ["imksoo"]
+  author_url = ["https://github.com/imksoo/nostr-kojirabot"]
+
+
+  [Bots.npub185gk75vh09f9up248pjeqm53r3yvtau4cu82d32t8sxxg4qyxfcqxx3dm7]
+  name = "ルークさん"
+  address = "https://nostx.shino3.net/npub185gk75vh09f9up248pjeqm53r3yvtau4cu82d32t8sxxg4qyxfcqxx3dm7"
+  description = "A dog bot"
+  author_name = ["NK1961"]
+  author_url = ["https://nostx.shino3.net/npub1dsjzgp8mnpk3sn975t4ea98glecg5d0ahadqyxvv4thdah5eh6ssgwpg5w"]
+
+
+  [Bots.npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0]
+  name = "NIPs 占い"
+  address = "https://nostx.shino3.net/npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0"
+  description = "A NIPs fortune-telling bot"
+  author_name = ["AsaiToshiya"]
+  author_url = ["https://github.com/AsaiToshiya"]
+
+
+[Libraries]
+
+caption = "Libraries"
+
+  [Libraries.nostr-fetch]
+  name = "nostr-fetch"
+  address = "https://github.com/jiftechnify/nostr-fetch"
+  description = "A utility library that allows JS/TS apps to effortlessly fetch past events from Nostr relays."
+  author_name = ["jiftechnify"]
+  author_url = ["https://github.com/jiftechnify"]
+
+
+  [Libraries.rx-nostr]
+  name = "rx-nostr"
+  address = "https://github.com/penpenpng/rx-nostr"
+  description = "A library based on RxJS, which allows Nostr applications to easily communicate with relays."
+  author_name = ["penpenpng"]
+  author_url = ["https://github.com/penpenpng"]
+
+
+  [Libraries.nostr-mux]
+  name = "nostr-mux"
+  address = "https://github.com/murakmii/nostr-mux"
+  description = "Multiplexed connections management for Nostr client."
+  author_name = ["murakmii"]
+  author_url = ["https://github.com/murakmii"]
+
+
+  [Libraries.nosvelte]
+  name = "nosvelte"
+  address = "https://github.com/akiomik/nosvelte"
+  description = "An experimental Svelte library for building Nostr apps easily."
+  author_name = ["akiomik"]
+  author_url = ["https://github.com/akiomik"]
+
+
+  [Libraries.lophus]
+  name = "lophus"
+  address = "https://github.com/hasundue/lophus"
+  description = "Yet another TypeScript library for Nostr."
+  author_name = ["hasundue"]
+  author_url = ["https://github.com/hasundue"]
+
+
+  [Libraries.n8n-nodes-Nostrobots]
+  name = "n8n-nodes-Nostrobots"
+  address = "https://github.com/ocknamo/n8n-nodes-nostrobots"
+  description = "An [n8n](https://n8n.io/) node for nostr."
+  author_name = ["ocknamo"]
+  author_url = ["https://github.com/ocknamo"]
+
+
+[BooksArticles]
+
+caption = "Books/Articles"
+
+  [BooksArticles.SoftwareDesign]
+  name = "SoftwareDesign"
+  address = "https://gihyo.jp/magazine/SD"
+  description = "In a few months, SoftwareDesign, a magazine, a publisher of technical information magazines, will publish a series of articles about nostr."
+  author_name = ["gihyo"]
+  author_url = ["https://gihyho.jp"]
+
+
+  [BooksArticles.Software_Design_2023_7]
+  name = "Software Design 2023/7"
+  address = "https://gihyo.jp/magazine/SD/archive/2023/202307"
+  description = "In a few months, SoftwareDesign, a magazine, a publisher of technical information magazines, will publish a series of articles about nostr."
+  author_name = ["gihyo"]
+  author_url = ["https://gihyho.jp"]
+
+
+  [BooksArticles.Hello_Nostr]
+  name = "Hello Nostr! 先住民が教えるNostrの歩き方"
+  address = "https://nip-book.nostr-jp.org/book/1/"
+  description = "A nostr fanzine contributed by writers and illustrators who are Japanese nostr users."
+  author_name = [""]
+  author_url = [""]
+
+
+  [BooksArticles.nostr_Scrapbox]
+  name = "nostr Scrapbox"
+  address = "https://scrapbox.io/nostr/"
+  description = "A knowledge base about nostr in Japanese."
+  author_name = [""]
+  author_url = [""]
+
+
+[BlogEntries]
+
+caption = "Blog Entries"
+
+  [BlogEntries.77eee9535fb1a092e286]
+  name = "Nostrプロトコル(damus)を触ってみた"
+  address = "https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286"
+  description = ""
+  author_name = [""]
+  author_url = [""]
+
+  [BlogEntries.Damus_for_Nostr]
+  name = "Damus (ダムス) for Nostr"
+  address = "https://stacksats.jp/damus-nostr"
+  description = "Article introducing Nostr and Damus."
+  author_name = ["yutaro"]
+  author_url = ["https://nostx.shino3.net/npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0"]
+
+[Slides]
+
+caption = "Slides"
+
+  [Slides.akiomik_about-nostrends]
+  name = "話題の投稿がみれるサービス Nostrendsをつくったよ🤙 / About Nostrends"
+  address = "https://speakerdeck.com/akiomik/about-nostrends"
+  description = ""
+  author_name = ["akiomik"]
+  author_url = ["https://github.com/akiomik"]
+
+
+  [Slides.akiomik_about-nosli-and-nip-33]
+  name = "Nostr版togetterのNosliとNIP-33 / About Nosli and NIP-33"
+  address = "https://speakerdeck.com/akiomik/about-nosli-and-nip-33"
+  description = ""
+  author_name = ["akiomik"]
+  author_url = ["https://github.com/akiomik"]
+
+
+  [Slides.awayukinet_toaruhui-miao-kino-nostr-nole-simikata]
+  name = "とある絵描きの Nostr の楽しみかた"
+  address = "https://speakerdeck.com/awayukinet/toaruhui-miao-kino-nostr-nole-simikata"
+  description = ""
+  author_name = ["awayuki"]
+  author_url = ["https://iris.to/awayuki"]
+
+
+  [Slides.kappaseijin_nostr-study-meeting-1-by-kappaseijin]
+  name = "NIP-11a(NIP-111)の要望と変遷"
+  address = "https://speakerdeck.com/kappaseijin/nostr-study-meeting-1-by-kappaseijin"
+  description = ""
+  author_name = ["kappaseijin"]
+  author_url = ["https://iris.to/kappa.seijin.jp"]
+
+
+  [Slides.s_ota_nostr-keyx-20230310]
+  name = "Passkey Authentication with Nostr (NIP-07, nostr-keyx, YubiKey)"
+  address = "https://speakerdeck.com/s_ota/nostr-keyx-20230310"
+  description = ""
+  author_name = ["susumuota"]
+  author_url = ["https://github.com/susumuota"]
+
+
+[Videos]
+
+caption = "Videos"
+
+  [Videos.nostrstudy_0]
+  name = "Nostr勉強会#0 (nostrstudy #0)"
+  address = "https://www.youtube.com/live/IbMhpGNhUuE?feature=share"
+  description = "nostr conference 1 in Japan powered"
+  author_name = ["四谷ラボ"]
+  author_url = ["https://428lab.net/"]
+
+
+  [Videos.nostrstudy_1]
+  name = "Nostr勉強会#1 (nostrstudy #1)"
+  address = "https://www.youtube.com/live/J6wgG4epGK0?feature=share"
+  description = "nostr conference 2 in Japan powered"
+  author_name = ["四谷ラボ"]
+  author_url = ["https://428lab.net/"]
+
+
+  [Videos.nostrstudy_1_public_viewing]
+  name = "Nostr勉強会#1 [わいがや副音声] (nostrstudy #1 public viewing)"
+  address = "https://youtube.com/live/jHuMltEjp2w"
+  description = "public viewing of the conference powered"
+  author_name = ["ROBO358"]
+  author_url = ["https://www.robo358.com/"]
+
+
+[License]
+
+caption = "License"
+description = "MIT"
+
+[Author]
+
+caption = "Author"
+description = "Yasuhiro Matsumoto (a.k.a. mattn)"
+
