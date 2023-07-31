@@ -8,7 +8,7 @@ def convert(ja):
     if ja:
         filename = "README-ja.md"
 
-    o = open(filename,"w", encoding="utf-8")
+    o = open(filename,"w", encoding="utf-8", newline="\n")
 
     with open("awesome-nostr-japan.toml", "rb") as toml_in:
         toml = tomllib.load(toml_in)
