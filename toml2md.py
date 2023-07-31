@@ -3,6 +3,7 @@ import tomllib
 
 # python toml2md.py
 
+
 def convert(ja):
     filename = "README.md"
     if ja:
@@ -38,30 +39,30 @@ def convert(ja):
 
                 line = "* "
                 if item["name"] == "":
-                    line += "`" + item["address"]+ "`"
+                    line += "`" + item["address"] + "`"
 
                 else:
-                    line += "[" +item["name"]+ "]"
-                    line += "(" +item["address"]+ ")"
+                    line += "[" + item["name"] + "]"
+                    line += "(" + item["address"] + ")"
 
                 if ja:
                     if item["description_ja"] != "":
-                        line += " - " +item["description_ja"]
+                        line += " - " + item["description_ja"]
                     elif item["description"] != "":
-                        line += " - " +item["description"]
+                        line += " - " + item["description"]
                 else:
                     if item["description"] != "":
-                        line += " - " +item["description"]
-
-
+                        line += " - " + item["description"]
 
                 if len(item["author_name"]) > 0:
                     for i in range(len(item["author_name"])):
                         if item["author_name"][i] != "":
-                            line += " by [" +item["author_name"][i] + "]("+item["author_url"][i]+")"
-                        
+                            line += " by [" + item["author_name"][i] + \
+                                "]("+item["author_url"][i]+")"
+
                 o.write(line+"\n")
             o.write("\n")
+
 
 convert(False)
 convert(True)
