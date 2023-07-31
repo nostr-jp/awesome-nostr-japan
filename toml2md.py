@@ -32,7 +32,8 @@ def convert(ja):
 
             for item_key in section:
                 item = section[item_key]
-                if not isinstance(item,dict):
+                if not isinstance(item, dict):
+
                     continue
 
                 line = "* "
