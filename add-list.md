@@ -1,5 +1,6 @@
 # リストへの追加方法
 リストに追加するには、以下の手順を踏んでください。
+README.md と README-ja.md を直接編集しないで下さい。
 
 ## awesome-nostr-japan.tomlを編集する
 リストの本体は、awesome-nostr-japan.tomlです。
@@ -39,6 +40,7 @@ caption = "Web Services"
 プログラム上での識別でのみ使用します。
 
 # toml2md.pyを実行する。
+事前に toml ファイルの正当性を確認されたい場合は以下を実行して下さい。
 python 3.11以降を導入してください。
 
 `python toml2md.py`
