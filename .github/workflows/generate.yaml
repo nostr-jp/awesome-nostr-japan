@@ -1,0 +1,31 @@
+name: Test
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 10
+
+      - name: Generate README.md
+        run: |
+          python toml2md.py
+
+      - name: Commit and push
+        if: success() && github.ref_name == 'main'
+        run: |
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin 'https://github-actions:${{ github.token }}@github.com/${{ github.repository }}'
+          git add README.md README-ja.md
+          git add README.md
+          git commit -m 'generate README.md'
+          git push origin '${{ github.ref_name }}'
