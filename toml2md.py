@@ -38,7 +38,8 @@ def convert(ja):
 
                 line = "* "
                 if item["name"] == "":
-                    line += "`" +item["address"]+ "`"
+                    line += "`" + item["address"]+ "`"
+
                 else:
                     line += "[" +item["name"]+ "]"
                     line += "(" +item["address"]+ ")"
