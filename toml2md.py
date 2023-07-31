@@ -21,7 +21,8 @@ def convert(ja):
                 o.write("## " + section["caption"]+"\n\n")
 
             if ja:
-                if "description_ja" in section and section["description_ja"]!= "":
+                if "description_ja" in section and section["description_ja"] != "":
+
                     o.write(section["description_ja"]+"\n")
                 elif "description" in section:
                     o.write(section["description"]+"\n")
