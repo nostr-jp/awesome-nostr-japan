@@ -1,4 +1,4 @@
-name: Test
+name: Generate
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
   pull_request:
 
 jobs:
-  test:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
