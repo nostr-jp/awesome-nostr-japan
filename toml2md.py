@@ -10,7 +10,6 @@ def convert(ja):
 
     o = open(filename, "w", encoding="utf-8", newline="\n")
 
-
     with open("awesome-nostr-japan.toml", "rb") as toml_in:
         toml = tomllib.load(toml_in)
 
