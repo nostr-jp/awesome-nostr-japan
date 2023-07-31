@@ -1,6 +1,6 @@
 # awesome-nostr-japan
 
-Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bots created by Japanese.
+Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bots created by Japanese. [日本語版](README-ja.md)
 
 ## Relays
 
@@ -34,14 +34,14 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [BBS on Nostr](https://bbs-on-nostr.vercel.app/) - BBS using nostr as data storage [https://github.com/murakmii/bbs-on-nostr](https://github.com/murakmii/bbs-on-nostr) by [murakmii](https://github.com/murakmii)
 * [nostrbbs](https://test.ikeji.ma/nostrbbs) - BBS using nostr as data storage by [ikeji](https://github.com/ikeji)
 * [nostr-reversi](https://github.com/studiokaiji/nostr-reversi) - Reversi working on Nostr by [kaiji](https://github.com/studiokaiji)
-* [shotr](https://github.com/ocknamo/shotr) - Shorted URL service powered by nostr. by [ocknamo](https://github.com/ocknamo)
+* [shotr](https://6or.cc/) - Shorted URL service powered by nostr. [https://github.com/ocknamo/shotr](https://github.com/ocknamo/shotr) by [ocknamo](https://github.com/ocknamo)
 
 ## Web Clients
 
 * [nostter](http://nostter.vercel.app) - Nostr client for web. by [SnowCait](https://github.com/SnowCait)
 * [Rabbit](https://syusui-s.github.io/rabbit/) - A nostr client like TweetDeck made with SolidJS. by [syusui-s](https://github.com/syusui-s)
 * [Astraea](https://astraea.mousedev.page) - Nostr client for web. by [mouse](https://iris.to/mouse_484@mousedev.page)
-* [Nostr Feeds from relay-jp.nostr.wirednet.jp.](https://relay-jp.nostr.wirednet.jp/index.html) - Simple Nostr Relay Feed Reader by [imksoo](https://github.com/imksoo)
+* [Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)](https://relay-jp.nostr.wirednet.jp/index.html) - Simple Nostr Relay Feed Reader by [imksoo](https://github.com/imksoo)
 * [GARNET](https://garnet.nostrian.net) - Nostr Public Chat(NIP-28) Client. by [murakmii](https://github.com/murakmii)
 * [nos.today](https://nos.today/) - search web client by [darashi](https://github.com/darashi)
 * [Nostr playground](https://snowcait.github.io/nostr-playground/) - JSON-based Nostr web client written in plain JavaScript. by [SnowCait](https://github.com/SnowCait)
@@ -73,15 +73,15 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [mahjong](https://nostx.shino3.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x) - A bot for playing mahjong game by [mattn](https://github.com/mattn)
 * [EEWなまずくん予報](https://iris.to/namazu@matsuu.org) - Earthquake Early Warning by [matsuu](https://iris.to/matsuu@matsuu.org)
 * [Nostify](https://github.com/kojira/nostify) - A bot that posts Nostr posts that match the filter settings to discord. by [kojira](https://github.com/kojira)
-* [Nostr-chan](https://github.com/kojira/nostr-chan) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
-* [Nostrchan](https://nostx.shino3.net/npub1f2v6jwct47c2wx5849zzyv5hmpkzulmj3tj44s0r5h7ljxfyay3s5fp3te) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
-* [Nostrchan2](https://nostx.shino3.net/npub1ev3s5h5ngxscp8qd094wfd367xj38de4cjdc4gyj0r7ng99wmqeqj66k2s) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
-* [Nostrchan3](https://nostx.shino3.net/npub1qpvchcscwvtxnn4aj4r0ya2lfujmvua76k7rn3mrcap47vjkp5nsu7rcm3) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
-* [Nostrchan4](https://nostx.shino3.net/npub1ytrn8t6yeehhkgarfkd7hxdnpy665zfxkhd6gnjdm6wzmkjqjnlsgnz5r2) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
-* [Nostrchan0](https://nostx.shino3.net/npub1hk8wmj288k48ezpqe9ptw3rkkmucue6c60gs9rtjk60ftpp9qxlqv2xhle) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
-* [kojiranyan](https://nostx.shino3.net/npub1nnumvzrexs63usytjuwn6ntcy3gr4jqm3ek5tcqsuf2yqk2dkjrsrdxqrl) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
-* [Nostaro](https://nostx.shino3.net/npub1nwzquyssngld942vwh58yfrwwmvk530um443w8w8y0h2cu3ju2dsl4hqsg) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
-* [Skyka](https://nostx.shino3.net/npub1ae7eax3n5erecwys65kwjcp0lqlsxfj9789f842gwvuy79kq9dzqf7h6mm) - communication bots powered by ChatGPT(Currently there are 9 related bots) by [kojira](https://github.com/kojira)
+* [Nostr-chan](https://github.com/kojira/nostr-chan) - communication bots powered by ChatGPT by [kojira](https://github.com/kojira)
+* [Nostrchan](https://nostx.shino3.net/npub1f2v6jwct47c2wx5849zzyv5hmpkzulmj3tj44s0r5h7ljxfyay3s5fp3te) - communication bots powered by ChatGPT by [kojira](https://github.com/kojira)
+* [Nostrchan2](https://nostx.shino3.net/npub1ev3s5h5ngxscp8qd094wfd367xj38de4cjdc4gyj0r7ng99wmqeqj66k2s) - communication bots powered by ChatGPT by [kojira](https://github.com/kojira)
+* [Nostrchan3](https://nostx.shino3.net/npub1qpvchcscwvtxnn4aj4r0ya2lfujmvua76k7rn3mrcap47vjkp5nsu7rcm3) - communication bots powered by ChatGPT by [kojira](https://github.com/kojira)
+* [Nostrchan4](https://nostx.shino3.net/npub1ytrn8t6yeehhkgarfkd7hxdnpy665zfxkhd6gnjdm6wzmkjqjnlsgnz5r2) - communication bots powered by ChatGPT by [kojira](https://github.com/kojira)
+* [Nostrchan0](https://nostx.shino3.net/npub1hk8wmj288k48ezpqe9ptw3rkkmucue6c60gs9rtjk60ftpp9qxlqv2xhle) - communication bots powered by ChatGPT by [kojira](https://github.com/kojira)
+* [kojiranyan](https://nostx.shino3.net/npub1nnumvzrexs63usytjuwn6ntcy3gr4jqm3ek5tcqsuf2yqk2dkjrsrdxqrl) - communication bots powered by ChatGPT by [kojira](https://github.com/kojira)
+* [Nostaro](https://nostx.shino3.net/npub1nwzquyssngld942vwh58yfrwwmvk530um443w8w8y0h2cu3ju2dsl4hqsg) - communication bots powered by ChatGPT by [kojira](https://github.com/kojira)
+* [Skyka](https://nostx.shino3.net/npub1ae7eax3n5erecwys65kwjcp0lqlsxfj9789f842gwvuy79kq9dzqf7h6mm) - communication bots powered by ChatGPT by [kojira](https://github.com/kojira)
 * [Qchan](https://nostx.shino3.net/npub13exd4j32ldnktu7p34w4csw2nc2s9cypd6tw3h60cau7qvgrp49qpvqjhl) - Create a Japanese timeline summary by [kojira](https://github.com/kojira)
 * [日本人ユーザー (bot)](https://nostx.shino3.net/npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p) - Follow Japanese users. by [SnowCait](https://github.com/SnowCait)
 * [REQ](https://nostx.shino3.net/npub1x22zy06nn8h44cycdv4trxp8v0dv8qq3ayahpkrcn3rh90gp552sqs8hmv) - A bot for replying REQ response by [SnowCait](https://github.com/SnowCait)
@@ -120,7 +120,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 
 ## Blog Entries
 
-* [Nostrプロトコル(damus)を触ってみた](https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286)
+* [Nostrプロトコル(damus)を触ってみた](https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286) - An overview of the Nostr protocol written in Japanese by [gpsnmeajp](https://github.com/gpsnmeajp)
 * [Damus (ダムス) for Nostr](https://stacksats.jp/damus-nostr) - Article introducing Nostr and Damus. by [yutaro](https://nostx.shino3.net/npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0)
 
 ## Slides
