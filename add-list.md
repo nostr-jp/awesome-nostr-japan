@@ -1,5 +1,6 @@
 # リストへの追加方法
 リストに追加するには、以下の手順を踏んでください。
+README.md と README-ja.md を直接編集しないで下さい。
 
 ## awesome-nostr-japan.tomlを編集する
 リストの本体は、awesome-nostr-japan.tomlです。
