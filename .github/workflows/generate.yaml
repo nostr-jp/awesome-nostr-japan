@@ -32,6 +32,5 @@ jobs:
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
           git remote set-url origin 'https://github-actions:${{ github.token }}@github.com/${{ github.repository }}'
           git add -f README.md README-ja.md
-          git add README.md
           git commit -m 'generate README.md'
           git push origin '${{ github.ref_name }}'
