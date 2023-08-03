@@ -28,13 +28,14 @@
 * [Nosaray](https://github.com/jiftechnify/nosaray) - 過去の投稿を取得するツール by [jiftechnify](https://github.com/jiftechnify)
 * [nostr-notes-duplicate](https://nostrlogs-relay-jp.nostr.wirednet.jp/nostr-notes-duplicate.html) - 複数リレー間の投稿同期ツール by [imksoo](https://github.com/imksoo)
 * [NostrFlu](https://heguro.github.io/nostr-following-list-util/) - Nostr Following List Util: Nostrのフォローリストを集めたり再送信するやつ by [heguro](https://github.com/heguro)
-* [NosTx](https://github.com/ShinoharaTa/Nostx) - To Nostr client transformer from note & userpub key by [ShinoharaTa](https://github.com/ShinoharaTa/Nostx)
+* [NosTx](https://github.com/ShinoharaTa/Nostx) - To Nostr client transformer from note & userpub key by [ShinoharaTa](https://github.com/ShinoharaTa)
 * [Nostr search portal](https://nostr.hoku.in/) - Nostr上の日本語のNote（つぶやき）をキーワード検索できるポータル by [hoku](https://iris.to/hoku@nostr.hoku.in)
 * [#illust tagged notes on Nostr](https://nostr-illust.vercel.app/) - #illust タグで投稿されたイラストを表示するサイト by [murakmii](https://github.com/murakmii)
 * [BBS on Nostr](https://bbs-on-nostr.vercel.app/) - Nostr上に実験的に実装されたBBS  [https://github.com/murakmii/bbs-on-nostr](https://github.com/murakmii/bbs-on-nostr) by [murakmii](https://github.com/murakmii)
 * [nostrbbs](https://test.ikeji.ma/nostrbbs) - nostrをデータ保存場所として使う掲示板 by [ikeji](https://github.com/ikeji)
 * [nostr-reversi](https://github.com/studiokaiji/nostr-reversi) - nostr上で動作するリバーシ by [kaiji](https://github.com/studiokaiji)
 * [shotr](https://6or.cc/) - nostrで動作するURL短縮サービス [https://github.com/ocknamo/shotr](https://github.com/ocknamo/shotr) by [ocknamo](https://github.com/ocknamo)
+* [野州田川水系 定点観測所](https://nostr-hotter-site.vercel.app) - nostr リレー（JP）の投稿数をグラフ表示してくれるサイト by [ShinoharaTa](https://github.com/ShinoharaTa)
 
 ## Web Clients
 
@@ -101,6 +102,7 @@
 * [kojiraBot](https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64) - kojira bot。呼んだ？ by [imksoo](https://github.com/imksoo/nostr-kojirabot)
 * [ルークさん](https://nostx.shino3.net/npub185gk75vh09f9up248pjeqm53r3yvtau4cu82d32t8sxxg4qyxfcqxx3dm7) - 犬bot by [NK1961](https://nostx.shino3.net/npub1dsjzgp8mnpk3sn975t4ea98glecg5d0ahadqyxvv4thdah5eh6ssgwpg5w)
 * [NIPs 占い](https://nostx.shino3.net/npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0) - NIP占いをするbot by [AsaiToshiya](https://github.com/AsaiToshiya)
+* [流速ちゃん](https://nostx.shino3.net/npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv) - 日本のリレー投稿数を計測・集計しているbot by [ShinoharaTa](https://github.com/ShinoharaTa)
 
 ## Libraries
 
