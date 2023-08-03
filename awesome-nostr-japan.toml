@@ -812,6 +812,15 @@ caption = "Libraries"
   author_url = ["https://github.com/ocknamo"]
 
 
+  [Libraries.nostr-key-value]
+  name = "nostr-key-value"
+  address = "https://github.com/ShinoharaTa/nostr-key-value"
+  description = "Use nostr NIP-78 (kind: 30078) Key Value Storage"
+  description_ja = "NIP-78 (kind: 30078) を使用した key-value Storage"
+  author_name = ["ShinoharaTa"]
+  author_url = ["https://github.com/ShinoharaTa"]
+
+
 [BooksArticles]
 
 caption = "Books/Articles"
