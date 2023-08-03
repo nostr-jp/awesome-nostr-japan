@@ -35,7 +35,6 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostrbbs](https://test.ikeji.ma/nostrbbs) - BBS using nostr as data storage by [ikeji](https://github.com/ikeji)
 * [nostr-reversi](https://github.com/studiokaiji/nostr-reversi) - Reversi working on Nostr by [kaiji](https://github.com/studiokaiji)
 * [shotr](https://6or.cc/) - Shorted URL service powered by nostr. [https://github.com/ocknamo/shotr](https://github.com/ocknamo/shotr) by [ocknamo](https://github.com/ocknamo)
-* [野州田川水系 定点観測所](https://nostr-hotter-site.vercel.app) - nostr Relay (JP) site that displays the number of posts in a graph. by [ShinoharaTa](https://github.com/ShinoharaTa)
 
 ## Web Clients
 
@@ -102,7 +101,6 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [kojiraBot](https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64) - A kojira bot, 呼んだ？ by [imksoo](https://github.com/imksoo/nostr-kojirabot)
 * [ルークさん](https://nostx.shino3.net/npub185gk75vh09f9up248pjeqm53r3yvtau4cu82d32t8sxxg4qyxfcqxx3dm7) - A dog bot by [NK1961](https://nostx.shino3.net/npub1dsjzgp8mnpk3sn975t4ea98glecg5d0ahadqyxvv4thdah5eh6ssgwpg5w)
 * [NIPs 占い](https://nostx.shino3.net/npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0) - A NIPs fortune-telling bot by [AsaiToshiya](https://github.com/AsaiToshiya)
-* [流速ちゃん](https://nostx.shino3.net/npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv) - BOT measuring and tabulating the number of relay submissions in Japan by [ShinoharaTa](https://github.com/ShinoharaTa)
 
 ## Libraries
 
