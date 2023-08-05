@@ -35,6 +35,7 @@
 * [nostrbbs](https://test.ikeji.ma/nostrbbs) - nostrをデータ保存場所として使う掲示板 by [ikeji](https://github.com/ikeji)
 * [nostr-reversi](https://github.com/studiokaiji/nostr-reversi) - nostr上で動作するリバーシ by [kaiji](https://github.com/studiokaiji)
 * [shotr](https://6or.cc/) - nostrで動作するURL短縮サービス [https://github.com/ocknamo/shotr](https://github.com/ocknamo/shotr) by [ocknamo](https://github.com/ocknamo)
+* [野州田川水系 定点観測所](https://nostr-hotter-site.vercel.app) - nostr リレー（JP）の投稿数をグラフ表示してくれるサイト by [ShinoharaTa](https://github.com/ShinoharaTa)
 
 ## Web Clients
 
@@ -101,6 +102,7 @@
 * [kojiraBot](https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64) - kojira bot。呼んだ？ by [imksoo](https://github.com/imksoo/nostr-kojirabot)
 * [ルークさん](https://nostx.shino3.net/npub185gk75vh09f9up248pjeqm53r3yvtau4cu82d32t8sxxg4qyxfcqxx3dm7) - 犬bot by [NK1961](https://nostx.shino3.net/npub1dsjzgp8mnpk3sn975t4ea98glecg5d0ahadqyxvv4thdah5eh6ssgwpg5w)
 * [NIPs 占い](https://nostx.shino3.net/npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0) - NIP占いをするbot by [AsaiToshiya](https://github.com/AsaiToshiya)
+* [流速ちゃん](https://nostx.shino3.net/npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv) - 日本のリレー投稿数を計測・集計しているbot by [ShinoharaTa](https://github.com/ShinoharaTa)
 
 ## Libraries
 
@@ -110,6 +112,7 @@
 * [nosvelte](https://github.com/akiomik/nosvelte) - An experimental Svelte library for building Nostr apps easily. by [akiomik](https://github.com/akiomik)
 * [lophus](https://github.com/hasundue/lophus) - Yet another TypeScript library for Nostr. by [hasundue](https://github.com/hasundue)
 * [n8n-nodes-Nostrobots](https://github.com/ocknamo/n8n-nodes-nostrobots) - An [n8n](https://n8n.io/) node for nostr. by [ocknamo](https://github.com/ocknamo)
+* [nostr-key-value](https://github.com/ShinoharaTa/nostr-key-value) - NIP-78 (kind: 30078) を使用した key-value Storage by [ShinoharaTa](https://github.com/ShinoharaTa)
 
 ## Books/Articles
 
