@@ -257,6 +257,15 @@ caption = "Web Services"
   author_url = ["https://github.com/ocknamo"]
 
 
+  [WebServices.nostr-hottrr]
+  name = "野州田川水系 定点観測所"
+  address = "https://nostr-hotter-site.vercel.app"
+  description = "nostr Relay (JP) site that displays the number of posts in a graph."
+  description_ja = "nostr リレー（JP）の投稿数をグラフ表示してくれるサイト"
+  author_name = ["ShinoharaTa"]
+  author_url = ["https://github.com/ShinoharaTa"]
+
+
 [WebClients]
 
 caption = "Web Clients"
@@ -736,6 +745,15 @@ caption = "Bots"
   author_url = ["https://github.com/AsaiToshiya"]
 
 
+  [Bots.npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv]
+  name = "流速ちゃん"
+  address = "https://nostx.shino3.net/npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv"
+  description = "BOT measuring and tabulating the number of relay submissions in Japan"
+  description_ja = "日本のリレー投稿数を計測・集計しているbot"
+  author_name = ["ShinoharaTa"]
+  author_url = ["https://github.com/ShinoharaTa"]
+
+
 [Libraries]
 
 caption = "Libraries"
@@ -792,6 +810,15 @@ caption = "Libraries"
   description_ja = ""
   author_name = ["ocknamo"]
   author_url = ["https://github.com/ocknamo"]
+
+
+  [Libraries.nostr-key-value]
+  name = "nostr-key-value"
+  address = "https://github.com/ShinoharaTa/nostr-key-value"
+  description = "Use nostr NIP-78 (kind: 30078) Key Value Storage"
+  description_ja = "NIP-78 (kind: 30078) を使用した key-value Storage"
+  author_name = ["ShinoharaTa"]
+  author_url = ["https://github.com/ShinoharaTa"]
 
 
 [BooksArticles]
