@@ -77,10 +77,10 @@ caption = "Relays"
   [Relays.nostr-relay_nokotaro_com]
   name = ""
   address = "wss://nostr-relay.nokotaro.com"
-  description = ""
-  description_ja = ""
+  description = "World wide relay"
+  description_ja = "ワールドワイドリレー"
   author_name = ["Nokotaro Takeda"]
-  author_url = ["https://nostx.shino3.net/npub12ftld459xqw7s7fqnxstzu7r74l5yagxztwcwmaqj4d24jgpj2csee3mx0"]
+  author_url = ["https://github.com/nokotaro"]
 
 [WebServices]
 
