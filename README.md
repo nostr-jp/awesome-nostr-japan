@@ -114,6 +114,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 ## Blog Entries
 
 * [Nostrプロトコル(damus)を触ってみた](https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286)
+* [Nostr：言論の自由が守られるプロトコル](https://stacksats.jp/nostr/) - by [yutaro](https://nostrplebs.com/s/yutaro)
 * [Nostr の公式マスコットは“なぜ“ダチョウなの？](https://stacksats.jp/nostrich/) - by [yutaro](https://nostrplebs.com/s/yutaro)
 * [Damus (ダムス) for Nostr](https://stacksats.jp/damus-nostr/) - by [yutaro](https://nostrplebs.com/s/yutaro)
  
