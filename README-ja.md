@@ -27,6 +27,7 @@
 * [Speaking nostr's post on web radio by murasaki](http://ik1-219-79732.vs.sakura.ne.jp:5000/nostr_listen.html) - murasakiを用いたnostrの投稿を読み上げるWebラジオ by [淀川](https://nostx.shino3.net/npub15w7wp9wdp6p53vy5eysph5xryu82ltmc7am9zl6pqyexmt6ukllst6ddy2)
 * [Nosaray](https://github.com/jiftechnify/nosaray) - 過去の投稿を取得するツール by [jiftechnify](https://github.com/jiftechnify)
 * [nostr-notes-duplicate](https://nostrlogs-relay-jp.nostr.wirednet.jp/nostr-notes-duplicate.html) - 複数リレー間の投稿同期ツール by [imksoo](https://github.com/imksoo)
+* [nostrlogs](https://nostrlogs-relay-jp.nostr.wirednet.jp/nostrlogs.html) - 過去の投稿の表示と、別リレーへの投稿同期ツール by [imksoo](https://github.com/imksoo)
 * [NostrFlu](https://heguro.github.io/nostr-following-list-util/) - Nostr Following List Util: Nostrのフォローリストを集めたり再送信するやつ by [heguro](https://github.com/heguro)
 * [NosTx](https://github.com/ShinoharaTa/Nostx) - To Nostr client transformer from note & userpub key by [ShinoharaTa](https://github.com/ShinoharaTa/Nostx)
 * [Nostr search portal](https://nostr.hoku.in/) - Nostr上の日本語のNote（つぶやき）をキーワード検索できるポータル by [hoku](https://iris.to/hoku@nostr.hoku.in)

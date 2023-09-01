@@ -27,6 +27,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [Speaking nostr's post on web radio by murasaki](http://ik1-219-79732.vs.sakura.ne.jp:5000/nostr_listen.html) by [淀川](https://nostx.shino3.net/npub15w7wp9wdp6p53vy5eysph5xryu82ltmc7am9zl6pqyexmt6ukllst6ddy2)
 * [Nosaray](https://github.com/jiftechnify/nosaray) - Wayback Machine for Nostr by [jiftechnify](https://github.com/jiftechnify)
 * [nostr-notes-duplicate](https://nostrlogs-relay-jp.nostr.wirednet.jp/nostr-notes-duplicate.html) - Post synchronization tool to multiple relays  by [imksoo](https://github.com/imksoo)
+* [nostrlogs](https://nostrlogs-relay-jp.nostr.wirednet.jp/nostrlogs.html) - Fetch posts from multi relays and submit to a selected relay by [imksoo](https://github.com/imksoo)
 * [NostrFlu](https://heguro.github.io/nostr-following-list-util/) - Find and display past kind:3 (Contacts) events from multiple relays, backup and etc by [heguro](https://github.com/heguro)
 * [NosTx](https://github.com/ShinoharaTa/Nostx) - To Nostr client transformer from note & userpub key by [ShinoharaTa](https://github.com/ShinoharaTa/Nostx)
 * [Nostr search portal](https://nostr.hoku.in/) - Nostr portal. Big function is  a search engine in japanese. and etc. by [hoku](https://iris.to/hoku@nostr.hoku.in)
