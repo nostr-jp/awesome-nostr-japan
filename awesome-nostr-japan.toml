@@ -179,7 +179,7 @@ caption = "Web Services"
   [WebServices.nostr-notes-duplicate]
   name = "nostr-notes-duplicate"
   address = "https://nostrlogs-relay-jp.nostr.wirednet.jp/nostr-notes-duplicate.html"
-  description = "Post synchronization tool to multiple relays "
+  description = "Post synchronization tool to multiple relays"
   description_ja = "複数リレー間の投稿同期ツール"
   author_name = ["imksoo"]
   author_url = ["https://github.com/imksoo"]
