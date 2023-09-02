@@ -185,6 +185,15 @@ caption = "Web Services"
   author_url = ["https://github.com/imksoo"]
 
 
+  [WebServices.nostrlogs]
+  name = "nostrlogs"
+  address = "https://nostrlogs-relay-jp.nostr.wirednet.jp/nostrlogs.html"
+  description = "Fetch posts from multi relays and submit to a selected relay"
+  description_ja = "過去の投稿の表示と、別リレーへの投稿同期ツール"
+  author_name = ["imksoo"]
+  author_url = ["https://github.com/imksoo"]
+
+
   [WebServices.NostrFlu]
   name = "NostrFlu"
   address = "https://heguro.github.io/nostr-following-list-util/"
