@@ -439,6 +439,15 @@ caption = "Bots"
   author_url = ["https://github.com/mattn"]
 
 
+  [Bots.markovbot]
+  name = "haiku"
+  address = "https://iris.to/markovbot@mattn.github.io"
+  description = "Markov chain bot"
+  description_ja = "マルコフ連鎖ボット"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
   [Bots.golang_news]
   name = "golang_news"
   address = "https://iris.to/golang_news@mattn.github.io"
