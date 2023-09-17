@@ -324,6 +324,15 @@ caption = "Web Clients"
   author_url = ["https://github.com/murakmii"]
 
 
+  [WebClients.Unyu_house]
+  name = "うにゅうハウス"
+  address = "https://unyu-house.vercel.app"
+  description = "The web client for NIP-28(Public Chat)."
+  description_ja = "NIP-28(パブリックチャット)用Webクライアント"
+  author_name = ["nikolat"]
+  author_url = ["https://github.com/nikolat"]
+
+
   [WebClients.nos_today]
   name = "nos.today"
   address = "https://nos.today/"
