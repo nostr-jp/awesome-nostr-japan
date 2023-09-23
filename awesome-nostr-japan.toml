@@ -74,6 +74,14 @@ caption = "Relays"
   author_name = ["αυγοτάραχο σολωμου"]
   author_url = ["https://nostx.shino3.net/npub1xmqfm9s0yxyadzjh0cp7gsf7fxy0xfgaq23cp9p7fnee6cehrlxq6c6tkw"]
 
+  [Relays.yabu_me]
+  name = ""
+  address = "wss://yabu.me"
+  description = "Aggregator relay for (mainly) Japanese users."
+  description_ja = "(主に) 日本ユーザー向けのアグリゲーターリレー"
+  author_name = ["αυγοτάραχο σολωμου"]
+  author_url = ["https://yabu.me/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7"]
+
   [Relays.nostr-relay_nokotaro_com]
   name = ""
   address = "wss://nostr-relay.nokotaro.com"
