@@ -12,6 +12,7 @@
 * `wss://nostr-world.h3z.jp` - 海外から "nostr.h3z.jp" にアクセスするためのリレー ※現在停止中 by [h3z](https://h3z.jp/)
 * `wss://nostr.holybea.com` by [ほりべあ](https://holybea.com)
 * `wss://nostr.fediverse.jp` by [αυγοτάραχο σολωμου](https://nostx.shino3.net/npub1xmqfm9s0yxyadzjh0cp7gsf7fxy0xfgaq23cp9p7fnee6cehrlxq6c6tkw)
+* `wss://yabu.me` - (主に) 日本ユーザー向けのアグリゲーターリレー by [αυγοτάραχο σολωμου](https://yabu.me/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7)
 * `wss://nostr-relay.nokotaro.com` - ワールドワイドリレー by [Nokotaro Takeda](https://github.com/nokotaro)
 
 ## Web Services

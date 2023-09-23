@@ -12,6 +12,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * `wss://nostr-world.h3z.jp` - Relay to access "nostr.h3z.jp" from overseas (non-operational) by [h3z](https://h3z.jp/)
 * `wss://nostr.holybea.com` by [ほりべあ](https://holybea.com)
 * `wss://nostr.fediverse.jp` by [αυγοτάραχο σολωμου](https://nostx.shino3.net/npub1xmqfm9s0yxyadzjh0cp7gsf7fxy0xfgaq23cp9p7fnee6cehrlxq6c6tkw)
+* `wss://yabu.me` - Aggregator relay for (mainly) Japanese users. by [αυγοτάραχο σολωμου](https://yabu.me/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7)
 * `wss://nostr-relay.nokotaro.com` - World wide relay by [Nokotaro Takeda](https://github.com/nokotaro)
 
 ## Web Services
