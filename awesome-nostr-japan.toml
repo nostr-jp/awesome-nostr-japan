@@ -90,6 +90,22 @@ caption = "Relays"
   author_name = ["Nokotaro Takeda"]
   author_url = ["https://github.com/nokotaro"]
 
+  [Relays.nrelay_c-stellar_net]
+  name = ""
+  address= "wss://nrelay.c-stellar.net"
+  description = "Relay that only allows followers of the operator to write"
+  description_ja = "運営者のフォロワーのみ書き込み可能なリレー"
+  author_name = ["jiftechnify"]
+  author_url = ["https://github.com/jiftechnify"]
+
+  [Relays.nrelay-jp_c-stellar_net]
+  name = ""
+  address= "wss://nrelay-jp.c-stellar.net"
+  description = "Japanese oriented relay"
+  description_ja = "日本向けリレー"
+  author_name = ["jiftechnify"]
+  author_url = ["https://github.com/jiftechnify"]
+
 [WebServices]
 
 caption = "Web Services"
@@ -359,6 +375,24 @@ caption = "Web Clients"
   author_url = ["https://github.com/nikolat"]
 
 
+  [WebClients.vscode-nostr-client]
+  name = "vscode-nostr-client"
+  address = "https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client"
+  description = "Nostr client as a VSCode extension."
+  description_ja = "VSCode拡張機能として動作するNostrクライアント"
+  author_name = ["jiftechnify"]
+  author_url = ["https://github.com/jiftechnify"]
+
+
+  [WebClients.nostatus]
+  name = "nostatus"
+  address = "https://nostatus.vercel.app"
+  description = "A nostr client that specializes in browsing user statuses (NIP-38)."
+  description_ja = "ユーザステータス(NIP-38) の閲覧に特化したクライアント"
+  author_name = ["jiftechnify"]
+  author_url = ["https://github.com/jiftechnify"]
+
+
 [CLIClients]
 
 caption = "CLI Clients"
@@ -388,6 +422,15 @@ caption = "CLI Clients"
   description_ja = ""
   author_name = ["mitsugu oyama (orzbruford)"]
   author_url = ["https://github.com/mitsugu"]
+
+
+  [CLIClients.nosdump]
+  name = "nosdump"
+  address = "https://github.com/jiftechnify/nosdump"
+  description = "A cli tool for dumping events stored in relays"
+  description_ja = "リレーに保存されたイベントをダンプするCLIツール"
+  author_name = ["jiftechnify"]
+  author_url = ["https://github.com/jiftechnify"]
 
 
 [RelayImplementations]
