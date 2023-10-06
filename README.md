@@ -38,6 +38,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostr-reversi](https://github.com/studiokaiji/nostr-reversi) - Reversi working on Nostr by [kaiji](https://github.com/studiokaiji)
 * [shotr](https://6or.cc/) - Shorted URL service powered by nostr. [https://github.com/ocknamo/shotr](https://github.com/ocknamo/shotr) by [ocknamo](https://github.com/ocknamo)
 * [野州田川水系 定点観測所](https://nostr-hotter-site.vercel.app) - nostr Relay (JP) site that displays the number of posts in a graph. by [ShinoharaTa](https://github.com/ShinoharaTa)
+* [nosey](https://nosey.vercel.app) - Search engine for nostr by [akiomik](https://github.com/akiomik)
 
 ## Web Clients
 

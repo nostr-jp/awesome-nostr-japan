@@ -283,6 +283,15 @@ caption = "Web Services"
   author_url = ["https://github.com/ShinoharaTa"]
 
 
+  [WebServices.nosey]
+  name = "nosey"
+  address = "https://nosey.vercel.app"
+  description = "Search engine for nostr"
+  description_ja = "nostr 用サーチエンジン"
+  author_name = ["akiomik"]
+  author_url = ["https://github.com/akiomik"]
+
+
 [WebClients]
 
 caption = "Web Clients"
