@@ -70,7 +70,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 ## Bots
 
 * [haiku](https://iris.to/haiku) - [Haiku](https://en.wikipedia.org/wiki/Haiku) collector by [mattn](https://github.com/mattn)
-* [haiku](https://iris.to/markovbot@mattn.github.io) - Markov chain bot by [mattn](https://github.com/mattn)
+* [markovbot](https://iris.to/markovbot@mattn.github.io) - Markov chain bot by [mattn](https://github.com/mattn)
 * [golang_news](https://iris.to/golang_news@mattn.github.io) - [Go](https://go.dev) language news by [mattn](https://github.com/mattn)
 * [nips_changes](https://iris.to/nips_changes@mattn.github.io) - Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/) by [mattn](https://github.com/mattn)
 * [makeitquote](https://iris.to/makeitquote) - Generate image of the post by [mattn](https://github.com/mattn)
