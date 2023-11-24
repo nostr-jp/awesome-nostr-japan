@@ -517,7 +517,7 @@ caption = "Bots"
 
 
   [Bots.markovbot]
-  name = "haiku"
+  name = "markovbot"
   address = "https://iris.to/markovbot@mattn.github.io"
   description = "Markov chain bot"
   description_ja = "マルコフ連鎖ボット"
