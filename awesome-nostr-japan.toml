@@ -117,8 +117,8 @@ caption = "Web Services"
   address = "https://nosutora.com"
   description = "Get NIP-05"
   description_ja = "nostr のドメイン名認証(NIP-05)を簡単にできるやつ"
-  author_name = ["https://iris.to/piyo@nosutora.com"]
-  author_url = ["https://iris.to/piyo@nosutora.com"]
+  author_name = ["https://njump.me/piyo@nosutora.com"]
+  author_url = ["https://njump.me/piyo@nosutora.com"]
 
 
   [WebServices.nostr-post-checker]
@@ -226,7 +226,7 @@ caption = "Web Services"
   description = "Nostr portal. Big function is  a search engine in japanese. and etc."
   description_ja = "Nostr上の日本語のNote（つぶやき）をキーワード検索できるポータル"
   author_name = ["hoku"]
-  author_url = ["https://iris.to/hoku@nostr.hoku.in"]
+  author_url = ["https://njump.me/hoku@nostr.hoku.in"]
 
 
   [WebServices.illust_tagged_notes_on_Nostr]
@@ -320,7 +320,7 @@ caption = "Web Clients"
   description = "Nostr client for web."
   description_ja = "Nostr Webクライアント"
   author_name = ["mouse"]
-  author_url = ["https://iris.to/mouse_484@mousedev.page"]
+  author_url = ["https://njump.me/mouse_484@mousedev.page"]
 
 
   [WebClients.Nostr_Feeds_from_relay-jp_nostr_wirednet_jp]
@@ -485,7 +485,7 @@ caption = "Bots"
 
   [Bots.haiku]
   name = "haiku"
-  address = "https://iris.to/haiku"
+  address = "https://njump.me/haiku@iris.to"
   description = "[Haiku](https://en.wikipedia.org/wiki/Haiku) collector"
   description_ja = "[俳句](https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5)コレクター"
   author_name = ["mattn"]
@@ -494,7 +494,7 @@ caption = "Bots"
 
   [Bots.markovbot]
   name = "markovbot"
-  address = "https://iris.to/markovbot@mattn.github.io"
+  address = "https://njump.me/markovbot@mattn.github.io"
   description = "Markov chain bot"
   description_ja = "マルコフ連鎖ボット"
   author_name = ["mattn"]
@@ -503,7 +503,7 @@ caption = "Bots"
 
   [Bots.golang_news]
   name = "golang_news"
-  address = "https://iris.to/golang_news@mattn.github.io"
+  address = "https://njump.me/golang_news@mattn.github.io"
   description = "[Go](https://go.dev) language news"
   description_ja = "[Go](https://go.dev) 言語ニュース"
   author_name = ["mattn"]
@@ -512,7 +512,7 @@ caption = "Bots"
 
   [Bots.nips_changes]
   name = "nips_changes"
-  address = "https://iris.to/nips_changes@mattn.github.io"
+  address = "https://njump.me/nips_changes@mattn.github.io"
   description = "Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)"
   description_ja = "[github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)のgitコミットをお知らせ"
   author_name = ["mattn"]
@@ -521,7 +521,7 @@ caption = "Bots"
 
   [Bots.makeitquote]
   name = "makeitquote"
-  address = "https://iris.to/makeitquote"
+  address = "https://njump.me/makeitquote@iris.to"
   description = "Generate image of the post"
   description_ja = "投稿から画像を生成"
   author_name = ["mattn"]
@@ -548,11 +548,11 @@ caption = "Bots"
 
   [Bots.namazu]
   name = "EEWなまずくん予報"
-  address = "https://iris.to/namazu@matsuu.org"
+  address = "https://njump.me/namazu@matsuu.org"
   description = "Earthquake Early Warning"
   description_ja = "緊急地震速報"
   author_name = ["matsuu"]
-  author_url = ["https://iris.to/matsuu@matsuu.org"]
+  author_url = ["https://njump.me/matsuu@matsuu.org"]
 
 
   [Bots.Nostify]
@@ -683,7 +683,7 @@ caption = "Bots"
 
   [Bots.cnpgirl]
   name = "ログボbot"
-  address = "https://iris.to/cnpgirl@erechorse.github.io"
+  address = "https://njump.me/cnpgirl@erechorse.github.io"
   description = "A bot to earn \"Login bonus\""
   description_ja = "\"ログインボーナス\"を獲得できるbot"
   author_name = ["erechorse"]
@@ -980,7 +980,7 @@ caption = "Slides"
   description = ""
   description_ja = ""
   author_name = ["awayuki"]
-  author_url = ["https://iris.to/awayuki"]
+  author_url = ["https://njump.me/awayuki.net"]
 
 
   [Slides.kappaseijin_nostr-study-meeting-1-by-kappaseijin]
@@ -989,7 +989,7 @@ caption = "Slides"
   description = ""
   description_ja = ""
   author_name = ["kappaseijin"]
-  author_url = ["https://iris.to/kappa.seijin.jp"]
+  author_url = ["https://njump.me/kappa.seijin.jp"]
 
 
   [Slides.s_ota_nostr-keyx-20230310]
