@@ -34,30 +34,6 @@ caption = "Relays"
   author_name = ["imksoo"]
   author_url = ["https://github.com/imksoo"]
 
-  [Relays.nostr_h3z_jp]
-  name = ""
-  address = "wss://nostr.h3z.jp"
-  description = "Free relay (non-operational)"
-  description_ja = "フリーリレー ※現在停止中"
-  author_name = ["h3z"]
-  author_url = ["https://h3z.jp/"]
-
-  [Relays.nostr-paid_h3z_jp]
-  name = ""
-  address = "wss://nostr-paid.h3z.jp"
-  description = "Paid relay (non-operational)"
-  description_ja = "有料リレー ※現在停止中"
-  author_name = ["h3z"]
-  author_url = ["https://h3z.jp/"]
-
-  [Relays.nostr-world_h3z_jp]
-  name = ""
-  address = "wss://nostr-world.h3z.jp"
-  description = "Relay to access \"nostr.h3z.jp\" from overseas (non-operational)"
-  description_ja = "海外から \"nostr.h3z.jp\" にアクセスするためのリレー ※現在停止中"
-  author_name = ["h3z"]
-  author_url = ["https://h3z.jp/"]
-
   [Relays.nostr_holybea_com]
   name = ""
   address = "wss://nostr.holybea.com"
