@@ -7,19 +7,19 @@
 * `wss://relay.nostr.wirednet.jp` - ワールドワイドリレー by [imksoo](https://github.com/imksoo)
 * `wss://relay-jp.nostr.wirednet.jp` - 日本向けリレー by [imksoo](https://github.com/imksoo)
 * `wss://ipv6.nostr.wirednet.jp` - ipv6リレー by [imksoo](https://github.com/imksoo)
-* `wss://nostr.h3z.jp` - フリーリレー ※現在停止中 by [h3z](https://h3z.jp/)
-* `wss://nostr-paid.h3z.jp` - 有料リレー ※現在停止中 by [h3z](https://h3z.jp/)
-* `wss://nostr-world.h3z.jp` - 海外から "nostr.h3z.jp" にアクセスするためのリレー ※現在停止中 by [h3z](https://h3z.jp/)
 * `wss://nostr.holybea.com` by [ほりべあ](https://holybea.com)
 * `wss://nostr.fediverse.jp` by [αυγοτάραχο σολωμου](https://nostx.shino3.net/npub1xmqfm9s0yxyadzjh0cp7gsf7fxy0xfgaq23cp9p7fnee6cehrlxq6c6tkw)
 * `wss://yabu.me` - (主に) 日本ユーザー向けのアグリゲーターリレー by [αυγοτάραχο σολωμου](https://yabu.me/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7)
 * `wss://nostr-relay.nokotaro.com` - ワールドワイドリレー by [Nokotaro Takeda](https://github.com/nokotaro)
+* `wss://nrelay.c-stellar.net` - 運営者のフォロワーのみ書き込み可能なリレー by [jiftechnify](https://github.com/jiftechnify)
+* `wss://nrelay-jp.c-stellar.net` - 日本向けリレー by [jiftechnify](https://github.com/jiftechnify)
+* `wss://relay.yozora.world` - Starlinkの衛星回線のみで運用されている有料リレー by [godzhigella](https://github.com/higedamc)
 
 ## Web Services
 
 * [Nostrends](https://nostrends.vercel.app) - nostrのトレンド表示サイト by [akiomik](https://github.com/akiomik)
 * [nostrbuzzs](https://nostrbuzzs.deno.dev) - nostrのトレンドバズワード表示サイト by [darashi](https://github.com/darashi)
-* [nosutora](https://nosutora.com) - nostr のドメイン名認証(NIP-05)を簡単にできるやつ by [https://iris.to/piyo@nosutora.com](https://iris.to/piyo@nosutora.com)
+* [nosutora](https://nosutora.com) - nostr のドメイン名認証(NIP-05)を簡単にできるやつ by [https://njump.me/piyo@nosutora.com](https://njump.me/piyo@nosutora.com)
 * [nostr-post-checker](https://koteitan.github.io/nostr-post-checker/) - イベントがどのリレーに存在し、どのリレーに存在していないかを確認できるツール by [koteitan](https://github.com/koteitan)
 * [Nosli](https://nosli.vercel.app) - Nosli (ノスリ) は、分散SNSのためのオープンプロトコルである Nostr 上の投稿まとめ作成ツール(NIP-23を使用) by [akiomik](https://github.com/akiomik)
 * [nostr-picker](https://penpenpng.github.io/nostr-picker/) - 公開鍵からお気に入り投稿を取得します by [penpenpng](https://github.com/penpenpng)
@@ -31,7 +31,7 @@
 * [nostrlogs](https://nostrlogs-relay-jp.nostr.wirednet.jp/nostrlogs.html) - 過去の投稿の表示と、別リレーへの投稿同期ツール by [imksoo](https://github.com/imksoo)
 * [NostrFlu](https://heguro.github.io/nostr-following-list-util/) - Nostr Following List Util: Nostrのフォローリストを集めたり再送信するやつ by [heguro](https://github.com/heguro)
 * [NosTx](https://github.com/ShinoharaTa/Nostx) - To Nostr client transformer from note & userpub key by [ShinoharaTa](https://github.com/ShinoharaTa/Nostx)
-* [Nostr search portal](https://nostr.hoku.in/) - Nostr上の日本語のNote（つぶやき）をキーワード検索できるポータル by [hoku](https://iris.to/hoku@nostr.hoku.in)
+* [Nostr search portal](https://nostr.hoku.in/) - Nostr上の日本語のNote（つぶやき）をキーワード検索できるポータル by [hoku](https://njump.me/hoku@nostr.hoku.in)
 * [#illust tagged notes on Nostr](https://nostr-illust.vercel.app/) - #illust タグで投稿されたイラストを表示するサイト by [murakmii](https://github.com/murakmii)
 * [BBS on Nostr](https://bbs-on-nostr.vercel.app/) - Nostr上に実験的に実装されたBBS  [https://github.com/murakmii/bbs-on-nostr](https://github.com/murakmii/bbs-on-nostr) by [murakmii](https://github.com/murakmii)
 * [nostrbbs](https://test.ikeji.ma/nostrbbs) - nostrをデータ保存場所として使う掲示板 by [ikeji](https://github.com/ikeji)
@@ -44,18 +44,22 @@
 
 * [nostter](http://nostter.vercel.app) - Nostr Webクライアント by [SnowCait](https://github.com/SnowCait)
 * [Rabbit](https://syusui-s.github.io/rabbit/) - TweetDeckライクなSolidJS製Nostr Webクライアント by [syusui-s](https://github.com/syusui-s)
-* [Astraea](https://astraea.mousedev.page) - Nostr Webクライアント by [mouse](https://iris.to/mouse_484@mousedev.page)
+* [Astraea](https://astraea.mousedev.page) - Nostr Webクライアント by [mouse](https://njump.me/mouse_484@mousedev.page)
 * [Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)](https://relay-jp.nostr.wirednet.jp/index.html) - シンプルなリレーフィードリーダー by [imksoo](https://github.com/imksoo)
 * [GARNET](https://garnet.nostrian.net) - Nostr パブリックチャット(NIP-28) クライアント by [murakmii](https://github.com/murakmii)
+* [うにゅうハウス](https://unyu-house.vercel.app) - NIP-28(パブリックチャット)用Webクライアント by [nikolat](https://github.com/nikolat)
 * [nos.today](https://nos.today/) - Web検索クライアント by [darashi](https://github.com/darashi)
 * [Nostr playground](https://snowcait.github.io/nostr-playground/) - plain JavaScriptで作成された、JSONベースのNostr Webクライアント by [SnowCait](https://github.com/SnowCait)
 * [Angolmois](https://github.com/nikolat/angolmois) - 投稿を表示すると同時に伺か互換ベースウェア(SSTPサーバー)にSSTPを送信し、ゴースト(キャラクター)に投稿を喋らせるNostr Webアプリ by [nikolat](https://github.com/nikolat)
+* [vscode-nostr-client](https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client) - VSCode拡張機能として動作するNostrクライアント by [jiftechnify](https://github.com/jiftechnify)
+* [nostatus](https://nostatus.vercel.app) - ユーザステータス(NIP-38) の閲覧に特化したクライアント by [jiftechnify](https://github.com/jiftechnify)
 
 ## CLI Clients
 
 * [algia](https://github.com/mattn/algia) - nostr向けcliアプリケーション by [mattn](https://github.com/mattn)
 * [nostk](https://github.com/mitsugu/nostk) - nostr向けcliアプリケーション by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
 * [nosp](https://github.com/mitsugu/nosp) - A tui controller and pager for nostk by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
+* [nosdump](https://github.com/jiftechnify/nosdump) - リレーに保存されたイベントをダンプするCLIツール by [jiftechnify](https://github.com/jiftechnify)
 
 ## Relay implementations
 
@@ -69,14 +73,14 @@
 
 ## Bots
 
-* [haiku](https://iris.to/haiku) - [俳句](https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5)コレクター by [mattn](https://github.com/mattn)
-* [haiku](https://iris.to/markovbot@mattn.github.io) - マルコフ連鎖ボット by [mattn](https://github.com/mattn)
-* [golang_news](https://iris.to/golang_news@mattn.github.io) - [Go](https://go.dev) 言語ニュース by [mattn](https://github.com/mattn)
-* [nips_changes](https://iris.to/nips_changes@mattn.github.io) - [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)のgitコミットをお知らせ by [mattn](https://github.com/mattn)
-* [makeitquote](https://iris.to/makeitquote) - 投稿から画像を生成 by [mattn](https://github.com/mattn)
+* [haiku](https://njump.me/haiku@iris.to) - [俳句](https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5)コレクター by [mattn](https://github.com/mattn)
+* [markovbot](https://njump.me/markovbot@mattn.github.io) - マルコフ連鎖ボット by [mattn](https://github.com/mattn)
+* [golang_news](https://njump.me/golang_news@mattn.github.io) - [Go](https://go.dev) 言語ニュース by [mattn](https://github.com/mattn)
+* [nips_changes](https://njump.me/nips_changes@mattn.github.io) - [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)のgitコミットをお知らせ by [mattn](https://github.com/mattn)
+* [makeitquote](https://njump.me/makeitquote@iris.to) - 投稿から画像を生成 by [mattn](https://github.com/mattn)
 * [nullpoga](https://nostx.shino3.net/npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc) - いろいろbot by [mattn](https://github.com/mattn)
 * [mahjong](https://nostx.shino3.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x) - 麻雀ゲームbot by [mattn](https://github.com/mattn)
-* [EEWなまずくん予報](https://iris.to/namazu@matsuu.org) - 緊急地震速報 by [matsuu](https://iris.to/matsuu@matsuu.org)
+* [EEWなまずくん予報](https://njump.me/namazu@matsuu.org) - 緊急地震速報 by [matsuu](https://njump.me/matsuu@matsuu.org)
 * [Nostify](https://github.com/kojira/nostify) - Nostrのリレーサーバーに接続して、discordに投稿するdiscord bot by [kojira](https://github.com/kojira)
 * [Nostr-chan](https://github.com/kojira/nostr-chan) - ChatGPTにより会話できるbot by [kojira](https://github.com/kojira)
 * [Nostrchan](https://nostx.shino3.net/npub1f2v6jwct47c2wx5849zzyv5hmpkzulmj3tj44s0r5h7ljxfyay3s5fp3te) - ChatGPTにより会話できるbot by [kojira](https://github.com/kojira)
@@ -91,7 +95,7 @@
 * [日本人ユーザー (bot)](https://nostx.shino3.net/npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p) - 日本語圏ユーザーをフォロー by [SnowCait](https://github.com/SnowCait)
 * [REQ](https://nostx.shino3.net/npub1x22zy06nn8h44cycdv4trxp8v0dv8qq3ayahpkrcn3rh90gp552sqs8hmv) - REQ応答を返却するbot by [SnowCait](https://github.com/SnowCait)
 * [search](https://nostx.shino3.net/npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26) - 検索を補助するbot by [SnowCait](https://github.com/SnowCait)
-* [ログボbot](https://iris.to/cnpgirl@erechorse.github.io) - "ログインボーナス"を獲得できるbot by [erechorse](https://nostx.shino3.net/npub17syr9cntr5f03gnhz7mqdxtt4mmgh39khpky5dw2sflkl09l2y0qra94wl)
+* [ログボbot](https://njump.me/cnpgirl@erechorse.github.io) - "ログインボーナス"を獲得できるbot by [erechorse](https://nostx.shino3.net/npub17syr9cntr5f03gnhz7mqdxtt4mmgh39khpky5dw2sflkl09l2y0qra94wl)
 * [じほう](https://nostx.shino3.net/npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7) - 日本標準時に基づいてお知らせするbot by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [tm2](https://nostx.shino3.net/npub16n4x0pvu38xw9ghjt3qlpm7grk5zn8cgdc6wlaravcvq0hxgaxpq7f06cx) - 日本標準時に基づいてお知らせするbot by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [やぶみちゃん](https://nostx.shino3.net/npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r) - wss://yabu.me リレーbot by [𓃠](https://nostx.shino3.net/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7)
@@ -134,8 +138,8 @@
 
 * [話題の投稿がみれるサービス Nostrendsをつくったよ🤙 / About Nostrends](https://speakerdeck.com/akiomik/about-nostrends) by [akiomik](https://github.com/akiomik)
 * [Nostr版togetterのNosliとNIP-33 / About Nosli and NIP-33](https://speakerdeck.com/akiomik/about-nosli-and-nip-33) by [akiomik](https://github.com/akiomik)
-* [とある絵描きの Nostr の楽しみかた](https://speakerdeck.com/awayukinet/toaruhui-miao-kino-nostr-nole-simikata) by [awayuki](https://iris.to/awayuki)
-* [NIP-11a(NIP-111)の要望と変遷](https://speakerdeck.com/kappaseijin/nostr-study-meeting-1-by-kappaseijin) by [kappaseijin](https://iris.to/kappa.seijin.jp)
+* [とある絵描きの Nostr の楽しみかた](https://speakerdeck.com/awayukinet/toaruhui-miao-kino-nostr-nole-simikata) by [awayuki](https://njump.me/awayuki.net)
+* [NIP-11a(NIP-111)の要望と変遷](https://speakerdeck.com/kappaseijin/nostr-study-meeting-1-by-kappaseijin) by [kappaseijin](https://njump.me/kappa.seijin.jp)
 * [Passkey Authentication with Nostr (NIP-07, nostr-keyx, YubiKey)](https://speakerdeck.com/s_ota/nostr-keyx-20230310) by [susumuota](https://github.com/susumuota)
 
 ## Videos
