@@ -121,6 +121,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [lophus](https://github.com/hasundue/lophus) - Yet another TypeScript library for Nostr. by [hasundue](https://github.com/hasundue)
 * [n8n-nodes-Nostrobots](https://github.com/ocknamo/n8n-nodes-nostrobots) - An [n8n](https://n8n.io/) node for nostr. by [ocknamo](https://github.com/ocknamo)
 * [nostr-key-value](https://github.com/ShinoharaTa/nostr-key-value) - Use nostr NIP-78 (kind: 30078) Key Value Storage by [ShinoharaTa](https://github.com/ShinoharaTa)
+* [snow-actions/nostr](https://github.com/snow-actions/nostr) - Send EVENT on GitHub Actions by [SnowCait](https://github.com/SnowCait)
 
 ## Books/Articles
 
