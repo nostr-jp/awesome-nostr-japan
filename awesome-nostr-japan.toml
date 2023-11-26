@@ -109,7 +109,7 @@ caption = "Relays"
   [Relays.relay_yozora_world]
   name = ""
   address= "wss://relay.yozora.world"
-  description = "Paid relay via Stalink's satellite network"
+  description = "Paid relay via Starlink's satellite network"
   description_ja = "Starlinkの衛星回線のみで運用されている有料リレー"
   author_name = ["godzhigella"]
   author_url = ["https://github.com/higedamc"]
