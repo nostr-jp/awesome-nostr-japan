@@ -892,6 +892,15 @@ caption = "Libraries"
   author_url = ["https://github.com/ShinoharaTa"]
 
 
+  [Libraries."snow-actions/nostr"]
+  name = "snow-actions/nostr"
+  address = "https://github.com/snow-actions/nostr"
+  description = "Send EVENT on GitHub Actions"
+  description_ja = "EVENT を送信する GitHub Actions"
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
+
+
 [BooksArticles]
 
 caption = "Books/Articles"
