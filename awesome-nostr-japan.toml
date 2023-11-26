@@ -292,6 +292,15 @@ caption = "Web Services"
   author_url = ["https://github.com/akiomik"]
 
 
+  [WebServices."nostr.json generator"]
+  name = "nostr.json generator"
+  address = "https://snowcait.github.io/nostr-json-generator"
+  description = "Generate nostr.json from NIP-65 or NIP-07"
+  description_ja = "NIP-65 または NIP-07 から nostr.json を生成"
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
+
+
 [WebClients]
 
 caption = "Web Clients"
