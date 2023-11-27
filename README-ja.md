@@ -39,6 +39,7 @@
 * [shotr](https://6or.cc/) - nostrで動作するURL短縮サービス [https://github.com/ocknamo/shotr](https://github.com/ocknamo/shotr) by [ocknamo](https://github.com/ocknamo)
 * [野州田川水系 定点観測所](https://nostr-hotter-site.vercel.app) - nostr リレー（JP）の投稿数をグラフ表示してくれるサイト by [ShinoharaTa](https://github.com/ShinoharaTa)
 * [nosey](https://nosey.vercel.app) - nostr 用サーチエンジン by [akiomik](https://github.com/akiomik)
+* [nostr.json generator](https://snowcait.github.io/nostr-json-generator) - NIP-65 または NIP-07 から nostr.json を生成 by [SnowCait](https://github.com/SnowCait)
 
 ## Web Clients
 
@@ -121,6 +122,7 @@
 * [lophus](https://github.com/hasundue/lophus) - Yet another TypeScript library for Nostr. by [hasundue](https://github.com/hasundue)
 * [n8n-nodes-Nostrobots](https://github.com/ocknamo/n8n-nodes-nostrobots) - An [n8n](https://n8n.io/) node for nostr. by [ocknamo](https://github.com/ocknamo)
 * [nostr-key-value](https://github.com/ShinoharaTa/nostr-key-value) - NIP-78 (kind: 30078) を使用した key-value Storage by [ShinoharaTa](https://github.com/ShinoharaTa)
+* [snow-actions/nostr](https://github.com/snow-actions/nostr) - EVENT を送信する GitHub Actions by [SnowCait](https://github.com/SnowCait)
 
 ## Books/Articles
 

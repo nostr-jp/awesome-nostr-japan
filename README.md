@@ -39,6 +39,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [shotr](https://6or.cc/) - Shorted URL service powered by nostr. [https://github.com/ocknamo/shotr](https://github.com/ocknamo/shotr) by [ocknamo](https://github.com/ocknamo)
 * [野州田川水系 定点観測所](https://nostr-hotter-site.vercel.app) - nostr Relay (JP) site that displays the number of posts in a graph. by [ShinoharaTa](https://github.com/ShinoharaTa)
 * [nosey](https://nosey.vercel.app) - Search engine for nostr by [akiomik](https://github.com/akiomik)
+* [nostr.json generator](https://snowcait.github.io/nostr-json-generator) - Generate nostr.json from NIP-65 or NIP-07 by [SnowCait](https://github.com/SnowCait)
 
 ## Web Clients
 
@@ -121,6 +122,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [lophus](https://github.com/hasundue/lophus) - Yet another TypeScript library for Nostr. by [hasundue](https://github.com/hasundue)
 * [n8n-nodes-Nostrobots](https://github.com/ocknamo/n8n-nodes-nostrobots) - An [n8n](https://n8n.io/) node for nostr. by [ocknamo](https://github.com/ocknamo)
 * [nostr-key-value](https://github.com/ShinoharaTa/nostr-key-value) - Use nostr NIP-78 (kind: 30078) Key Value Storage by [ShinoharaTa](https://github.com/ShinoharaTa)
+* [snow-actions/nostr](https://github.com/snow-actions/nostr) - Send EVENT on GitHub Actions by [SnowCait](https://github.com/SnowCait)
 
 ## Books/Articles
 

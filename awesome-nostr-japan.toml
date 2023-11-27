@@ -292,6 +292,15 @@ caption = "Web Services"
   author_url = ["https://github.com/akiomik"]
 
 
+  [WebServices."nostr.json generator"]
+  name = "nostr.json generator"
+  address = "https://snowcait.github.io/nostr-json-generator"
+  description = "Generate nostr.json from NIP-65 or NIP-07"
+  description_ja = "NIP-65 または NIP-07 から nostr.json を生成"
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
+
+
 [WebClients]
 
 caption = "Web Clients"
@@ -890,6 +899,15 @@ caption = "Libraries"
   description_ja = "NIP-78 (kind: 30078) を使用した key-value Storage"
   author_name = ["ShinoharaTa"]
   author_url = ["https://github.com/ShinoharaTa"]
+
+
+  [Libraries."snow-actions/nostr"]
+  name = "snow-actions/nostr"
+  address = "https://github.com/snow-actions/nostr"
+  description = "Send EVENT on GitHub Actions"
+  description_ja = "EVENT を送信する GitHub Actions"
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
 
 
 [BooksArticles]
