@@ -90,6 +90,14 @@ caption = "Relays"
   author_name = ["godzhigella"]
   author_url = ["https://github.com/higedamc"]
 
+  [Relays.r_kojira_io]
+  name = ""
+  address = "wss://r.kojira.io"
+  description = "Japanese oriented relay"
+  description_ja = "日本向けリレー"
+  author_name = ["kojira"]
+  author_url = ["https://github.com/kojira"]
+
 [WebServices]
 
 caption = "Web Services"
