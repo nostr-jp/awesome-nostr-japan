@@ -1058,6 +1058,24 @@ caption = "Videos"
   author_url = ["https://428lab.net/"]
 
 
+  [Videos.nostrstudy_2]
+  name = "Nostr勉強会#2 (nostrstudy #2)"
+  address = "https://www.youtube.com/watch?v=j7IZeAzL67M"
+  description = "nostr conference 3 in Japan powered"
+  description_ja = "オンラインで開催されたnostr勉強会(3回目)"
+  author_name = ["四谷ラボ"]
+  author_url = ["https://428lab.net/"]
+
+
+  [Videos.nostrstudy_3]
+  name = "Nostr勉強会#3 (nostrstudy #3)"
+  address = "https://www.youtube.com/watch?v=t3VkJpr1_sA"
+  description = "nostr conference 4 in Japan powered"
+  description_ja = "オンラインで開催されたnostr勉強会(4回目)"
+  author_name = ["四谷ラボ"]
+  author_url = ["https://428lab.net/"]
+
+
   [Videos.nostrstudy_1_public_viewing]
   name = "Nostr勉強会#1 [わいがや副音声] (nostrstudy #1 public viewing)"
   address = "https://youtube.com/live/jHuMltEjp2w"
@@ -1065,6 +1083,46 @@ caption = "Videos"
   description_ja = "nostr勉強会パブリックビューイング会場"
   author_name = ["ROBO358"]
   author_url = ["https://www.robo358.com/"]
+
+
+  [Videos.nostrstudy_2_public_viewing]
+  name = "Nostr勉強会#2 [わいがや副音声] (nostrstudy #2 public viewing)"
+  address = "https://www.youtube.com/watch?v=vJlTeZtRl0k"
+  description = "public viewing of the conference powered"
+  description_ja = "nostr勉強会パブリックビューイング会場"
+  author_name = ["ROBO358"]
+  author_url = ["https://www.robo358.com/"]
+
+
+  [Videos.nostrstudy_3_public_viewing]
+  name = "Nostr勉強会#3 [わいがや副音声] (nostrstudy #3 public viewing)"
+  address = "https://www.youtube.com/watch?v=7AjroI3liEA"
+  description = "public viewing of the conference powered"
+  description_ja = "nostr勉強会パブリックビューイング会場"
+  author_name = ["ROBO358"]
+  author_url = ["https://www.robo358.com/"]
+
+
+  [Videos.event_sns_study_1]
+  name = "新時代の分散型SNS勉強会"
+  address = "https://www.youtube.com/watch?v=zdWKM9Lpaok"
+  description = ""
+  description_ja = ""
+  author_name = ["四谷ラボ"]
+  author_url = ["https://428lab.net/"]
+
+
+[Event]
+
+caption = "Events"
+
+  [Events.event_sns_study_1]
+  name = "新時代の分散型SNS勉強会"
+  address = "https://428lab.connpass.com/event/300313/"
+  description = ""
+  description_ja = ""
+  author_name = ["四谷ラボ"]
+  author_url = ["https://428lab.net/"]
 
 
 [License]
