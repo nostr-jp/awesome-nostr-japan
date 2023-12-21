@@ -942,11 +942,20 @@ caption = "Books/Articles"
 
   [BooksArticles.Hello_Nostr]
   name = "Hello Nostr! 先住民が教えるNostrの歩き方"
-  address = "https://nip-book.nostr-jp.org/book/1/"
+  address = "https://techbookfest.org/product/veGeNq1tNkYFfWnZWgEC72?productVariantID=u5RZNM5e77xHH97c65PCx9"
   description = "A nostr fanzine contributed by writers and illustrators who are Japanese nostr users."
   description_ja = "日本語圏nostrユーザーによるnostr同人誌"
-  author_name = [""]
-  author_url = [""]
+  author_name = ["Yotsuya Laboratory (四谷ラボ)"]
+  author_url = ["https://428lab.net"]
+
+
+  [BooksArticles.Hello_Nostr_Blueky]
+  name = "Hello Nostr! Yo Bluesky! 分散SNSの最前線"
+  address = "https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp"
+  description = "A nostr and Bluesky fanzine contributed by writers and illustrators who are Japanese nostr and Bluesky users. (the next)"
+  description_ja = "日本語圏nostr&Blueskyユーザーによるnostr&Bluesky同人誌"
+  author_name = ["Yotsuya Laboratory (四谷ラボ)"]
+  author_url = ["https://428lab.net"]
 
 
   [BooksArticles.nostr_Scrapbox]
