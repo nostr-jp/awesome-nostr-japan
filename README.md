@@ -13,7 +13,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * `wss://nostr-relay.nokotaro.com` - World wide relay by [Nokotaro Takeda](https://github.com/nokotaro)
 * `wss://nrelay.c-stellar.net` - Relay that only allows followers of the operator to write by [jiftechnify](https://github.com/jiftechnify)
 * `wss://nrelay-jp.c-stellar.net` - Japanese oriented relay by [jiftechnify](https://github.com/jiftechnify)
-* `wss://relay.yozora.world` - Paid relay via Stalink's satellite network by [godzhigella](https://github.com/higedamc)
+* `wss://relay.yozora.world` - Paid relay via Starlink's satellite network by [godzhigella](https://github.com/higedamc)
+* `wss://r.kojira.io` - Japanese oriented relay by [kojira](https://github.com/kojira)
 
 ## Web Services
 
@@ -128,7 +129,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 
 * [SoftwareDesign](https://gihyo.jp/magazine/SD) - In a few months, SoftwareDesign, a magazine, a publisher of technical information magazines, will publish a series of articles about nostr. by [gihyo](https://gihyho.jp)
 * [Software Design 2023/7](https://gihyo.jp/magazine/SD/archive/2023/202307) - In a few months, SoftwareDesign, a magazine, a publisher of technical information magazines, will publish a series of articles about nostr. by [gihyo](https://gihyho.jp)
-* [Hello Nostr! 先住民が教えるNostrの歩き方](https://nip-book.nostr-jp.org/book/1/) - A nostr fanzine contributed by writers and illustrators who are Japanese nostr users.
+* [Hello Nostr! 先住民が教えるNostrの歩き方](https://techbookfest.org/product/veGeNq1tNkYFfWnZWgEC72?productVariantID=u5RZNM5e77xHH97c65PCx9) - A nostr fanzine contributed by writers and illustrators who are Japanese nostr users. by [Yotsuya Laboratory (四谷ラボ)](https://428lab.net)
+* [Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp) - A nostr and Bluesky fanzine contributed by writers and illustrators who are Japanese nostr and Bluesky users. (the next) by [Yotsuya Laboratory (四谷ラボ)](https://428lab.net)
 * [nostr Scrapbox](https://scrapbox.io/nostr/) - A knowledge base about nostr in Japanese.
 
 ## Blog Entries
@@ -148,7 +150,16 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 
 * [Nostr勉強会#0 (nostrstudy #0)](https://www.youtube.com/live/IbMhpGNhUuE?feature=share) - nostr conference 1 in Japan powered by [四谷ラボ](https://428lab.net/)
 * [Nostr勉強会#1 (nostrstudy #1)](https://www.youtube.com/live/J6wgG4epGK0?feature=share) - nostr conference 2 in Japan powered by [四谷ラボ](https://428lab.net/)
+* [Nostr勉強会#2 (nostrstudy #2)](https://www.youtube.com/watch?v=j7IZeAzL67M) - nostr conference 3 in Japan powered by [四谷ラボ](https://428lab.net/)
+* [Nostr勉強会#3 (nostrstudy #3)](https://www.youtube.com/watch?v=t3VkJpr1_sA) - nostr conference 4 in Japan powered by [四谷ラボ](https://428lab.net/)
 * [Nostr勉強会#1 [わいがや副音声] (nostrstudy #1 public viewing)](https://youtube.com/live/jHuMltEjp2w) - public viewing of the conference powered by [ROBO358](https://www.robo358.com/)
+* [Nostr勉強会#2 [わいがや副音声] (nostrstudy #2 public viewing)](https://www.youtube.com/watch?v=vJlTeZtRl0k) - public viewing of the conference powered by [ROBO358](https://www.robo358.com/)
+* [Nostr勉強会#3 [わいがや副音声] (nostrstudy #3 public viewing)](https://www.youtube.com/watch?v=7AjroI3liEA) - public viewing of the conference powered by [ROBO358](https://www.robo358.com/)
+* [新時代の分散型SNS勉強会](https://www.youtube.com/watch?v=zdWKM9Lpaok) by [四谷ラボ](https://428lab.net/)
+
+## Events
+
+* [新時代の分散型SNS勉強会](https://428lab.connpass.com/event/300313/) by [四谷ラボ](https://428lab.net/)
 
 ## License
 

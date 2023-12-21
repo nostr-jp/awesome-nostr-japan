@@ -14,6 +14,7 @@
 * `wss://nrelay.c-stellar.net` - 運営者のフォロワーのみ書き込み可能なリレー by [jiftechnify](https://github.com/jiftechnify)
 * `wss://nrelay-jp.c-stellar.net` - 日本向けリレー by [jiftechnify](https://github.com/jiftechnify)
 * `wss://relay.yozora.world` - Starlinkの衛星回線のみで運用されている有料リレー by [godzhigella](https://github.com/higedamc)
+* `wss://r.kojira.io` - 日本向けリレー by [kojira](https://github.com/kojira)
 
 ## Web Services
 
@@ -128,7 +129,8 @@
 
 * [SoftwareDesign](https://gihyo.jp/magazine/SD) - SoftwareDesign誌にてnostrに関する連載記事を掲載中 by [gihyo](https://gihyho.jp)
 * [Software Design 2023/7](https://gihyo.jp/magazine/SD/archive/2023/202307) - SoftwareDesign誌にてnostrに関する連載記事を掲載中 by [gihyo](https://gihyho.jp)
-* [Hello Nostr! 先住民が教えるNostrの歩き方](https://nip-book.nostr-jp.org/book/1/) - 日本語圏nostrユーザーによるnostr同人誌
+* [Hello Nostr! 先住民が教えるNostrの歩き方](https://techbookfest.org/product/veGeNq1tNkYFfWnZWgEC72?productVariantID=u5RZNM5e77xHH97c65PCx9) - 日本語圏nostrユーザーによるnostr同人誌 by [Yotsuya Laboratory (四谷ラボ)](https://428lab.net)
+* [Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp) - 日本語圏nostr&Blueskyユーザーによるnostr&Bluesky同人誌 by [Yotsuya Laboratory (四谷ラボ)](https://428lab.net)
 * [nostr Scrapbox](https://scrapbox.io/nostr/) - nostrに関する日本語情報まとめ
 
 ## Blog Entries
@@ -148,7 +150,16 @@
 
 * [Nostr勉強会#0 (nostrstudy #0)](https://www.youtube.com/live/IbMhpGNhUuE?feature=share) - オンラインで開催されたnostr勉強会(1回目) by [四谷ラボ](https://428lab.net/)
 * [Nostr勉強会#1 (nostrstudy #1)](https://www.youtube.com/live/J6wgG4epGK0?feature=share) - オンラインで開催されたnostr勉強会(2回目) by [四谷ラボ](https://428lab.net/)
+* [Nostr勉強会#2 (nostrstudy #2)](https://www.youtube.com/watch?v=j7IZeAzL67M) - オンラインで開催されたnostr勉強会(3回目) by [四谷ラボ](https://428lab.net/)
+* [Nostr勉強会#3 (nostrstudy #3)](https://www.youtube.com/watch?v=t3VkJpr1_sA) - オンラインで開催されたnostr勉強会(4回目) by [四谷ラボ](https://428lab.net/)
 * [Nostr勉強会#1 [わいがや副音声] (nostrstudy #1 public viewing)](https://youtube.com/live/jHuMltEjp2w) - nostr勉強会パブリックビューイング会場 by [ROBO358](https://www.robo358.com/)
+* [Nostr勉強会#2 [わいがや副音声] (nostrstudy #2 public viewing)](https://www.youtube.com/watch?v=vJlTeZtRl0k) - nostr勉強会パブリックビューイング会場 by [ROBO358](https://www.robo358.com/)
+* [Nostr勉強会#3 [わいがや副音声] (nostrstudy #3 public viewing)](https://www.youtube.com/watch?v=7AjroI3liEA) - nostr勉強会パブリックビューイング会場 by [ROBO358](https://www.robo358.com/)
+* [新時代の分散型SNS勉強会](https://www.youtube.com/watch?v=zdWKM9Lpaok) by [四谷ラボ](https://428lab.net/)
+
+## Events
+
+* [新時代の分散型SNS勉強会](https://428lab.connpass.com/event/300313/) by [四谷ラボ](https://428lab.net/)
 
 ## License
 
