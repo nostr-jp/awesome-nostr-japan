@@ -62,6 +62,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostk](https://github.com/mitsugu/nostk) - A cli application for nostr by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
 * [nosp](https://github.com/mitsugu/nosp) - A tui controller and pager for nostk by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
 * [nosdump](https://github.com/jiftechnify/nosdump) - A cli tool for dumping events stored in relays by [jiftechnify](https://github.com/jiftechnify)
+* [nostui](https://github.com/akiomik/nostui) - A TUI client for Nostr by [akiomik](https://github.com/akiomik)
 
 ## Relay implementations
 
