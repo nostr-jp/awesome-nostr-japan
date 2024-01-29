@@ -45,7 +45,7 @@
 ## Web Clients
 
 * [nostter](http://nostter.vercel.app) - Nostr Webクライアント by [SnowCait](https://github.com/SnowCait)
-* [Rabbit](https://syusui-s.github.io/rabbit/) - TweetDeckライクなSolidJS製Nostr Webクライアント by [syusui-s](https://github.com/syusui-s)
+* [Rabbit](https://rabbit.syusui.net/) - TweetDeckライクなNostr Webクライアント by [syusui-s](https://github.com/syusui-s)
 * [Astraea](https://astraea.mousedev.page) - Nostr Webクライアント by [mouse](https://njump.me/mouse_484@mousedev.page)
 * [Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)](https://relay-jp.nostr.wirednet.jp/index.html) - シンプルなリレーフィードリーダー by [imksoo](https://github.com/imksoo)
 * [GARNET](https://garnet.nostrian.net) - Nostr パブリックチャット(NIP-28) クライアント by [murakmii](https://github.com/murakmii)
