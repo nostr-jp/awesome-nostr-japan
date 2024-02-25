@@ -309,6 +309,15 @@ caption = "Web Services"
   author_url = ["https://github.com/SnowCait"]
 
 
+  [WebServices.findmine]
+  name = "findmine"
+  address = "https://koteitan.github.io/findmine/"
+  description = "search your posts in nostr/Bluesky/twitter/twilog."
+  description_ja = "nostr/Bluesky/twitter/twilog で自分の投稿を検索"
+  author_name = ["koteitan"]
+  author_url = ["https://github.com/koteitan"]
+
+
 [WebClients]
 
 caption = "Web Clients"
