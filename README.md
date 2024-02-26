@@ -45,7 +45,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 ## Web Clients
 
 * [nostter](http://nostter.vercel.app) - Nostr client for web. by [SnowCait](https://github.com/SnowCait)
-* [Rabbit](https://syusui-s.github.io/rabbit/) - A nostr client like TweetDeck made with SolidJS. by [syusui-s](https://github.com/syusui-s)
+* [Rabbit](https://rabbit.syusui.net/) - A nostr client like TweetDeck. by [syusui-s](https://github.com/syusui-s)
 * [Astraea](https://astraea.mousedev.page) - Nostr client for web. by [mouse](https://njump.me/mouse_484@mousedev.page)
 * [Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)](https://relay-jp.nostr.wirednet.jp/index.html) - Simple Nostr Relay Feed Reader by [imksoo](https://github.com/imksoo)
 * [GARNET](https://garnet.nostrian.net) - Nostr Public Chat(NIP-28) Client. by [murakmii](https://github.com/murakmii)

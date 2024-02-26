@@ -324,9 +324,9 @@ caption = "Web Clients"
 
   [WebClients.Rabbit]
   name = "Rabbit"
-  address = "https://syusui-s.github.io/rabbit/"
-  description = "A nostr client like TweetDeck made with SolidJS."
-  description_ja = "TweetDeckライクなSolidJS製Nostr Webクライアント"
+  address = "https://rabbit.syusui.net/"
+  description = "A nostr client like TweetDeck."
+  description_ja = "TweetDeckライクなNostr Webクライアント"
   author_name = ["syusui-s"]
   author_url = ["https://github.com/syusui-s"]
 
