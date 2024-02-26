@@ -62,6 +62,7 @@
 * [nostk](https://github.com/mitsugu/nostk) - nostr向けcliアプリケーション by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
 * [nosp](https://github.com/mitsugu/nosp) - A tui controller and pager for nostk by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
 * [nosdump](https://github.com/jiftechnify/nosdump) - リレーに保存されたイベントをダンプするCLIツール by [jiftechnify](https://github.com/jiftechnify)
+* [nostui](https://github.com/akiomik/nostui) - Nostr用TUIクライアント by [akiomik](https://github.com/akiomik)
 
 ## Relay implementations
 

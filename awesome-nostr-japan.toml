@@ -452,6 +452,15 @@ caption = "CLI Clients"
   author_url = ["https://github.com/jiftechnify"]
 
 
+  [CLIClients.nostui]
+  name = "nostui"
+  address = "https://github.com/akiomik/nostui"
+  description = "A TUI client for Nostr"
+  description_ja = "Nostr用TUIクライアント"
+  author_name = ["akiomik"]
+  author_url = ["https://github.com/akiomik"]
+
+
 [RelayImplementations]
 
 caption = "Relay implementations"
