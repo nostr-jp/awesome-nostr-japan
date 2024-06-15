@@ -41,6 +41,7 @@
 * [野州田川水系 定点観測所](https://nostr-hotter-site.vercel.app) - nostr リレー（JP）の投稿数をグラフ表示してくれるサイト by [ShinoharaTa](https://github.com/ShinoharaTa)
 * [nosey](https://nosey.vercel.app) - nostr 用サーチエンジン by [akiomik](https://github.com/akiomik)
 * [nostr.json generator](https://snowcait.github.io/nostr-json-generator) - NIP-65 または NIP-07 から nostr.json を生成 by [SnowCait](https://github.com/SnowCait)
+* [findmine](https://koteitan.github.io/findmine/) - nostr/Bluesky/twitter/twilog で自分の投稿を検索 by [koteitan](https://github.com/koteitan)
 
 ## Web Clients
 
@@ -66,8 +67,9 @@
 
 ## Relay implementations
 
-* [nostr-relay](https://github.com/mattn/nostr-relay) - sqlite3 friendly nostr relay. backup by [litestream](https://litestream.io/) by [mattn](https://github.com/mattn)
+* [nostr-relay](https://github.com/mattn/nostr-relay) - postgresql/mysql/sqlite3 backended nostr relay. backup by [litestream](https://litestream.io/) for sqlite by [mattn](https://github.com/mattn)
 * [searchnos](https://github.com/darashi/searchnos) - NIP-50の試験的な実装 by [darashi](https://github.com/darashi)
+* [nostr-relay](https://github.com/mattn/cagliostr) - C++ implementation of Nostr relay by [mattn](https://github.com/mattn)
 
 ## Tools
 
