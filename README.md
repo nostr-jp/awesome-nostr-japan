@@ -41,6 +41,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [野州田川水系 定点観測所](https://nostr-hotter-site.vercel.app) - nostr Relay (JP) site that displays the number of posts in a graph. by [ShinoharaTa](https://github.com/ShinoharaTa)
 * [nosey](https://nosey.vercel.app) - Search engine for nostr by [akiomik](https://github.com/akiomik)
 * [nostr.json generator](https://snowcait.github.io/nostr-json-generator) - Generate nostr.json from NIP-65 or NIP-07 by [SnowCait](https://github.com/SnowCait)
+* [findmine](https://koteitan.github.io/findmine/) - search your posts in nostr/Bluesky/twitter/twilog. by [koteitan](https://github.com/koteitan)
 
 ## Web Clients
 
@@ -66,8 +67,9 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 
 ## Relay implementations
 
-* [nostr-relay](https://github.com/mattn/nostr-relay) - sqlite3 friendly nostr relay. backup by [litestream](https://litestream.io/) by [mattn](https://github.com/mattn)
+* [nostr-relay](https://github.com/mattn/nostr-relay) - postgresql/mysql/sqlite3 backended nostr relay. backup by [litestream](https://litestream.io/) for sqlite by [mattn](https://github.com/mattn)
 * [searchnos](https://github.com/darashi/searchnos) - An experimental implementation of NIP-50. by [darashi](https://github.com/darashi)
+* [nostr-relay](https://github.com/mattn/cagliostr) - C++ implementation of Nostr relay by [mattn](https://github.com/mattn)
 
 ## Tools
 

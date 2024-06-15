@@ -477,7 +477,7 @@ caption = "Relay implementations"
   [RelayImplementations.nostr-relay]
   name = "nostr-relay"
   address = "https://github.com/mattn/nostr-relay"
-  description = "sqlite3 friendly nostr relay. backup by [litestream](https://litestream.io/)"
+  description = "postgresql/mysql/sqlite3 backended nostr relay. backup by [litestream](https://litestream.io/) for sqlite"
   description_ja = ""
   author_name = ["mattn"]
   author_url = ["https://github.com/mattn"]
@@ -490,6 +490,15 @@ caption = "Relay implementations"
   description_ja = "NIP-50の試験的な実装"
   author_name = ["darashi"]
   author_url = ["https://github.com/darashi"]
+
+
+  [RelayImplementations.cagliostr]
+  name = "nostr-relay"
+  address = "https://github.com/mattn/cagliostr"
+  description = "C++ implementation of Nostr relay"
+  description_ja = ""
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
 
 
 [Tools]
