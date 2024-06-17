@@ -318,6 +318,33 @@ caption = "Web Services"
   author_url = ["https://github.com/koteitan"]
 
 
+  [WebServices.nostr-bookmark-trend]
+  name = "nostr-bookmark-trend"
+  address = "https://nikolat.github.io/nostr-bookmark-trend/"
+  description = "show Nostr events bookmarked by followees"
+  description_ja = "フォローイーがブックマークしているイベントを表示"
+  author_name = ["nikolat"]
+  author_url = ["https://github.com/nikolat"]
+
+
+  [WebServices.NostViewstr]
+  name = "NostViewstr"
+  address = "https://nostviewstr.vercel.app/"
+  description = "Web app to view and edit various Nostr events"
+  description_ja = "いろんなNostrイベントを見たり編集したりできるWebアプリ"
+  author_name = ["mono"]
+  author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
+
+
+  [WebServices.Luminostr]
+  name = "Luminostr"
+  address = "https://tsukemonogit.github.io/luminostr/"
+  description = "Find replaceable events of a specific kind from various relays, and overwrite them with the events at a specific point in time."
+  description_ja = "Nostrの特定のkindの置換可能（replaceable）イベントをいろんなリレーから探しだして、特定の時点でのイベントで上書きする"
+  author_name = ["mono"]
+  author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
+
+
 [WebClients]
 
 caption = "Web Clients"
