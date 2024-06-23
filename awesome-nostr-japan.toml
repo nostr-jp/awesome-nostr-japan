@@ -318,6 +318,15 @@ caption = "Web Services"
   author_url = ["https://github.com/koteitan"]
 
 
+  [WebServices.zapline-jp]
+  name = "Zapline-JP"
+  address = "https://tiltpapa.github.io/zapline-jp"
+  description = "Watching Zap of Japan cluster"
+  description_ja = "日本ユーザーのZapの流れを観察できるサイト"
+  author_name = ["tiltpapa"]
+  author_url = ["https://github.com/tiltpapa"]
+
+
 [WebClients]
 
 caption = "Web Clients"
