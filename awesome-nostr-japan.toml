@@ -344,6 +344,14 @@ caption = "Web Services"
   author_name = ["mono"]
   author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
 
+  [WebServices.zapline-jp]
+  name = "Zapline-JP"
+  address = "https://tiltpapa.github.io/zapline-jp"
+  description = "Watching Zap of Japan cluster"
+  description_ja = "日本ユーザーのZapの流れを観察できるサイト"
+  author_name = ["tiltpapa"]
+  author_url = ["https://github.com/tiltpapa"]
+
 
 [WebClients]
 
