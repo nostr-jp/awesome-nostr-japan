@@ -42,6 +42,10 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nosey](https://nosey.vercel.app) - Search engine for nostr by [akiomik](https://github.com/akiomik)
 * [nostr.json generator](https://snowcait.github.io/nostr-json-generator) - Generate nostr.json from NIP-65 or NIP-07 by [SnowCait](https://github.com/SnowCait)
 * [findmine](https://koteitan.github.io/findmine/) - search your posts in nostr/Bluesky/twitter/twilog. by [koteitan](https://github.com/koteitan)
+* [nostr-bookmark-trend](https://nikolat.github.io/nostr-bookmark-trend/) - show Nostr events bookmarked by followees by [nikolat](https://github.com/nikolat)
+* [NostViewstr](https://nostviewstr.vercel.app/) - Web app to view and edit various Nostr events by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
+* [Luminostr](https://tsukemonogit.github.io/luminostr/) - Find replaceable events of a specific kind from various relays, and overwrite them with the events at a specific point in time. by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
+* [Zapline-JP](https://tiltpapa.github.io/zapline-jp) - Watching Zap of Japan cluster by [tiltpapa](https://github.com/tiltpapa)
 
 ## Web Clients
 
@@ -64,6 +68,12 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nosp](https://github.com/mitsugu/nosp) - A tui controller and pager for nostk by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
 * [nosdump](https://github.com/jiftechnify/nosdump) - A cli tool for dumping events stored in relays by [jiftechnify](https://github.com/jiftechnify)
 * [nostui](https://github.com/akiomik/nostui) - A TUI client for Nostr by [akiomik](https://github.com/akiomik)
+
+## Windows Clients
+
+* [nokakoi](https://github.com/betonetojp/nokakoi) - A nostr client for Windows just to post and browse the global timeline. by [betoneto](https://github.com/betonetojp)
+* [noka](https://github.com/betonetojp/noka) - A nostr client for Windows just to browse the global timeline. by [betoneto](https://github.com/betonetojp)
+* [nostalk](https://github.com/nikolat/nostalk) - Ukagaka ghost with support for Nostr event notification via SSTP by [nikolat](https://github.com/nikolat)
 
 ## Relay implementations
 

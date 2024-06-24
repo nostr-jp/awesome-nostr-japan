@@ -42,6 +42,10 @@
 * [nosey](https://nosey.vercel.app) - nostr 用サーチエンジン by [akiomik](https://github.com/akiomik)
 * [nostr.json generator](https://snowcait.github.io/nostr-json-generator) - NIP-65 または NIP-07 から nostr.json を生成 by [SnowCait](https://github.com/SnowCait)
 * [findmine](https://koteitan.github.io/findmine/) - nostr/Bluesky/twitter/twilog で自分の投稿を検索 by [koteitan](https://github.com/koteitan)
+* [nostr-bookmark-trend](https://nikolat.github.io/nostr-bookmark-trend/) - フォローイーがブックマークしているイベントを表示 by [nikolat](https://github.com/nikolat)
+* [NostViewstr](https://nostviewstr.vercel.app/) - いろんなNostrイベントを見たり編集したりできるWebアプリ by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
+* [Luminostr](https://tsukemonogit.github.io/luminostr/) - Nostrの特定のkindの置換可能（replaceable）イベントをいろんなリレーから探しだして、特定の時点でのイベントで上書きする by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
+* [Zapline-JP](https://tiltpapa.github.io/zapline-jp) - 日本ユーザーのZapの流れを観察できるサイト by [tiltpapa](https://github.com/tiltpapa)
 
 ## Web Clients
 
@@ -64,6 +68,12 @@
 * [nosp](https://github.com/mitsugu/nosp) - A tui controller and pager for nostk by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
 * [nosdump](https://github.com/jiftechnify/nosdump) - リレーに保存されたイベントをダンプするCLIツール by [jiftechnify](https://github.com/jiftechnify)
 * [nostui](https://github.com/akiomik/nostui) - Nostr用TUIクライアント by [akiomik](https://github.com/akiomik)
+
+## Windows Clients
+
+* [nokakoi](https://github.com/betonetojp/nokakoi) - Nostrのリレーサーバーに接続して投稿したりグローバルタイムラインをリアルタイムに表示したりするアプリケーション by [betoneto](https://github.com/betonetojp)
+* [noka](https://github.com/betonetojp/noka) - Nostrのリレーサーバーに接続してグローバルタイムラインをリアルタイムに表示するアプリケーション by [betoneto](https://github.com/betonetojp)
+* [nostalk](https://github.com/nikolat/nostalk) - SSTP通信によるNostrイベント通知に対応した伺かゴースト by [nikolat](https://github.com/nikolat)
 
 ## Relay implementations
 
