@@ -505,6 +505,37 @@ caption = "CLI Clients"
   author_url = ["https://github.com/akiomik"]
 
 
+[WindowsClients]
+
+caption = "Windows Clients"
+
+  [WindowsClients.nokakoi]
+  name = "nokakoi"
+  address = "https://github.com/betonetojp/nokakoi"
+  description = "A nostr client for Windows just to post and browse the global timeline."
+  description_ja = "Nostrのリレーサーバーに接続して投稿したりグローバルタイムラインをリアルタイムに表示したりするアプリケーション"
+  author_name = ["betoneto"]
+  author_url = ["https://github.com/betonetojp"]
+
+
+  [WindowsClients.noka]
+  name = "noka"
+  address = "https://github.com/betonetojp/noka"
+  description = "A nostr client for Windows just to browse the global timeline."
+  description_ja = "Nostrのリレーサーバーに接続してグローバルタイムラインをリアルタイムに表示するアプリケーション"
+  author_name = ["betoneto"]
+  author_url = ["https://github.com/betonetojp"]
+
+
+  [WindowsClients.nostalk]
+  name = "nostalk"
+  address = "https://github.com/nikolat/nostalk"
+  description = "Ukagaka ghost with support for Nostr event notification via SSTP"
+  description_ja = "SSTP通信によるNostrイベント通知に対応した伺かゴースト"
+  author_name = ["nikolat"]
+  author_url = ["https://github.com/nikolat"]
+
+
 [RelayImplementations]
 
 caption = "Relay implementations"
