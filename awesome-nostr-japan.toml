@@ -588,6 +588,13 @@ caption = "Tools"
   author_name = ["penpenpng"]
   author_url = ["https://github.com/penpenpng"]
 
+  [Tools.nake]
+  name = "nake"
+  address = "https://github.com/TsukemonoGit/nake"
+  description = "chrome & firefox Extension easily convert between NOSTR's hexid⇔NIP-19 (bech32-encoded entities)."
+  description_ja = "NostrのHEXIDとNIP-19 (bech32-encoded entities)を簡単に相互変換できるchrome & firefox 拡張機能"
+  author_name = ["mono"]
+  author_url = ["https://github.com/TsukemonoGit"]
 
 [Bots]
 
