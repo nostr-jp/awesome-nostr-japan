@@ -46,6 +46,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [NostViewstr](https://nostviewstr.vercel.app/) - Web app to view and edit various Nostr events by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [Luminostr](https://tsukemonogit.github.io/luminostr/) - Find replaceable events of a specific kind from various relays, and overwrite them with the events at a specific point in time. by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [Zapline-JP](https://tiltpapa.github.io/zapline-jp) - Watching Zap of Japan cluster by [tiltpapa](https://github.com/tiltpapa)
+* [MAKIBISHI](https://nikolat.github.io/makibishi/) - add a star to any website by [nikolat](https://github.com/nikolat)
 
 ## Web Clients
 
@@ -85,6 +86,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - A NIP-07 browser extension that uses the OS's keychain or YubiKey to protect your private keys.  by [susumuota](https://github.com/susumuota)
 * [share-on-nostr](https://github.com/penpenpng/share-on-nostr) - Chrome extension to share URL of an active tab on Nostr. by [penpenpng](https://github.com/penpenpng)
+* [nake](https://github.com/TsukemonoGit/nake) - chrome & firefox Extension easily convert between NOSTR's hexid⇔NIP-19 (bech32-encoded entities). by [mono](https://github.com/TsukemonoGit)
 
 ## Bots
 

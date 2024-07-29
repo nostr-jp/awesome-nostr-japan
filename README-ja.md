@@ -46,6 +46,7 @@
 * [NostViewstr](https://nostviewstr.vercel.app/) - いろんなNostrイベントを見たり編集したりできるWebアプリ by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [Luminostr](https://tsukemonogit.github.io/luminostr/) - Nostrの特定のkindの置換可能（replaceable）イベントをいろんなリレーから探しだして、特定の時点でのイベントで上書きする by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [Zapline-JP](https://tiltpapa.github.io/zapline-jp) - 日本ユーザーのZapの流れを観察できるサイト by [tiltpapa](https://github.com/tiltpapa)
+* [MAKIBISHI](https://nikolat.github.io/makibishi/) - あらゆるWebサイトにスターを付けられるようにする by [nikolat](https://github.com/nikolat)
 
 ## Web Clients
 
@@ -85,6 +86,7 @@
 
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - OSキーチェーンやYubikeyを用いて秘密鍵を保護するNIP-07ブラウザ拡張 by [susumuota](https://github.com/susumuota)
 * [share-on-nostr](https://github.com/penpenpng/share-on-nostr) - アクティブなタブを短縮URLにしてNostrで共有するChrome拡張 by [penpenpng](https://github.com/penpenpng)
+* [nake](https://github.com/TsukemonoGit/nake) - NostrのHEXIDとNIP-19 (bech32-encoded entities)を簡単に相互変換できるchrome & firefox 拡張機能 by [mono](https://github.com/TsukemonoGit)
 
 ## Bots
 
