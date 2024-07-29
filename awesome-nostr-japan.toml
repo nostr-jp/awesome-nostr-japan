@@ -352,6 +352,14 @@ caption = "Web Services"
   author_name = ["tiltpapa"]
   author_url = ["https://github.com/tiltpapa"]
 
+  [WebServices.MAKIBISHI]
+  name = "MAKIBISHI"
+  address = "https://nikolat.github.io/makibishi/"
+  description = "add a star to any website"
+  description_ja = "あらゆるWebサイトにスターを付けられるようにする"
+  author_name = ["nikolat"]
+  author_url = ["https://github.com/nikolat"]
+
 
 [WebClients]
 
