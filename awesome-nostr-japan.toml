@@ -950,6 +950,15 @@ caption = "Bots"
   author_url = ["https://github.com/ShinoharaTa"]
 
 
+  [Bots.npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf]
+  name = "今日は何の日"
+  address = "https://nostx.shino3.net/npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf"
+  description = "Posts what's today"
+  description_ja = "今日は何の日かを投稿します"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
 [Libraries]
 
 caption = "Libraries"
