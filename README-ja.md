@@ -128,6 +128,7 @@
 * [ルークさん](https://nostx.shino3.net/npub185gk75vh09f9up248pjeqm53r3yvtau4cu82d32t8sxxg4qyxfcqxx3dm7) - 犬bot by [NK1961](https://nostx.shino3.net/npub1dsjzgp8mnpk3sn975t4ea98glecg5d0ahadqyxvv4thdah5eh6ssgwpg5w)
 * [NIPs 占い](https://nostx.shino3.net/npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0) - NIP占いをするbot by [AsaiToshiya](https://github.com/AsaiToshiya)
 * [流速ちゃん](https://nostx.shino3.net/npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv) - 日本のリレー投稿数を計測・集計しているbot by [ShinoharaTa](https://github.com/ShinoharaTa)
+* [今日は何の日](https://nostx.shino3.net/npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf) - 今日は何の日かを毎朝投稿します by [mattn](https://github.com/mattn)
 
 ## Libraries
 
