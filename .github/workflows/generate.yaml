@@ -1,11 +1,7 @@
 name: Generate
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - '**.toml'
+  pull_request:
 
 permissions:
   contents: write
@@ -15,18 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/create-github-app-token@v1
-        id: create_token
-        with:
-          app-id: ${{ secrets.APP_ID }}
-          private-key: ${{ secrets.PRIVATE_KEY }}
-
       - name: Checkout
         uses: actions/checkout@v4
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
-          token: ${{ steps.create_token.outputs.token }}
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
@@ -36,15 +25,10 @@ jobs:
       - name: Generate README.md
         run: |
           python toml2md.py
-
       - name: Commit and push
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git diff
-          git fetch origin
           git add -f README.md README-ja.md
           git commit -m 'generate README.md'
-          git push -f
-        env:
-          GITHUB_TOKEN: ${{ steps.create_token.outputs.token }}
+          git push
