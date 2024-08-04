@@ -98,6 +98,22 @@ caption = "Relays"
   author_name = ["kojira"]
   author_url = ["https://github.com/kojira"]
 
+  [Relays.nostr_compile_error_net]
+  name = ""
+  address = "wss://nostr.compile-error.net"
+  description = "Japanese oriented relay written in Go"
+  description_ja = "Go で書かれた日本向けリレー"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+  [Relays.cagliostr_compile_error_net]
+  name = ""
+  address = "wss://cagliostr.compile-error.net"
+  description = "Japanese oriented relay written in C++"
+  description_ja = "C++ で書かれた日本向けリレー"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
 [WebServices]
 
 caption = "Web Services"
