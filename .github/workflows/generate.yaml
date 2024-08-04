@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: tibdex/github-app-token@v2
-        id: create_token
-        with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.PRIVATE_KEY }}
+      #- uses: tibdex/github-app-token@v2
+      #  id: create_token
+      #  with:
+      #    app_id: ${{ secrets.APP_ID }}
+      #    private_key: ${{ secrets.PRIVATE_KEY }}
 
       - name: Checkout
         uses: actions/checkout@v4
@@ -43,5 +43,5 @@ jobs:
           git add -f README.md README-ja.md
           git commit -m 'generate README.md'
           git push -f
-        env:
-          GITHUB_TOKEN: ${{ steps.create_token.outputs.token }}
+        #env:
+        #  GITHUB_TOKEN: ${{ steps.create_token.outputs.token }}
