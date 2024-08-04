@@ -43,5 +43,5 @@ jobs:
           git add -f README.md README-ja.md
           git commit -m 'generate README.md'
           git push -f
-        #env:
-        #  GITHUB_TOKEN: ${{ steps.create_token.outputs.token }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
