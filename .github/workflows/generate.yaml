@@ -38,8 +38,8 @@ jobs:
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git checkout main
-          git pull origin main
+          git diff
+          git fetch origin
           git add -f README.md README-ja.md
           git commit -m 'generate README.md'
           git push -f
