@@ -954,7 +954,7 @@ caption = "Bots"
   name = "今日は何の日"
   address = "https://nostx.shino3.net/npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf"
   description = "Posts what's today"
-  description_ja = "今日は何の日かを投稿します"
+  description_ja = "今日は何の日かを毎朝投稿します"
   author_name = ["mattn"]
   author_url = ["https://github.com/mattn"]
 
