@@ -23,6 +23,8 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ steps.create_token.outputs.token }}
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
@@ -40,5 +42,3 @@ jobs:
           git add -f README.md README-ja.md
           git commit -m 'generate README.md'
           git push
-        with:
-          token: ${{ steps.create_token.outputs.token }}
