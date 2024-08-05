@@ -4,6 +4,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 
 ## Relays
 
+* [test](wss://relay.robo358.com) - test relay by [robo358](https://github.com/robo358)
 * `wss://relay.nostr.wirednet.jp` - World wide relay by [imksoo](https://github.com/imksoo)
 * `wss://relay-jp.nostr.wirednet.jp` - Japanese oriented relay by [imksoo](https://github.com/imksoo)
 * `wss://ipv6.nostr.wirednet.jp` - ipv6 relay by [imksoo](https://github.com/imksoo)
