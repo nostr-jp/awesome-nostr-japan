@@ -1,7 +1,11 @@
 name: Generate
 
 on:
-  pull_request:
+  push:
+    branches:
+      - main
+    paths:
+      - "**.toml"
 
 permissions:
   contents: write
@@ -13,9 +17,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.head_ref }}
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
@@ -25,6 +26,14 @@ jobs:
       - name: Generate README.md
         run: |
           python toml2md.py
+
+      - name: Diff
+        id: diff
+        run: |
+          git add -N .
+          git diff --name-only --exit-code
+        continue-on-error: true
+
       - name: Commit and push
         run: |
           git config --local user.name 'github-actions[bot]'
@@ -32,3 +41,4 @@ jobs:
           git add -f README.md README-ja.md
           git commit -m 'generate README.md'
           git push
+        if: steps.diff.outcome == 'failure'
