@@ -15,8 +15,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/create-github-app-token@v1
+        id: create_token
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ steps.create_token.outputs.token }}
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
@@ -27,13 +35,6 @@ jobs:
         run: |
           python toml2md.py
 
-      - name: Diff
-        id: diff
-        run: |
-          git add -N .
-          git diff --name-only --exit-code
-        continue-on-error: true
-
       - name: Commit and push
         run: |
           git config --local user.name 'github-actions[bot]'
@@ -41,4 +42,3 @@ jobs:
           git add -f README.md README-ja.md
           git commit -m 'generate README.md'
           git push
-        if: steps.diff.outcome == 'failure'
