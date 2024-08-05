@@ -591,6 +591,15 @@ caption = "Relay implementations"
   author_url = ["https://github.com/mattn"]
 
 
+  [RelayImplementations.zig-nostr-relay]
+  name = "nostr-relay"
+  address = "https://github.com/mattn/zig-nostr-relay"
+  description = "Zig implementation of Nostr relay"
+  description_ja = ""
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
 [Tools]
 
 caption = "Tools"
