@@ -4,7 +4,6 @@
 
 ## Relays
 
-* [test](wss://relay.robo358.com) - テストリレー by [robo358](https://github.com/robo358)
 * `wss://relay.nostr.wirednet.jp` - ワールドワイドリレー by [imksoo](https://github.com/imksoo)
 * `wss://relay-jp.nostr.wirednet.jp` - 日本向けリレー by [imksoo](https://github.com/imksoo)
 * `wss://ipv6.nostr.wirednet.jp` - ipv6リレー by [imksoo](https://github.com/imksoo)
