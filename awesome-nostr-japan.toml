@@ -10,6 +10,15 @@ description_ja = "日本版Awesome [nostr](https://nostr.com/). 日本製のSoft
 
 caption = "Relays"
 
+  [Relays.test]
+  name = "test"
+  address = "wss://relay.robo358.com"
+  description = "test relay"
+  description_ja = "テストリレー"
+  author_name = ["robo358"]
+  author_url = ["https://github.com/robo358"]
+
+
   [Relays.relay_nostr_wirednet_jp]
   name = ""
   address = "wss://relay.nostr.wirednet.jp"
