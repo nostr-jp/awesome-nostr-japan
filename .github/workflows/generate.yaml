@@ -34,7 +34,6 @@ jobs:
           python toml2md.py
 
       - name: Commit and push
-        uses: actions/checkout@v4
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
