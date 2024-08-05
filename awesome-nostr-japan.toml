@@ -4,7 +4,7 @@ caption = "awesome-nostr-japan"
 description = "Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bots created by Japanese. [日本語版](README-ja.md)"
 description_ja = "日本版Awesome [nostr](https://nostr.com/). 日本製のSoftware, Web service, Clients, Bots. [English version](README.md)"
 
-# Key is for reference only. 
+# Key is for reference only.
 
 [Relays]
 
@@ -1267,4 +1267,3 @@ description = "MIT"
 
 caption = "Author"
 description = "Yasuhiro Matsumoto (a.k.a. mattn)"
-
