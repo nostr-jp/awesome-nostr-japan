@@ -15,6 +15,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * `wss://nrelay-jp.c-stellar.net` - Japanese oriented relay by [jiftechnify](https://github.com/jiftechnify)
 * `wss://relay.yozora.world` - Paid relay via Starlink's satellite network by [godzhigella](https://github.com/higedamc)
 * `wss://r.kojira.io` - Japanese oriented relay by [kojira](https://github.com/kojira)
+* `wss://nostr.compile-error.net` - Japanese oriented relay written in Go by [mattn](https://github.com/mattn)
+* `wss://cagliostr.compile-error.net` - Japanese oriented relay written in C++ by [mattn](https://github.com/mattn)
 
 ## Web Services
 

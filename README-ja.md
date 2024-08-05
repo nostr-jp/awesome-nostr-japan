@@ -15,6 +15,8 @@
 * `wss://nrelay-jp.c-stellar.net` - 日本向けリレー by [jiftechnify](https://github.com/jiftechnify)
 * `wss://relay.yozora.world` - Starlinkの衛星回線のみで運用されている有料リレー by [godzhigella](https://github.com/higedamc)
 * `wss://r.kojira.io` - 日本向けリレー by [kojira](https://github.com/kojira)
+* `wss://nostr.compile-error.net` - Go で書かれた日本向けリレー by [mattn](https://github.com/mattn)
+* `wss://cagliostr.compile-error.net` - C++ で書かれた日本向けリレー by [mattn](https://github.com/mattn)
 
 ## Web Services
 
