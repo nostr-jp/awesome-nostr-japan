@@ -583,7 +583,7 @@ caption = "Relay implementations"
 
 
   [RelayImplementations.cagliostr]
-  name = "nostr-relay"
+  name = "cagliostr"
   address = "https://github.com/mattn/cagliostr"
   description = "C++ implementation of Nostr relay"
   description_ja = ""
