@@ -82,7 +82,8 @@
 
 * [nostr-relay](https://github.com/mattn/nostr-relay) - postgresql/mysql/sqlite3 backended nostr relay. backup by [litestream](https://litestream.io/) for sqlite by [mattn](https://github.com/mattn)
 * [searchnos](https://github.com/darashi/searchnos) - NIP-50の試験的な実装 by [darashi](https://github.com/darashi)
-* [nostr-relay](https://github.com/mattn/cagliostr) - C++ implementation of Nostr relay by [mattn](https://github.com/mattn)
+* [cagliostr](https://github.com/mattn/cagliostr) - C++ implementation of Nostr relay by [mattn](https://github.com/mattn)
+* [nostr-relay](https://github.com/mattn/zig-nostr-relay) - Zig implementation of Nostr relay by [mattn](https://github.com/mattn)
 
 ## Tools
 
