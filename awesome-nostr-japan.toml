@@ -376,6 +376,14 @@ caption = "Web Services"
   author_name = ["nikolat"]
   author_url = ["https://github.com/nikolat"]
 
+  [WebServices.nostr-hours]
+  name = "Nostr hours"
+  address = "https://snowcait.github.io/nostr-hours/"
+  description = "How many hours do you spend in Nostr?"
+  description_ja = "活動時間の可視化"
+  author_name = ["SnowCait"]
+  author_url = ["https://github.com/SnowCait"]
+
 
 [WebClients]
 
