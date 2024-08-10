@@ -49,6 +49,7 @@
 * [Luminostr](https://tsukemonogit.github.io/luminostr/) - Nostrの特定のkindの置換可能（replaceable）イベントをいろんなリレーから探しだして、特定の時点でのイベントで上書きする by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [Zapline-JP](https://tiltpapa.github.io/zapline-jp) - 日本ユーザーのZapの流れを観察できるサイト by [tiltpapa](https://github.com/tiltpapa)
 * [MAKIBISHI](https://nikolat.github.io/makibishi/) - あらゆるWebサイトにスターを付けられるようにする by [nikolat](https://github.com/nikolat)
+* [Nostr hours](https://snowcait.github.io/nostr-hours/) - 活動時間の可視化 by [SnowCait](https://github.com/SnowCait)
 
 ## Web Clients
 

@@ -49,6 +49,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [Luminostr](https://tsukemonogit.github.io/luminostr/) - Find replaceable events of a specific kind from various relays, and overwrite them with the events at a specific point in time. by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
 * [Zapline-JP](https://tiltpapa.github.io/zapline-jp) - Watching Zap of Japan cluster by [tiltpapa](https://github.com/tiltpapa)
 * [MAKIBISHI](https://nikolat.github.io/makibishi/) - add a star to any website by [nikolat](https://github.com/nikolat)
+* [Nostr hours](https://snowcait.github.io/nostr-hours/) - How many hours do you spend in Nostr? by [SnowCait](https://github.com/SnowCait)
 
 ## Web Clients
 
