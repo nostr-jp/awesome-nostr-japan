@@ -600,7 +600,7 @@ caption = "Relay implementations"
 
 
   [RelayImplementations.zig-nostr-relay]
-  name = "nostr-relay"
+  name = "zig-nostr-relay"
   address = "https://github.com/mattn/zig-nostr-relay"
   description = "Zig implementation of Nostr relay"
   description_ja = ""
