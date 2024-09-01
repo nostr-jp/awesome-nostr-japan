@@ -64,7 +64,6 @@
 * [Angolmois](https://github.com/nikolat/angolmois) - 投稿を表示すると同時に伺か互換ベースウェア(SSTPサーバー)にSSTPを送信し、ゴースト(キャラクター)に投稿を喋らせるNostr Webアプリ by [nikolat](https://github.com/nikolat)
 * [vscode-nostr-client](https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client) - VSCode拡張機能として動作するNostrクライアント by [jiftechnify](https://github.com/jiftechnify)
 * [nostatus](https://nostatus.vercel.app) - ユーザステータス(NIP-38) の閲覧に特化したクライアント by [jiftechnify](https://github.com/jiftechnify)
-* [danmakustr](https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb) - 通常の動画サイトでニコニコ動画のようなコメント効果を実現できるNostrベースのプラグインで、現在YouTubeに対応しています by [Cody](https://github.com/CodyTseng)
 
 ## CLI Clients
 
@@ -92,6 +91,7 @@
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - OSキーチェーンやYubikeyを用いて秘密鍵を保護するNIP-07ブラウザ拡張 by [susumuota](https://github.com/susumuota)
 * [share-on-nostr](https://github.com/penpenpng/share-on-nostr) - アクティブなタブを短縮URLにしてNostrで共有するChrome拡張 by [penpenpng](https://github.com/penpenpng)
 * [nake](https://github.com/TsukemonoGit/nake) - NostrのHEXIDとNIP-19 (bech32-encoded entities)を簡単に相互変換できるchrome & firefox 拡張機能 by [mono](https://github.com/TsukemonoGit)
+* [danmakustr](https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb) - 通常の動画サイトでニコニコ動画のようなコメント効果を実現できるNostrベースのプラグインで、現在YouTubeに対応しています by [Cody](https://github.com/CodyTseng)
 
 ## Bots
 

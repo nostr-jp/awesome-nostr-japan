@@ -64,7 +64,6 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [Angolmois](https://github.com/nikolat/angolmois) - Retrieve posts from Nostr and send SSTP to Ukagaka. by [nikolat](https://github.com/nikolat)
 * [vscode-nostr-client](https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client) - Nostr client as a VSCode extension. by [jiftechnify](https://github.com/jiftechnify)
 * [nostatus](https://nostatus.vercel.app) - A nostr client that specializes in browsing user statuses (NIP-38). by [jiftechnify](https://github.com/jiftechnify)
-* [danmakustr](https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb) - A Nostr-based chrome extension that allows ordinary video websites to achieve a comment effect similar to Niconico, currently supporting YouTube. by [Cody](https://github.com/CodyTseng)
 
 ## CLI Clients
 
@@ -92,6 +91,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - A NIP-07 browser extension that uses the OS's keychain or YubiKey to protect your private keys.  by [susumuota](https://github.com/susumuota)
 * [share-on-nostr](https://github.com/penpenpng/share-on-nostr) - Chrome extension to share URL of an active tab on Nostr. by [penpenpng](https://github.com/penpenpng)
 * [nake](https://github.com/TsukemonoGit/nake) - chrome & firefox Extension easily convert between NOSTR's hexid⇔NIP-19 (bech32-encoded entities). by [mono](https://github.com/TsukemonoGit)
+* [danmakustr](https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb) - A Nostr-based chrome extension that allows ordinary video websites to achieve a comment effect similar to Niconico, currently supporting YouTube. by [Cody](https://github.com/CodyTseng)
 
 ## Bots
 
