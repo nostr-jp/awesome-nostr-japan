@@ -64,6 +64,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [Angolmois](https://github.com/nikolat/angolmois) - Retrieve posts from Nostr and send SSTP to Ukagaka. by [nikolat](https://github.com/nikolat)
 * [vscode-nostr-client](https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client) - Nostr client as a VSCode extension. by [jiftechnify](https://github.com/jiftechnify)
 * [nostatus](https://nostatus.vercel.app) - A nostr client that specializes in browsing user statuses (NIP-38). by [jiftechnify](https://github.com/jiftechnify)
+* [danmakustr](https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb) - A Nostr-based chrome extension that allows ordinary video websites to achieve a comment effect similar to Niconico, currently supporting YouTube. by [Cody](https://github.com/CodyTseng)
 
 ## CLI Clients
 

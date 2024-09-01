@@ -64,6 +64,7 @@
 * [Angolmois](https://github.com/nikolat/angolmois) - 投稿を表示すると同時に伺か互換ベースウェア(SSTPサーバー)にSSTPを送信し、ゴースト(キャラクター)に投稿を喋らせるNostr Webアプリ by [nikolat](https://github.com/nikolat)
 * [vscode-nostr-client](https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client) - VSCode拡張機能として動作するNostrクライアント by [jiftechnify](https://github.com/jiftechnify)
 * [nostatus](https://nostatus.vercel.app) - ユーザステータス(NIP-38) の閲覧に特化したクライアント by [jiftechnify](https://github.com/jiftechnify)
+* [danmakustr](https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb) - 通常の動画サイトでニコニコ動画のようなコメント効果を実現できるNostrベースのプラグインで、現在YouTubeに対応しています by [Cody](https://github.com/CodyTseng)
 
 ## CLI Clients
 
