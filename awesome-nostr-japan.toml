@@ -637,6 +637,14 @@ caption = "Tools"
   author_name = ["mono"]
   author_url = ["https://github.com/TsukemonoGit"]
 
+  [Tools.danmakustr]
+  name = "danmakustr"
+  address = "https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb"
+  description = "A Chrome extension based on Nostr that allows users to send comments on YouTube in a style similar to Niconico."
+  description_ja = "Nostrを基盤としたChrome拡張機能で、YouTube上でニコニコ風のコメントを送信できます"
+  author_name = ["cody]
+  author_url = ["https://github.com/CodyTseng"]
+
 [Bots]
 
 caption = "Bots"

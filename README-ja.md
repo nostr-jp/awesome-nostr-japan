@@ -91,7 +91,6 @@
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - OSキーチェーンやYubikeyを用いて秘密鍵を保護するNIP-07ブラウザ拡張 by [susumuota](https://github.com/susumuota)
 * [share-on-nostr](https://github.com/penpenpng/share-on-nostr) - アクティブなタブを短縮URLにしてNostrで共有するChrome拡張 by [penpenpng](https://github.com/penpenpng)
 * [nake](https://github.com/TsukemonoGit/nake) - NostrのHEXIDとNIP-19 (bech32-encoded entities)を簡単に相互変換できるchrome & firefox 拡張機能 by [mono](https://github.com/TsukemonoGit)
-* [danmakustr](https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb) - 通常の動画サイトでニコニコ動画のようなコメント効果を実現できるNostrベースのプラグインで、現在YouTubeに対応しています by [Cody](https://github.com/CodyTseng)
 
 ## Bots
 
