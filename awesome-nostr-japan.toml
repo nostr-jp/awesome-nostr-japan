@@ -384,6 +384,14 @@ caption = "Web Services"
   author_name = ["SnowCait"]
   author_url = ["https://github.com/SnowCait"]
 
+  [WebServices.chiihou]
+  name = "地鳳"
+  address = "https://nikolat.github.io/chiihou/"
+  description = "Mahjong game online"
+  description_ja = "オンライン麻雀ゲーム"
+  author_name = ["nikolat"]
+  author_url = ["https://github.com/nikolat"]
+
 
 [WebClients]
 
