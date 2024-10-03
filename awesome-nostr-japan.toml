@@ -997,7 +997,6 @@ caption = "Bots"
   address = "https://njump.compile-error.net/npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp"
   description = "日本不審者情報センターの情報を転載しています。(Unofficial)"
   description_ja = "日本不審者情報センターの情報を転載しています。(非公式)"
-何かあれば bot の管理者 nostr:npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6 まで。"
   author_name = ["mattn"]
   author_url = ["https://github.com/mattn"]
 
