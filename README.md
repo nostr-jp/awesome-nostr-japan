@@ -50,6 +50,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [Zapline-JP](https://tiltpapa.github.io/zapline-jp) - Watching Zap of Japan cluster by [tiltpapa](https://github.com/tiltpapa)
 * [MAKIBISHI](https://nikolat.github.io/makibishi/) - add a star to any website by [nikolat](https://github.com/nikolat)
 * [Nostr hours](https://snowcait.github.io/nostr-hours/) - How many hours do you spend in Nostr? by [SnowCait](https://github.com/SnowCait)
+* [地鳳](https://nikolat.github.io/chiihou/) - Mahjong game online by [nikolat](https://github.com/nikolat)
 
 ## Web Clients
 
