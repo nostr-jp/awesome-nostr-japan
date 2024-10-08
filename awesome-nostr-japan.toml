@@ -1000,6 +1000,32 @@ caption = "Bots"
   author_url = ["https://github.com/mattn"]
 
 
+  [Bots.npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp]
+  name = "不審者情報"
+  address = "https://njump.compile-error.net/npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp"
+  description = "日本不審者情報センターの情報を転載しています。(Unofficial)"
+  description_ja = "日本不審者情報センターの情報を転載しています。(非公式)"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh]
+  name = "サイゼガチャ"
+  address = "https://njump.compile-error.net/npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh"
+  description = "サイゼリヤのメニューをお選びします。(Unofficial)"
+  description_ja = "サイゼリヤのメニューをお選びします。(非公式)"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl]
+  name = "Hot Post Ranking"
+  address = "https://njump.compile-error.net/npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl"
+  description = "数時間内でホットな投稿をランキング表示します。"
+  description_ja = "数時間内でホットな投稿をランキング表示します。"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
 [Libraries]
 
 caption = "Libraries"

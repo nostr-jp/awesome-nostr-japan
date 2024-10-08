@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import tomllib
 
 # python toml2md.py

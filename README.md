@@ -134,6 +134,9 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [NIPs 占い](https://nostx.shino3.net/npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0) - A NIPs fortune-telling bot by [AsaiToshiya](https://github.com/AsaiToshiya)
 * [流速ちゃん](https://nostx.shino3.net/npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv) - BOT measuring and tabulating the number of relay submissions in Japan by [ShinoharaTa](https://github.com/ShinoharaTa)
 * [今日は何の日](https://nostx.shino3.net/npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf) - Posts what's today at every morning by [mattn](https://github.com/mattn)
+* [不審者情報](https://njump.compile-error.net/npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp) - 日本不審者情報センターの情報を転載しています。(Unofficial) by [mattn](https://github.com/mattn)
+* [サイゼガチャ](https://njump.compile-error.net/npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh) - サイゼリヤのメニューをお選びします。(Unofficial) by [mattn](https://github.com/mattn)
+* [Hot Post Ranking](https://njump.compile-error.net/npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl) - 数時間内でホットな投稿をランキング表示します。 by [mattn](https://github.com/mattn)
 
 ## Libraries
 
