@@ -424,6 +424,15 @@ caption = "Web Clients"
   author_url = ["https://njump.me/mouse_484@mousedev.page"]
 
 
+  [WebClients.lumilumi]
+  name = "Lumilumi"
+  address = "https://lumilumi.vercel.app/"
+  description = "Nostr client for web."
+  description_ja = "Nostr Webクライアント"
+  author_name = ["mono"]
+  author_url = ["https://github.com/TsukemonoGit"]
+  
+
   [WebClients.Nostr_Feeds_from_relay-jp_nostr_wirednet_jp]
   name = "Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)"
   address = "https://relay-jp.nostr.wirednet.jp/index.html"
@@ -494,6 +503,8 @@ caption = "Web Clients"
   description_ja = "ユーザステータス(NIP-38) の閲覧に特化したクライアント"
   author_name = ["jiftechnify"]
   author_url = ["https://github.com/jiftechnify"]
+
+
 
 
 [CLIClients]
@@ -863,9 +874,6 @@ caption = "Bots"
   description_ja = "日本標準時に基づいてお知らせするbot"
   author_name = ["mono"]
   author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
-
-
- 
 
 
   [Bots.npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r]
