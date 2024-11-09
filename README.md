@@ -45,8 +45,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostr.json generator](https://snowcait.github.io/nostr-json-generator) - Generate nostr.json from NIP-65 or NIP-07 by [SnowCait](https://github.com/SnowCait)
 * [findmine](https://koteitan.github.io/findmine/) - search your posts in nostr/Bluesky/twitter/twilog. by [koteitan](https://github.com/koteitan)
 * [nostr-bookmark-trend](https://nikolat.github.io/nostr-bookmark-trend/) - show Nostr events bookmarked by followees by [nikolat](https://github.com/nikolat)
-* [NostViewstr](https://nostviewstr.vercel.app/) - Web app to view and edit various Nostr events by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
-* [Luminostr](https://tsukemonogit.github.io/luminostr/) - Find replaceable events of a specific kind from various relays, and overwrite them with the events at a specific point in time. by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
+* [NostViewstr](https://nostviewstr.vercel.app/) - Web app to view and edit various Nostr events by [mono](https://github.com/TsukemonoGit)
+* [Luminostr](https://tsukemonogit.github.io/luminostr/) - Find replaceable events of a specific kind from various relays, and overwrite them with the events at a specific point in time. by [mono](https://github.com/TsukemonoGit)
 * [Zapline-JP](https://tiltpapa.github.io/zapline-jp) - Watching Zap of Japan cluster by [tiltpapa](https://github.com/tiltpapa)
 * [MAKIBISHI](https://nikolat.github.io/makibishi/) - add a star to any website by [nikolat](https://github.com/nikolat)
 * [Nostr hours](https://snowcait.github.io/nostr-hours/) - How many hours do you spend in Nostr? by [SnowCait](https://github.com/SnowCait)
@@ -57,6 +57,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostter](http://nostter.vercel.app) - Nostr client for web. by [SnowCait](https://github.com/SnowCait)
 * [Rabbit](https://rabbit.syusui.net/) - A nostr client like TweetDeck. by [syusui-s](https://github.com/syusui-s)
 * [Astraea](https://astraea.mousedev.page) - Nostr client for web. by [mouse](https://njump.me/mouse_484@mousedev.page)
+* [Lumilumi](https://lumilumi.vercel.app/) - Nostr client for web. by [mono](https://github.com/TsukemonoGit)
 * [Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)](https://relay-jp.nostr.wirednet.jp/index.html) - Simple Nostr Relay Feed Reader by [imksoo](https://github.com/imksoo)
 * [GARNET](https://garnet.nostrian.net) - Nostr Public Chat(NIP-28) Client. by [murakmii](https://github.com/murakmii)
 * [うにゅうハウス](https://unyu-house.vercel.app) - The web client for NIP-28(Public Chat). by [nikolat](https://github.com/nikolat)
@@ -118,8 +119,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [REQ](https://nostx.shino3.net/npub1x22zy06nn8h44cycdv4trxp8v0dv8qq3ayahpkrcn3rh90gp552sqs8hmv) - A bot for replying REQ response by [SnowCait](https://github.com/SnowCait)
 * [search](https://nostx.shino3.net/npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26) - A bot to help you search by [SnowCait](https://github.com/SnowCait)
 * [ログボbot](https://njump.me/cnpgirl@erechorse.github.io) - A bot to earn "Login bonus" by [erechorse](https://nostx.shino3.net/npub17syr9cntr5f03gnhz7mqdxtt4mmgh39khpky5dw2sflkl09l2y0qra94wl)
-* [じほう](https://nostx.shino3.net/npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7) - a bot that tells JST time by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
-* [tm2](https://nostx.shino3.net/npub16n4x0pvu38xw9ghjt3qlpm7grk5zn8cgdc6wlaravcvq0hxgaxpq7f06cx) - a bot that tells JST time by [mono](https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw)
+* [じほう](https://nostx.shino3.net/npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7) - a bot that tells JST time by [mono](https://github.com/TsukemonoGit)
 * [やぶみちゃん](https://nostx.shino3.net/npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r) - A relay bot on wss://yabu.me by [𓃠](https://nostx.shino3.net/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7)
 * [へんしんbot](https://nostx.shino3.net/npub1738uh3jagexkr27wyw7pwx2gh8xnrcfk09pxptqf6f6aqwtrf5hq3q0j8s) - An Kamen-Rider-like bot by [ひゅうが霄](https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4)
 * [迫るショッカーbot](https://nostx.shino3.net/npub1r25zsj7hcpjqd0yur2ss4t3r0l9h6wavzp6na9vnnjhr87wttp2qmx0zct) - An Shocker-like bot by [ひゅうが霄](https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4)
@@ -137,6 +137,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [不審者情報](https://njump.compile-error.net/npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp) - 日本不審者情報センターの情報を転載しています。(Unofficial) by [mattn](https://github.com/mattn)
 * [サイゼガチャ](https://njump.compile-error.net/npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh) - サイゼリヤのメニューをお選びします。(Unofficial) by [mattn](https://github.com/mattn)
 * [Hot Post Ranking](https://njump.compile-error.net/npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl) - 数時間内でホットな投稿をランキング表示します。 by [mattn](https://github.com/mattn)
+* [iroiroBot](https://njump.compile-error.net/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv) - A BOT that posts tools made by users, tools that are useful for Nostr, and information related to Nostr at 16 minutes past the hour. by [mono](https://github.com/TsukemonoGit)
 
 ## Libraries
 
