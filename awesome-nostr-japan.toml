@@ -1028,7 +1028,7 @@ caption = "Bots"
   author_name = ["mattn"]
   author_url = ["https://github.com/mattn"]
 
-    [Bots.npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv]
+  [Bots.npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv]
   name = "iroiroBot"
   address = "https://njump.compile-error.net/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv"
   description = "A BOT that posts tools made by users, tools that are useful for Nostr, and information related to Nostr at 16 minutes past the hour."
