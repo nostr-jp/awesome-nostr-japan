@@ -349,7 +349,7 @@ caption = "Web Services"
   description = "Web app to view and edit various Nostr events"
   description_ja = "いろんなNostrイベントを見たり編集したりできるWebアプリ"
   author_name = ["mono"]
-  author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
+  author_url = ["https://github.com/TsukemonoGit"]
 
 
   [WebServices.Luminostr]
@@ -358,7 +358,7 @@ caption = "Web Services"
   description = "Find replaceable events of a specific kind from various relays, and overwrite them with the events at a specific point in time."
   description_ja = "Nostrの特定のkindの置換可能（replaceable）イベントをいろんなリレーから探しだして、特定の時点でのイベントで上書きする"
   author_name = ["mono"]
-  author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
+  author_url = ["https://github.com/TsukemonoGit"]
 
   [WebServices.zapline-jp]
   name = "Zapline-JP"
@@ -423,6 +423,15 @@ caption = "Web Clients"
   author_name = ["mouse"]
   author_url = ["https://njump.me/mouse_484@mousedev.page"]
 
+
+  [WebClients.lumilumi]
+  name = "Lumilumi"
+  address = "https://lumilumi.vercel.app/"
+  description = "Nostr client for web."
+  description_ja = "Nostr Webクライアント"
+  author_name = ["mono"]
+  author_url = ["https://github.com/TsukemonoGit"]
+  
 
   [WebClients.Nostr_Feeds_from_relay-jp_nostr_wirednet_jp]
   name = "Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)"
@@ -494,6 +503,8 @@ caption = "Web Clients"
   description_ja = "ユーザステータス(NIP-38) の閲覧に特化したクライアント"
   author_name = ["jiftechnify"]
   author_url = ["https://github.com/jiftechnify"]
+
+
 
 
 [CLIClients]
@@ -862,16 +873,7 @@ caption = "Bots"
   description = "a bot that tells JST time"
   description_ja = "日本標準時に基づいてお知らせするbot"
   author_name = ["mono"]
-  author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
-
-
-  [Bots.tm2]
-  name = "tm2"
-  address = "https://nostx.shino3.net/npub16n4x0pvu38xw9ghjt3qlpm7grk5zn8cgdc6wlaravcvq0hxgaxpq7f06cx"
-  description = "a bot that tells JST time"
-  description_ja = "日本標準時に基づいてお知らせするbot"
-  author_name = ["mono"]
-  author_url = ["https://nostx.shino3.net/npub1sjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sw3jqcw"]
+  author_url = ["https://github.com/TsukemonoGit"]
 
 
   [Bots.npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r]
@@ -1025,6 +1027,14 @@ caption = "Bots"
   description_ja = "数時間内でホットな投稿をランキング表示します。"
   author_name = ["mattn"]
   author_url = ["https://github.com/mattn"]
+
+  [Bots.npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv]
+  name = "iroiroBot"
+  address = "https://njump.compile-error.net/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv"
+  description = "A BOT that posts tools made by users, tools that are useful for Nostr, and information related to Nostr at 16 minutes past the hour."
+  description_ja = "みんなの作ったツールとか、Nostrでお役立ちなツールとか、Nostrにゆかりのある情報とかを毎時16分にポストするBOT"
+  author_name = ["mono"]
+  author_url = ["https://github.com/TsukemonoGit"]
 
 [Libraries]
 
