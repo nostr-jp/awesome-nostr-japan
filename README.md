@@ -93,6 +93,7 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - A NIP-07 browser extension that uses the OS's keychain or YubiKey to protect your private keys.  by [susumuota](https://github.com/susumuota)
 * [share-on-nostr](https://github.com/penpenpng/share-on-nostr) - Chrome extension to share URL of an active tab on Nostr. by [penpenpng](https://github.com/penpenpng)
 * [nake](https://github.com/TsukemonoGit/nake) - chrome & firefox Extension easily convert between NOSTR's hexid⇔NIP-19 (bech32-encoded entities). by [mono](https://github.com/TsukemonoGit)
+* [danmakustr](https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb) - A Chrome extension based on Nostr that allows users to send comments on YouTube in a style similar to Niconico. by [cody](https://github.com/CodyTseng)
 
 ## Bots
 
