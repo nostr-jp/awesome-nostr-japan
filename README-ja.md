@@ -51,13 +51,15 @@
 * [MAKIBISHI](https://nikolat.github.io/makibishi/) - あらゆるWebサイトにスターを付けられるようにする by [nikolat](https://github.com/nikolat)
 * [Nostr hours](https://snowcait.github.io/nostr-hours/) - 活動時間の可視化 by [SnowCait](https://github.com/SnowCait)
 * [地鳳](https://nikolat.github.io/chiihou/) - オンライン麻雀ゲーム by [nikolat](https://github.com/nikolat)
+* [Nostr Follow Organizer](https://tsukemonogit.github.io/NFO/) - ユーザーのフォローリストを取得し、最新の投稿日時や相互フォローの有無などの情報を表示します。並び替え機能もあるので、最近投稿していない人など、フォローしているユーザーを簡単に整理できます。 by [mono](https://github.com/TsukemonoGit)
+* [nostr-share-component](https://tsukemonogit.github.io/nostr-share-component/) - サイトをNostrで共有するボタンを簡単に追加できるコンポーネントです。 by [mono](https://github.com/TsukemonoGit)
 
 ## Web Clients
 
 * [nostter](http://nostter.vercel.app) - Nostr Webクライアント by [SnowCait](https://github.com/SnowCait)
 * [Rabbit](https://rabbit.syusui.net/) - TweetDeckライクなNostr Webクライアント by [syusui-s](https://github.com/syusui-s)
 * [Astraea](https://astraea.mousedev.page) - Nostr Webクライアント by [mouse](https://njump.me/mouse_484@mousedev.page)
-* [Lumilumi](https://lumilumi.vercel.app/) - Nostr Webクライアント by [mono](https://github.com/TsukemonoGit)
+* [Lumilumi](https://lumilumi.app/) - Nostr Webクライアント by [mono](https://github.com/TsukemonoGit)
 * [Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)](https://relay-jp.nostr.wirednet.jp/index.html) - シンプルなリレーフィードリーダー by [imksoo](https://github.com/imksoo)
 * [GARNET](https://garnet.nostrian.net) - Nostr パブリックチャット(NIP-28) クライアント by [murakmii](https://github.com/murakmii)
 * [うにゅうハウス](https://unyu-house.vercel.app) - NIP-28(パブリックチャット)用Webクライアント by [nikolat](https://github.com/nikolat)

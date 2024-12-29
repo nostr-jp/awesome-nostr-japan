@@ -51,13 +51,15 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [MAKIBISHI](https://nikolat.github.io/makibishi/) - add a star to any website by [nikolat](https://github.com/nikolat)
 * [Nostr hours](https://snowcait.github.io/nostr-hours/) - How many hours do you spend in Nostr? by [SnowCait](https://github.com/SnowCait)
 * [地鳳](https://nikolat.github.io/chiihou/) - Mahjong game online by [nikolat](https://github.com/nikolat)
+* [Nostr Follow Organizer](https://tsukemonogit.github.io/NFO/) - It retrieves a user's following list and displays information such as the time of their most recent post and whether or not they are following each other. There is also a sorting function, so you can easily organize your following, such as people who haven't posted recently. by [mono](https://github.com/TsukemonoGit)
+* [nostr-share-component](https://tsukemonogit.github.io/nostr-share-component/) - This component allows you to easily add a button to share a web page on Nostr. by [mono](https://github.com/TsukemonoGit)
 
 ## Web Clients
 
 * [nostter](http://nostter.vercel.app) - Nostr client for web. by [SnowCait](https://github.com/SnowCait)
 * [Rabbit](https://rabbit.syusui.net/) - A nostr client like TweetDeck. by [syusui-s](https://github.com/syusui-s)
 * [Astraea](https://astraea.mousedev.page) - Nostr client for web. by [mouse](https://njump.me/mouse_484@mousedev.page)
-* [Lumilumi](https://lumilumi.vercel.app/) - Nostr client for web. by [mono](https://github.com/TsukemonoGit)
+* [Lumilumi](https://lumilumi.app/) - Nostr client for web. by [mono](https://github.com/TsukemonoGit)
 * [Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)](https://relay-jp.nostr.wirednet.jp/index.html) - Simple Nostr Relay Feed Reader by [imksoo](https://github.com/imksoo)
 * [GARNET](https://garnet.nostrian.net) - Nostr Public Chat(NIP-28) Client. by [murakmii](https://github.com/murakmii)
 * [うにゅうハウス](https://unyu-house.vercel.app) - The web client for NIP-28(Public Chat). by [nikolat](https://github.com/nikolat)
