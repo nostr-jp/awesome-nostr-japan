@@ -426,7 +426,7 @@ caption = "Web Clients"
 
   [WebClients.lumilumi]
   name = "Lumilumi"
-  address = "https://lumilumi.vercel.app/"
+  address = "https://lumilumi.app/"
   description = "Nostr client for web."
   description_ja = "Nostr Webクライアント"
   author_name = ["mono"]
