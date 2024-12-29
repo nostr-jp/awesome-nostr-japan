@@ -392,6 +392,14 @@ caption = "Web Services"
   author_name = ["nikolat"]
   author_url = ["https://github.com/nikolat"]
 
+  [WebServices.nostr-share]
+  name = "nostr-share-component"
+  address = "https://tsukemonogit.github.io/nostr-share-component/"
+  description = "This component allows you to easily add a button to share a web page on Nostr."
+  description_ja = "サイトをNostrで共有するボタンを簡単に追加できるコンポーネントです。"
+  author_name = ["mono"]
+  author_url = ["https://github.com/TsukemonoGit"]
+  
 
 [WebClients]
 
