@@ -447,7 +447,16 @@ caption = "Web Clients"
   description_ja = "Nostr Webクライアント"
   author_name = ["mono"]
   author_url = ["https://github.com/TsukemonoGit"]
-  
+
+
+  [WebClients.Nos_Haiku]
+  name = "Nos Haiku"
+  address = "https://nos-haiku.vercel.app/"
+  description = "Nostr client for web."
+  description_ja = "Nostr Webクライアント"
+  author_name = ["nikolat"]
+  author_url = ["https://github.com/nikolat"]
+
 
   [WebClients.Nostr_Feeds_from_relay-jp_nostr_wirednet_jp]
   name = "Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)"
