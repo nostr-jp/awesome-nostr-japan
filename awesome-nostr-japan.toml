@@ -407,7 +407,22 @@ caption = "Web Services"
   description_ja = "サイトをNostrで共有するボタンを簡単に追加できるコンポーネントです。"
   author_name = ["mono"]
   author_url = ["https://github.com/TsukemonoGit"]
-  
+
+  [WebServices.makimono]
+  name = "MAKIMONO"
+  address = "https://makimono.lumilumi.app/"
+  description = "A lightweight Long Form Content Editor with editing functionality for your articles. It supports embedding Nostr IDs via NIP-19 and custom emoji integration."
+  description_ja = "記事の編集機能を備えた軽量なロングフォームコンテンツエディタです。NIP-19によるNostr IDの埋め込みとカスタム絵文字の統合をサポートしています。"
+  author_name = ["mono"]
+  author_url = ["https://github.com/TsukemonoGit"]
+
+  [WebServices.kuchiyose]
+  name = "KUCHIYOSE"
+  address = "https://kuchiyose.vercel.app/"
+  description = "social bookmarking service"
+  description_ja = "ソーシャルブックマーク"
+  author_name = ["nikolat"]
+  author_url = ["https://github.com/nikolat"]
 
 [WebClients]
 
