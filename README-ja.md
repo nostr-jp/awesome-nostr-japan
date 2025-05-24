@@ -53,6 +53,8 @@
 * [地鳳](https://nikolat.github.io/chiihou/) - オンライン麻雀ゲーム by [nikolat](https://github.com/nikolat)
 * [Nostr Follow Organizer](https://tsukemonogit.github.io/NFO/) - ユーザーのフォローリストを取得し、最新の投稿日時や相互フォローの有無などの情報を表示します。並び替え機能もあるので、最近投稿していない人など、フォローしているユーザーを簡単に整理できます。 by [mono](https://github.com/TsukemonoGit)
 * [nostr-share-component](https://tsukemonogit.github.io/nostr-share-component/) - サイトをNostrで共有するボタンを簡単に追加できるコンポーネントです。 by [mono](https://github.com/TsukemonoGit)
+* [MAKIMONO](https://makimono.lumilumi.app/) - 記事の編集機能を備えた軽量なロングフォームコンテンツエディタです。NIP-19によるNostr IDの埋め込みとカスタム絵文字の統合をサポートしています。 by [mono](https://github.com/TsukemonoGit)
+* [KUCHIYOSE](https://kuchiyose.vercel.app/) - ソーシャルブックマーク by [nikolat](https://github.com/nikolat)
 
 ## Web Clients
 

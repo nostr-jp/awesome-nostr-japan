@@ -53,6 +53,8 @@ Awesome [nostr](https://nostr.com/) in Japan. Software, Web service, Clients, Bo
 * [地鳳](https://nikolat.github.io/chiihou/) - Mahjong game online by [nikolat](https://github.com/nikolat)
 * [Nostr Follow Organizer](https://tsukemonogit.github.io/NFO/) - It retrieves a user's following list and displays information such as the time of their most recent post and whether or not they are following each other. There is also a sorting function, so you can easily organize your following, such as people who haven't posted recently. by [mono](https://github.com/TsukemonoGit)
 * [nostr-share-component](https://tsukemonogit.github.io/nostr-share-component/) - This component allows you to easily add a button to share a web page on Nostr. by [mono](https://github.com/TsukemonoGit)
+* [MAKIMONO](https://makimono.lumilumi.app/) - A lightweight Long Form Content Editor with editing functionality for your articles. It supports embedding Nostr IDs via NIP-19 and custom emoji integration. by [mono](https://github.com/TsukemonoGit)
+* [KUCHIYOSE](https://kuchiyose.vercel.app/) - social bookmarking service by [nikolat](https://github.com/nikolat)
 
 ## Web Clients
 
