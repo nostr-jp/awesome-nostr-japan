@@ -72,6 +72,16 @@ def convert(ja: bool) -> None:
                     author_names = item.get("author_name", [])
                     author_urls = item.get("author_url", [])
 
+                    if len(author_names) != len(author_urls):
+                        print(
+                            f"警告: 作者名とURLの数が一致しません (name: {len(author_names)}, url: {len(author_urls)})",
+                            file=sys.stderr
+                        )
+                        print(f"  対象項目: {name or address}", file=sys.stderr)
+                        min_len = min(len(author_names), len(author_urls))
+                        author_names = author_names[:min_len]
+                        author_urls = author_urls[:min_len]
+
                     if isinstance(author_names, str):
                         author_names = [author_names]
                     if isinstance(author_urls, str):
