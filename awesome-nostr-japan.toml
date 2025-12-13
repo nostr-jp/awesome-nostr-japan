@@ -114,6 +114,46 @@ caption = "Relays"
   author_name = ["mattn"]
   author_url = ["https://github.com/mattn"]
 
+  [Relays.lua-nostr-relay_compile_error_net]
+  name = ""
+  address = "wss://lua-nostr-relay.compile-error.net"
+  description = "Japanese oriented relay written in Lua"
+  description_ja = "Lua で書かれた日本向けリレー"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+  [Relays.lisp-nostr-relay_compile_error_net]
+  name = ""
+  address = "wss://lisp-nostr-relay.compile-error.net"
+  description = "Japanese oriented relay written in Common Lisp"
+  description_ja = "Common Lisp で書かれた日本向けリレー"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+  [Relays.ruby-nostr-relay_compile_error_net]
+  name = ""
+  address = "wss://ruby-nostr-relay.compile-error.net"
+  description = "Japanese oriented relay written in Ruby"
+  description_ja = "Ruby で書かれた日本向けリレー"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+  [Relays.nim-nostr-relay_compile_error_net]
+  name = ""
+  address = "wss://nim-nostr-relay.compile-error.net"
+  description = "Japanese oriented relay written in Nim"
+  description_ja = "Nim で書かれた日本向けリレー"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+  [Relays.crystal-nostr-relay_compile_error_net]
+  name = ""
+  address = "wss://crystal-nostr-relay.compile-error.net"
+  description = "Japanese oriented relay written in Crystal"
+  description_ja = "Crystal で書かれた日本向けリレー"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
 [WebServices]
 
 caption = "Web Services"

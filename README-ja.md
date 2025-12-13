@@ -2,7 +2,9 @@
 
 日本版Awesome [nostr](https://nostr.com/). 日本製のSoftware, Web service, Clients, Bots. [English version](README.md)
 
+
 ## Relays
+
 
 * `wss://relay.nostr.wirednet.jp` - ワールドワイドリレー by [imksoo](https://github.com/imksoo)
 * `wss://relay-jp.nostr.wirednet.jp` - 日本向けリレー by [imksoo](https://github.com/imksoo)
@@ -17,8 +19,14 @@
 * `wss://r.kojira.io` - 日本向けリレー by [kojira](https://github.com/kojira)
 * `wss://nostr.compile-error.net` - Go で書かれた日本向けリレー by [mattn](https://github.com/mattn)
 * `wss://cagliostr.compile-error.net` - C++ で書かれた日本向けリレー by [mattn](https://github.com/mattn)
+* `wss://lua-nostr-relay.compile-error.net` - Lua で書かれた日本向けリレー by [mattn](https://github.com/mattn)
+* `wss://lisp-nostr-relay.compile-error.net` - Common Lisp で書かれた日本向けリレー by [mattn](https://github.com/mattn)
+* `wss://ruby-nostr-relay.compile-error.net` - Ruby で書かれた日本向けリレー by [mattn](https://github.com/mattn)
+* `wss://nim-nostr-relay.compile-error.net` - Nim で書かれた日本向けリレー by [mattn](https://github.com/mattn)
+* `wss://crystal-nostr-relay.compile-error.net` - Crystal で書かれた日本向けリレー by [mattn](https://github.com/mattn)
 
 ## Web Services
+
 
 * [Nostrends](https://nostrends.vercel.app) - nostrのトレンド表示サイト by [akiomik](https://github.com/akiomik)
 * [nostrbuzzs](https://nostrbuzzs.deno.dev) - nostrのトレンドバズワード表示サイト by [darashi](https://github.com/darashi)
@@ -58,6 +66,7 @@
 
 ## Web Clients
 
+
 * [nostter](http://nostter.vercel.app) - Nostr Webクライアント by [SnowCait](https://github.com/SnowCait)
 * [Rabbit](https://rabbit.syusui.net/) - TweetDeckライクなNostr Webクライアント by [syusui-s](https://github.com/syusui-s)
 * [Astraea](https://astraea.mousedev.page) - Nostr Webクライアント by [mouse](https://njump.me/mouse_484@mousedev.page)
@@ -74,6 +83,7 @@
 
 ## CLI Clients
 
+
 * [algia](https://github.com/mattn/algia) - nostr向けcliアプリケーション by [mattn](https://github.com/mattn)
 * [nostk](https://github.com/mitsugu/nostk) - nostr向けcliアプリケーション by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
 * [nosp](https://github.com/mitsugu/nosp) - A tui controller and pager for nostk by [mitsugu oyama (orzbruford)](https://github.com/mitsugu)
@@ -82,11 +92,13 @@
 
 ## Windows Clients
 
+
 * [nokakoi](https://github.com/betonetojp/nokakoi) - Nostrのリレーサーバーに接続して投稿したりグローバルタイムラインをリアルタイムに表示したりするアプリケーション by [betoneto](https://github.com/betonetojp)
 * [noka](https://github.com/betonetojp/noka) - Nostrのリレーサーバーに接続してグローバルタイムラインをリアルタイムに表示するアプリケーション by [betoneto](https://github.com/betonetojp)
 * [nostalk](https://github.com/nikolat/nostalk) - SSTP通信によるNostrイベント通知に対応した伺かゴースト by [nikolat](https://github.com/nikolat)
 
 ## Relay implementations
+
 
 * [nostr-relay](https://github.com/mattn/nostr-relay) - postgresql/mysql/sqlite3 backended nostr relay. backup by [litestream](https://litestream.io/) for sqlite by [mattn](https://github.com/mattn)
 * [searchnos](https://github.com/darashi/searchnos) - NIP-50の試験的な実装 by [darashi](https://github.com/darashi)
@@ -95,12 +107,14 @@
 
 ## Tools
 
+
 * [nostr-keyx](https://github.com/susumuota/nostr-keyx) - OSキーチェーンやYubikeyを用いて秘密鍵を保護するNIP-07ブラウザ拡張 by [susumuota](https://github.com/susumuota)
 * [share-on-nostr](https://github.com/penpenpng/share-on-nostr) - アクティブなタブを短縮URLにしてNostrで共有するChrome拡張 by [penpenpng](https://github.com/penpenpng)
 * [nake](https://github.com/TsukemonoGit/nake) - NostrのHEXIDとNIP-19 (bech32-encoded entities)を簡単に相互変換できるchrome & firefox 拡張機能 by [mono](https://github.com/TsukemonoGit)
 * [danmakustr](https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb) - Nostrを基盤としたChrome拡張機能で、YouTube上でニコニコ風のコメントを送信できます by [cody](https://github.com/CodyTseng)
 
 ## Bots
+
 
 * [haiku](https://njump.me/haiku@iris.to) - [俳句](https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5)コレクター by [mattn](https://github.com/mattn)
 * [markovbot](https://njump.me/markovbot@mattn.github.io) - マルコフ連鎖ボット by [mattn](https://github.com/mattn)
@@ -147,6 +161,7 @@
 
 ## Libraries
 
+
 * [nostr-fetch](https://github.com/jiftechnify/nostr-fetch) - A utility library that allows JS/TS apps to effortlessly fetch past events from Nostr relays. by [jiftechnify](https://github.com/jiftechnify)
 * [rx-nostr](https://github.com/penpenpng/rx-nostr) - A library based on RxJS, which allows Nostr applications to easily communicate with relays. by [penpenpng](https://github.com/penpenpng)
 * [nostr-mux](https://github.com/murakmii/nostr-mux) - Multiplexed connections management for Nostr client. by [murakmii](https://github.com/murakmii)
@@ -158,6 +173,7 @@
 
 ## Books/Articles
 
+
 * [SoftwareDesign](https://gihyo.jp/magazine/SD) - SoftwareDesign誌にてnostrに関する連載記事を掲載中 by [gihyo](https://gihyho.jp)
 * [Software Design 2023/7](https://gihyo.jp/magazine/SD/archive/2023/202307) - SoftwareDesign誌にてnostrに関する連載記事を掲載中 by [gihyo](https://gihyho.jp)
 * [Hello Nostr! 先住民が教えるNostrの歩き方](https://techbookfest.org/product/veGeNq1tNkYFfWnZWgEC72?productVariantID=u5RZNM5e77xHH97c65PCx9) - 日本語圏nostrユーザーによるnostr同人誌 by [Yotsuya Laboratory (四谷ラボ)](https://428lab.net)
@@ -166,10 +182,12 @@
 
 ## Blog Entries
 
+
 * [Nostrプロトコル(damus)を触ってみた](https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286) - 日本語で書かれたNostrプロトコルの概要 by [gpsnmeajp](https://github.com/gpsnmeajp)
 * [Damus (ダムス) for Nostr](https://stacksats.jp/damus-nostr) - NostrおよびDamusを紹介する記事 by [yutaro](https://nostx.shino3.net/npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0)
 
 ## Slides
+
 
 * [話題の投稿がみれるサービス Nostrendsをつくったよ🤙 / About Nostrends](https://speakerdeck.com/akiomik/about-nostrends) by [akiomik](https://github.com/akiomik)
 * [Nostr版togetterのNosliとNIP-33 / About Nosli and NIP-33](https://speakerdeck.com/akiomik/about-nosli-and-nip-33) by [akiomik](https://github.com/akiomik)
@@ -178,6 +196,7 @@
 * [Passkey Authentication with Nostr (NIP-07, nostr-keyx, YubiKey)](https://speakerdeck.com/s_ota/nostr-keyx-20230310) by [susumuota](https://github.com/susumuota)
 
 ## Videos
+
 
 * [Nostr勉強会#0 (nostrstudy #0)](https://www.youtube.com/live/IbMhpGNhUuE?feature=share) - オンラインで開催されたnostr勉強会(1回目) by [四谷ラボ](https://428lab.net/)
 * [Nostr勉強会#1 (nostrstudy #1)](https://www.youtube.com/live/J6wgG4epGK0?feature=share) - オンラインで開催されたnostr勉強会(2回目) by [四谷ラボ](https://428lab.net/)
@@ -190,13 +209,16 @@
 
 ## Events
 
+
 * [新時代の分散型SNS勉強会](https://428lab.connpass.com/event/300313/) by [四谷ラボ](https://428lab.net/)
 
 ## License
 
 MIT
 
+
 ## Author
 
 Yasuhiro Matsumoto (a.k.a. mattn)
+
 
