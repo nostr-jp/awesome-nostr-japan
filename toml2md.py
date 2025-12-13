@@ -44,10 +44,14 @@ def convert(ja: bool) -> None:
 
                 o.write("\n")  # pyright: ignore[reportUnusedCallResult]
 
+                has_output_item = False 
+
                 for item_key in section:
                     item = section[item_key]
                     if not isinstance(item, dict):
                         continue
+
+                    has_output_item = True
 
                     line = "* "
                     name = cast(str, item.get("name", ""))
@@ -93,8 +97,8 @@ def convert(ja: bool) -> None:
 
                     o.write(line + "\n")  # pyright: ignore[reportUnusedCallResult]
 
-                o.write("\n")  # pyright: ignore[reportUnusedCallResult]
-
+                if desc or has_output_item:
+                    o.write("\n")  # pyright: ignore[reportUnusedCallResult]
 
 if __name__ == "__main__":
     convert(False)  # README.md
