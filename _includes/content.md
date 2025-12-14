@@ -1,19 +1,34 @@
 ## Relays
 
 <ul>
-{% for relay in site.data.relays %}
+{% for entry in site.data.relays %}
   <li>
-    <code>{{ relay.address }}</code>
+    <code>{{ entry.address }}</code>
 
-    {% if relay.description[lang] %}
-     - {{ relay.description[lang] }}
+    {% if entry.description[include.lang] %}
+     - {{ entry.description[include.lang] }}
     {% endif %}
 
-    {% if relay.authors %}
-      by
-      {% for author in relay.authors %}
-        <a href="{{ author.url }}">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
+    {% if entry.authors %}
+      {% include authors.md authors=entry.authors %}
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+## Web Services
+
+<ul>
+{% for entry in site.data['web-services'] %}
+  <li>
+    <a href="{{ entry.address }}" target="_blank">{{ entry.name }}</a>
+
+    {% if entry.description[include.lang] %}
+     - {{ entry.description[include.lang] }}
+    {% endif %}
+
+    {% if entry.authors %}
+      {% include authors.md authors=entry.authors %}
     {% endif %}
   </li>
 {% endfor %}

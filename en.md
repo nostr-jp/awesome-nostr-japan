@@ -1,2 +1,1 @@
-{% assign lang = "en" %}
-{% include content.md %}
+{% include content.md lang="en" %}
