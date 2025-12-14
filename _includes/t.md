@@ -4,7 +4,7 @@
   {% assign text=include.content[page.lang] | default: include.content.en | default: include.content.ja %}
 {% endif %}
 
-{% if include['disable-markdown'] %}
+{% if include.disable_markdown %}
   {{ text }}
 {% else %}
   {{ text | markdownify | remove: '<p>' | remove: '</p>' }}

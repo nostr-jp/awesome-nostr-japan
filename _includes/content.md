@@ -3,7 +3,7 @@
 
   <ul>
     {% for entry in site.data[section.entries] %}
-      {% case section['entry-template'] %}
+      {% case section.entry_template %}
         {% when 'entry-relay.md' %}
           {% include entry-relay.md  entry=entry %}
         {% else %}

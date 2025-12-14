@@ -2,31 +2,31 @@
   title:
     ja: リレー
     en: Relays
-  entry-template: entry-relay.md
+  entry_template: entry-relay.md
 
 - entries: web-services
   title:
     ja: Webサービス
     en: Web Services
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: web-clients
   title:
     ja: Webクライアント
     en: Web Clients
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: cli-clients
   title:
     ja: CLIクライアント
     en: CLI Clients
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: windows-clients
   title:
     ja: デスクトップクライアント (Windows)
     en: Desktop Clients (Windows)
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: tools
   title:
@@ -37,40 +37,40 @@
   title:
     ja: ボット
     en: Bots
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: libraries
   title:
     ja: ライブラリ
     en: Libraries
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: books-articles
   title:
     ja: 書籍・記事
     en: Books & Articles
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: blog-entries
   title:
     ja: ブログ記事
     en: Blog Entries
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: slides
   title:
     ja: スライド資料
     en: Slides
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: videos
   title:
     ja: 動画
     en: Videos
-  entry-template: entry.md
+  entry_template: entry.md
 
 - entries: events
   title:
     ja: イベント
     en: Events
-  entry-template: entry.md
+  entry_template: entry.md
