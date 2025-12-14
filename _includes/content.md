@@ -1,5 +1,5 @@
 {% for section in site.data._sections %}
-  <h2>{{ section.title[lang] }}</h2>
+  <h2>{% include t.md content=section.title %}</h2>
 
   <ul>
     {% for entry in site.data[section.entries] %}

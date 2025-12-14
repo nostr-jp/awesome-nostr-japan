@@ -1,11 +1,11 @@
 <li>
   <code>{{ include.entry.address }}</code>
 
-  {% if include.entry.description[lang] %}
-    - {{ include.entry.description[lang] }}
+  {% if entry.description %}
+    - {% include t.md content=entry.description %}
   {% endif %}
 
-  {% if include.entry.authors %}
-    {% include authors.md authors=include.entry.authors %}
+  {% if entry.authors %}
+    {% include authors.md authors=entry.authors %}
   {% endif %}
 </li>

@@ -1,8 +1,8 @@
 <li>
-  <a href="{{ entry.address }}" target="_blank">{{ entry.name }}</a>
+  <a href="{{ entry.address }}" target="_blank">{% include t.md content=entry.name %}</a>
 
-  {% if entry.description[lang] %}
-    - {{ entry.description[lang] }}
+  {% if entry.description %}
+    - {% include t.md content=entry.description %}
   {% endif %}
 
   {% if entry.authors %}

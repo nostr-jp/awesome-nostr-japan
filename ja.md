@@ -1,2 +1,5 @@
-{% assign lang="ja" %}
+---
+lang: ja
+---
+
 {% include content.md %}
