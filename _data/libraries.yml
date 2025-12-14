@@ -49,8 +49,8 @@
 - name: nostr-key-value
   address: https://github.com/ShinoharaTa/nostr-key-value
   description:
-    ja: NIP-78 (kind: 30078) を使用した key-value Storage
-    en: Use nostr NIP-78 (kind: 30078) Key Value Storage
+    ja: "NIP-78 (kind: 30078) を使用した key-value Storage"
+    en: "Use nostr NIP-78 (kind: 30078) Key Value Storage"
   authors:
     - name: ShinoharaTa
       url: https://github.com/ShinoharaTa
