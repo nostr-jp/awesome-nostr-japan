@@ -1,5 +1,5 @@
 - name: nostr-fetch
-  address: https://github.com/jiftechnify/nostr-fetch
+  url: https://github.com/jiftechnify/nostr-fetch
   description:
     en: A utility library that allows JS/TS apps to effortlessly fetch past events from Nostr relays.
   authors:
@@ -7,7 +7,7 @@
       url: https://github.com/jiftechnify
 
 - name: rx-nostr
-  address: https://github.com/penpenpng/rx-nostr
+  url: https://github.com/penpenpng/rx-nostr
   description:
     en: A library based on RxJS, which allows Nostr applications to easily communicate with relays.
   authors:
@@ -15,7 +15,7 @@
       url: https://github.com/penpenpng
 
 - name: nostr-mux
-  address: https://github.com/murakmii/nostr-mux
+  url: https://github.com/murakmii/nostr-mux
   description:
     en: Multiplexed connections management for Nostr client.
   authors:
@@ -23,7 +23,7 @@
       url: https://github.com/murakmii
 
 - name: nosvelte
-  address: https://github.com/akiomik/nosvelte
+  url: https://github.com/akiomik/nosvelte
   description:
     en: An experimental Svelte library for building Nostr apps easily.
   authors:
@@ -31,7 +31,7 @@
       url: https://github.com/akiomik
 
 - name: lophus
-  address: https://github.com/hasundue/lophus
+  url: https://github.com/hasundue/lophus
   description:
     en: Yet another TypeScript library for Nostr.
   authors:
@@ -39,7 +39,7 @@
       url: https://github.com/hasundue
 
 - name: n8n-nodes-Nostrobots
-  address: https://github.com/ocknamo/n8n-nodes-nostrobots
+  url: https://github.com/ocknamo/n8n-nodes-nostrobots
   description:
     en: An [n8n](https://n8n.io/) node for nostr.
   authors:
@@ -47,7 +47,7 @@
       url: https://github.com/ocknamo
 
 - name: nostr-key-value
-  address: https://github.com/ShinoharaTa/nostr-key-value
+  url: https://github.com/ShinoharaTa/nostr-key-value
   description:
     ja: "NIP-78 (kind: 30078) を使用した key-value Storage"
     en: "Use nostr NIP-78 (kind: 30078) Key Value Storage"
@@ -56,7 +56,7 @@
       url: https://github.com/ShinoharaTa
 
 - name: snow-actions/nostr
-  address: https://github.com/snow-actions/nostr
+  url: https://github.com/snow-actions/nostr
   description:
     ja: EVENT を送信する GitHub Actions
     en: Send EVENT on GitHub Actions

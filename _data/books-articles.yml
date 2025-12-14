@@ -1,5 +1,5 @@
 - name: SoftwareDesign
-  address: https://gihyo.jp/magazine/SD
+  url: https://gihyo.jp/magazine/SD
   description:
     ja: SoftwareDesign誌にてnostrに関する連載記事を掲載中
     en: In a few months, SoftwareDesign, a magazine, a publisher of technical information magazines, will publish a series of articles about nostr.
@@ -8,7 +8,7 @@
       url: https://gihyho.jp
 
 - name: Software Design 2023/7
-  address: https://gihyo.jp/magazine/SD/archive/2023/202307
+  url: https://gihyo.jp/magazine/SD/archive/2023/202307
   description:
     ja: SoftwareDesign誌にてnostrに関する連載記事を掲載中
     en: In a few months, SoftwareDesign, a magazine, a publisher of technical information magazines, will publish a series of articles about nostr.
@@ -17,7 +17,7 @@
       url: https://gihyho.jp
 
 - name: Hello Nostr! 先住民が教えるNostrの歩き方
-  address: https://techbookfest.org/product/veGeNq1tNkYFfWnZWgEC72?productVariantID=u5RZNM5e77xHH97c65PCx9
+  url: https://techbookfest.org/product/veGeNq1tNkYFfWnZWgEC72?productVariantID=u5RZNM5e77xHH97c65PCx9
   description:
     ja: 日本語圏nostrユーザーによるnostr同人誌
     en: A nostr fanzine contributed by writers and illustrators who are Japanese nostr users.
@@ -26,7 +26,7 @@
       url: https://428lab.net
 
 - name: Hello Nostr! Yo Bluesky! 分散SNSの最前線
-  address: https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp
+  url: https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp
   description:
     ja: 日本語圏nostr&Blueskyユーザーによるnostr&Bluesky同人誌
     en: A nostr and Bluesky fanzine contributed by writers and illustrators who are Japanese nostr and Bluesky users. (the next)
@@ -35,7 +35,7 @@
       url: https://428lab.net
 
 - name: nostr Scrapbox
-  address: https://scrapbox.io/nostr/
+  url: https://scrapbox.io/nostr/
   description:
     ja: nostrに関する日本語情報まとめ
     en: A knowledge base about nostr in Japanese.

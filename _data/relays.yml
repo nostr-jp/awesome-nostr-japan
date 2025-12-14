@@ -1,4 +1,4 @@
-- address: wss://relay.nostr.wirednet.jp
+- url: wss://relay.nostr.wirednet.jp
   description:
     ja: ワールドワイドリレー
     en: World wide relay
@@ -6,7 +6,7 @@
     - name: imksoo
       url: https://github.com/imksoo
 
-- address: wss://relay-jp.nostr.wirednet.jp
+- url: wss://relay-jp.nostr.wirednet.jp
   description:
     ja: 日本向けリレー
     en: Japanese oriented relay
@@ -14,7 +14,7 @@
     - name: imksoo
       url: https://github.com/imksoo
 
-- address: wss://ipv6.nostr.wirednet.jp
+- url: wss://ipv6.nostr.wirednet.jp
   description:
     ja: ipv6リレー
     en: ipv6 relay
@@ -22,17 +22,17 @@
     - name: imksoo
       url: https://github.com/imksoo
 
-- address: wss://nostr.holybea.com
+- url: wss://nostr.holybea.com
   authors:
     - name: ほりべあ
       url: https://holybea.com
 
-- address: wss://nostr.fediverse.jp
+- url: wss://nostr.fediverse.jp
   authors:
     - name: αυγοτάραχο σολωμου
       url: https://nostx.shino3.net/npub1xmqfm9s0yxyadzjh0cp7gsf7fxy0xfgaq23cp9p7fnee6cehrlxq6c6tkw
 
-- address: wss://yabu.me
+- url: wss://yabu.me
   description:
     ja: (主に) 日本ユーザー向けのアグリゲーターリレー
     en: Aggregator relay for (mainly) Japanese users.
@@ -40,7 +40,7 @@
     - name: αυγοτάραχο σολωμου
       url: https://yabu.me/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7
 
-- address: wss://nostr-relay.nokotaro.com
+- url: wss://nostr-relay.nokotaro.com
   description:
     ja: ワールドワイドリレー
     en: World wide relay
@@ -48,7 +48,7 @@
     - name: Nokotaro Takeda
       url: https://github.com/nokotaro
 
-- address: wss://nrelay.c-stellar.net
+- url: wss://nrelay.c-stellar.net
   description:
     ja: 運営者のフォロワーのみ書き込み可能なリレー
     en: Relay that only allows followers of the operator to write
@@ -56,7 +56,7 @@
     - name: jiftechnify
       url: https://github.com/jiftechnify
 
-- address: wss://nrelay-jp.c-stellar.net
+- url: wss://nrelay-jp.c-stellar.net
   description:
     ja: 日本向けリレー
     en: Japanese oriented relay
@@ -64,7 +64,7 @@
     - name: jiftechnify
       url: https://github.com/jiftechnify
 
-- address: wss://relay.yozora.world
+- url: wss://relay.yozora.world
   description:
     ja: Starlinkの衛星回線のみで運用されている有料リレー
     en: Paid relay via Starlink's satellite network
@@ -72,7 +72,7 @@
     - name: godzhigella
       url: https://github.com/higedamc
 
-- address: wss://r.kojira.io
+- url: wss://r.kojira.io
   description:
     ja: 日本向けリレー
     en: Japanese oriented relay
@@ -80,7 +80,7 @@
     - name: kojira
       url: https://github.com/kojira
 
-- address: wss://nostr.compile-error.net
+- url: wss://nostr.compile-error.net
   description:
     ja: Go で書かれた日本向けリレー
     en: Japanese oriented relay written in Go
@@ -88,7 +88,7 @@
     - name: mattn
       url: https://github.com/mattn
 
-- address: wss://cagliostr.compile-error.net
+- url: wss://cagliostr.compile-error.net
   description:
     ja: C++ で書かれた日本向けリレー
     en: Japanese oriented relay written in C++
@@ -96,7 +96,7 @@
     - name: mattn
       url: https://github.com/mattn
 
-- address: wss://lua-nostr-relay.compile-error.net
+- url: wss://lua-nostr-relay.compile-error.net
   description:
     ja: Lua で書かれた日本向けリレー
     en: Japanese oriented relay written in Lua
@@ -104,7 +104,7 @@
     - name: mattn
       url: https://github.com/mattn
 
-- address: wss://lisp-nostr-relay.compile-error.net
+- url: wss://lisp-nostr-relay.compile-error.net
   description:
     ja: Common Lisp で書かれた日本向けリレー
     en: Japanese oriented relay written in Common Lisp
@@ -112,7 +112,7 @@
     - name: mattn
       url: https://github.com/mattn
 
-- address: wss://ruby-nostr-relay.compile-error.net
+- url: wss://ruby-nostr-relay.compile-error.net
   description:
     ja: Ruby で書かれた日本向けリレー
     en: Japanese oriented relay written in Ruby
@@ -120,7 +120,7 @@
     - name: mattn
       url: https://github.com/mattn
 
-- address: wss://nim-nostr-relay.compile-error.net
+- url: wss://nim-nostr-relay.compile-error.net
   description:
     ja: Nim で書かれた日本向けリレー
     en: Japanese oriented relay written in Nim
@@ -128,7 +128,7 @@
     - name: mattn
       url: https://github.com/mattn
 
-- address: wss://crystal-nostr-relay.compile-error.net
+- url: wss://crystal-nostr-relay.compile-error.net
   description:
     ja: Crystal で書かれた日本向けリレー
     en: Japanese oriented relay written in Crystal

@@ -1,5 +1,5 @@
 - name: nostter
-  address: http://nostter.vercel.app
+  url: http://nostter.vercel.app
   description:
     ja: Nostr Webクライアント
     en: Nostr client for web.
@@ -8,7 +8,7 @@
       url: https://github.com/SnowCait
 
 - name: Rabbit
-  address: https://rabbit.syusui.net/
+  url: https://rabbit.syusui.net/
   description:
     ja: TweetDeckライクなNostr Webクライアント
     en: A nostr client like TweetDeck.
@@ -17,7 +17,7 @@
       url: https://github.com/syusui-s
 
 - name: Astraea
-  address: https://astraea.mousedev.page
+  url: https://astraea.mousedev.page
   description:
     ja: Nostr Webクライアント
     en: Nostr client for web.
@@ -26,7 +26,7 @@
       url: https://njump.me/mouse_484@mousedev.page
 
 - name: Lumilumi
-  address: https://lumilumi.app/
+  url: https://lumilumi.app/
   description:
     ja: Nostr Webクライアント
     en: Nostr client for web.
@@ -35,7 +35,7 @@
       url: https://github.com/TsukemonoGit
 
 - name: Nos Haiku
-  address: https://nos-haiku.vercel.app/
+  url: https://nos-haiku.vercel.app/
   description:
     ja: Nostr Webクライアント
     en: Nostr client for web.
@@ -44,7 +44,7 @@
       url: https://github.com/nikolat
 
 - name: "Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)"
-  address: https://relay-jp.nostr.wirednet.jp/index.html
+  url: https://relay-jp.nostr.wirednet.jp/index.html
   description:
     ja: シンプルなリレーフィードリーダー
     en: Simple Nostr Relay Feed Reader
@@ -53,7 +53,7 @@
       url: https://github.com/imksoo
 
 - name: GARNET
-  address: https://garnet.nostrian.net
+  url: https://garnet.nostrian.net
   description:
     ja: Nostr パブリックチャット(NIP-28) クライアント
     en: Nostr Public Chat(NIP-28) Client.
@@ -62,7 +62,7 @@
       url: https://github.com/murakmii
 
 - name: うにゅうハウス
-  address: https://unyu-house.vercel.app
+  url: https://unyu-house.vercel.app
   description:
     ja: NIP-28(パブリックチャット)用Webクライアント
     en: The web client for NIP-28(Public Chat).
@@ -71,7 +71,7 @@
       url: https://github.com/nikolat
 
 - name: nos.today
-  address: https://nos.today/
+  url: https://nos.today/
   description:
     ja: Web検索クライアント
     en: search web client
@@ -80,7 +80,7 @@
       url: https://github.com/darashi
 
 - name: Nostr playground
-  address: https://snowcait.github.io/nostr-playground/
+  url: https://snowcait.github.io/nostr-playground/
   description:
     ja: plain JavaScriptで作成された、JSONベースのNostr Webクライアント
     en: JSON-based Nostr web client written in plain JavaScript.
@@ -89,7 +89,7 @@
       url: https://github.com/SnowCait
 
 - name: Angolmois
-  address: https://github.com/nikolat/angolmois
+  url: https://github.com/nikolat/angolmois
   description:
     ja: 投稿を表示すると同時に伺か互換ベースウェア(SSTPサーバー)にSSTPを送信し、ゴースト(キャラクター)に投稿を喋らせるNostr Webアプリ
     en: Retrieve posts from Nostr and send SSTP to Ukagaka.
@@ -98,7 +98,7 @@
       url: https://github.com/nikolat
 
 - name: vscode-nostr-client
-  address: https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client
+  url: https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client
   description:
     ja: VSCode拡張機能として動作するNostrクライアント
     en: Nostr client as a VSCode extension.
@@ -107,7 +107,7 @@
       url: https://github.com/jiftechnify
 
 - name: nostatus
-  address: https://nostatus.vercel.app
+  url: https://nostatus.vercel.app
   description:
     ja: ユーザステータス(NIP-38) の閲覧に特化したクライアント
     en: A nostr client that specializes in browsing user statuses (NIP-38).
@@ -116,7 +116,7 @@
       url: https://github.com/jiftechnify
 
 - name: eHagaki
-  address: https://lokuyow.github.io/ehagaki/
+  url: https://lokuyow.github.io/ehagaki/
   description:
     ja: モバイルに特化した軽量な投稿専用クライアント
     en: Lightweight mobile client just for posting

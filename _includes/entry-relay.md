@@ -1,5 +1,5 @@
 <li>
-  <code>{{ include.entry.address }}</code>
+  <code>{{ include.entry.url }}</code>
 
   {% if entry.description %}
     - {%- include t.md content=entry.description -%}

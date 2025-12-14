@@ -1,5 +1,5 @@
 - name: Nostrends
-  address: https://nostrends.vercel.app
+  url: https://nostrends.vercel.app
   description:
     ja: nostrのトレンド表示サイト
     en: Trending posts on nostr.
@@ -8,7 +8,7 @@
       url: https://github.com/akiomik
 
 - name: nostrbuzzs
-  address: https://nostrbuzzs.deno.dev
+  url: https://nostrbuzzs.deno.dev
   description:
     ja: nostrのトレンドバズワード表示サイト
     en: Trending nostr's buzz word
@@ -17,7 +17,7 @@
       url: https://github.com/darashi
 
 - name: nosutora
-  address: https://nosutora.com
+  url: https://nosutora.com
   description:
     ja: nostr のドメイン名認証(NIP-05)を簡単にできるやつ
     en: Get NIP-05
@@ -26,7 +26,7 @@
       url: https://njump.me/piyo@nosutora.com
 
 - name: nostr-post-checker
-  address: https://koteitan.github.io/nostr-post-checker/
+  url: https://koteitan.github.io/nostr-post-checker/
   description:
     ja: イベントがどのリレーに存在し、どのリレーに存在していないかを確認できるツール
     en: post checker for nostr protocol.
@@ -35,7 +35,7 @@
       url: https://github.com/koteitan
 
 - name: Nosli
-  address: https://nosli.vercel.app
+  url: https://nosli.vercel.app
   description:
     ja: Nosli (ノスリ) は、分散SNSのためのオープンプロトコルである Nostr 上の投稿まとめ作成ツール(NIP-23を使用)
     en: Create curated list of posts on nostr with NIP-23 backend.
@@ -44,7 +44,7 @@
       url: https://github.com/akiomik
 
 - name: nostr-picker
-  address: https://penpenpng.github.io/nostr-picker/
+  url: https://penpenpng.github.io/nostr-picker/
   description:
     ja: 公開鍵からお気に入り投稿を取得します
     en: Nostr Picker
@@ -53,7 +53,7 @@
       url: https://github.com/penpenpng
 
 - name: Nostr村放送局(nostradio)
-  address: https://nostradio.deno.dev/
+  url: https://nostradio.deno.dev/
   description:
     ja: nostrの投稿を読み上げるWebラジオ
     en: Speaking nostr's post on web radio
@@ -62,7 +62,7 @@
       url: https://github.com/darashi
 
 - name: murasaki
-  address: https://github.com/darashi/murasaki
+  url: https://github.com/darashi/murasaki
   description:
     ja: VOICEVOX を利用したタイムライン読み上げツール
     en: Nostr speaker on web with [VOICEVOX](https://voicevox.hiroshiba.jp/)
@@ -71,7 +71,7 @@
       url: https://github.com/darashi
 
 - name: Speaking nostr's post on web radio by murasaki
-  address: http://ik1-219-79732.vs.sakura.ne.jp:5000/nostr_listen.html
+  url: http://ik1-219-79732.vs.sakura.ne.jp:5000/nostr_listen.html
   description:
     ja: murasakiを用いたnostrの投稿を読み上げるWebラジオ
   authors:
@@ -79,7 +79,7 @@
       url: https://nostx.shino3.net/npub15w7wp9wdp6p53vy5eysph5xryu82ltmc7am9zl6pqyexmt6ukllst6ddy2
 
 - name: Nosaray
-  address: https://github.com/jiftechnify/nosaray
+  url: https://github.com/jiftechnify/nosaray
   description:
     ja: 過去の投稿を取得するツール
     en: Wayback Machine for Nostr
@@ -88,7 +88,7 @@
       url: https://github.com/jiftechnify
 
 - name: nostr-notes-duplicate
-  address: https://nostrlogs-relay-jp.nostr.wirednet.jp/nostr-notes-duplicate.html
+  url: https://nostrlogs-relay-jp.nostr.wirednet.jp/nostr-notes-duplicate.html
   description:
     ja: 複数リレー間の投稿同期ツール
     en: Post synchronization tool to multiple relays
@@ -97,7 +97,7 @@
       url: https://github.com/imksoo
 
 - name: nostrlogs
-  address: https://nostrlogs-relay-jp.nostr.wirednet.jp/nostrlogs.html
+  url: https://nostrlogs-relay-jp.nostr.wirednet.jp/nostrlogs.html
   description:
     ja: 過去の投稿の表示と、別リレーへの投稿同期ツール
     en: Fetch posts from multi relays and submit to a selected relay
@@ -106,7 +106,7 @@
       url: https://github.com/imksoo
 
 - name: NostrFlu
-  address: https://heguro.github.io/nostr-following-list-util/
+  url: https://heguro.github.io/nostr-following-list-util/
   description:
     ja: "Nostr Following List Util: Nostrのフォローリストを集めたり再送信するやつ"
     en: Find and display past kind:3 (Contacts) events from multiple relays, backup and etc
@@ -115,7 +115,7 @@
       url: https://github.com/heguro
 
 - name: NosTx
-  address: https://github.com/ShinoharaTa/Nostx
+  url: https://github.com/ShinoharaTa/Nostx
   description:
     en: To Nostr client transformer from note & userpub key
   authors:
@@ -123,7 +123,7 @@
       url: https://github.com/ShinoharaTa/Nostx
 
 - name: Nostr search portal
-  address: https://nostr.hoku.in/
+  url: https://nostr.hoku.in/
   description:
     ja: Nostr上の日本語のNote（つぶやき）をキーワード検索できるポータル
     en: Nostr portal. Big function is  a search engine in japanese. and etc.
@@ -132,7 +132,7 @@
       url: https://njump.me/hoku@nostr.hoku.in
 
 - name: "#illust tagged notes on Nostr"
-  address: https://nostr-illust.vercel.app/
+  url: https://nostr-illust.vercel.app/
   description:
     ja: "#illust タグで投稿されたイラストを表示するサイト"
     en: Illustration viewing
@@ -141,7 +141,7 @@
       url: https://github.com/murakmii
 
 - name: BBS on Nostr
-  address: https://bbs-on-nostr.vercel.app/
+  url: https://bbs-on-nostr.vercel.app/
   description:
     ja: Nostr上に実験的に実装されたBBS
     en: BBS using nostr as data storage
@@ -150,7 +150,7 @@
       url: https://github.com/murakmii
 
 - name: nostrbbs
-  address: https://test.ikeji.ma/nostrbbs
+  url: https://test.ikeji.ma/nostrbbs
   description:
     ja: nostrをデータ保存場所として使う掲示板
     en: BBS using nostr as data storage
@@ -159,7 +159,7 @@
       url: https://github.com/ikeji
 
 - name: nostr-reversi
-  address: https://github.com/studiokaiji/nostr-reversi
+  url: https://github.com/studiokaiji/nostr-reversi
   description:
     ja: nostr上で動作するリバーシ
     en: Reversi working on Nostr
@@ -168,7 +168,7 @@
       url: https://github.com/studiokaiji
 
 - name: shotr
-  address: https://6or.cc/
+  url: https://6or.cc/
   description:
     ja: nostrで動作するURL短縮サービス
     en: Shorted URL service powered by nostr.
@@ -177,7 +177,7 @@
       url: https://github.com/ocknamo
 
 - name: 野州田川水系 定点観測所
-  address: https://nostr-hotter-site.vercel.app
+  url: https://nostr-hotter-site.vercel.app
   description:
     ja: nostr リレー（JP）の投稿数をグラフ表示してくれるサイト
     en: nostr Relay (JP) site that displays the number of posts in a graph.
@@ -186,7 +186,7 @@
       url: https://github.com/ShinoharaTa
 
 - name: nosey
-  address: https://nosey.vercel.app
+  url: https://nosey.vercel.app
   description:
     ja: nostr 用サーチエンジン
     en: Search engine for nostr
@@ -195,7 +195,7 @@
       url: https://github.com/akiomik
 
 - name: nostr.json generator
-  address: https://snowcait.github.io/nostr-json-generator
+  url: https://snowcait.github.io/nostr-json-generator
   description:
     ja: NIP-65 または NIP-07 から nostr.json を生成
     en: Generate nostr.json from NIP-65 or NIP-07
@@ -204,7 +204,7 @@
       url: https://github.com/SnowCait
 
 - name: findmine
-  address: https://koteitan.github.io/findmine/
+  url: https://koteitan.github.io/findmine/
   description:
     ja: nostr/Bluesky/twitter/twilog で自分の投稿を検索
     en: search your posts in nostr/Bluesky/twitter/twilog.
@@ -213,7 +213,7 @@
       url: https://github.com/koteitan
 
 - name: nostr-bookmark-trend
-  address: https://nikolat.github.io/nostr-bookmark-trend/
+  url: https://nikolat.github.io/nostr-bookmark-trend/
   description:
     ja: フォローイーがブックマークしているイベントを表示
     en: show Nostr events bookmarked by followees
@@ -222,7 +222,7 @@
       url: https://github.com/nikolat
 
 - name: NostViewstr
-  address: https://nostviewstr.vercel.app/
+  url: https://nostviewstr.vercel.app/
   description:
     ja: いろんなNostrイベントを見たり編集したりできるWebアプリ
     en: Web app to view and edit various Nostr events
@@ -231,7 +231,7 @@
       url: https://github.com/TsukemonoGit
 
 - name: Luminostr
-  address: https://tsukemonogit.github.io/luminostr/
+  url: https://tsukemonogit.github.io/luminostr/
   description:
     ja: Nostrの特定のkindの置換可能（replaceable）イベントをいろんなリレーから探しだして、特定の時点でのイベントで上書きする
     en: Find replaceable events of a specific kind from various relays, and overwrite them with the events at a specific point in time.
@@ -240,7 +240,7 @@
       url: https://github.com/TsukemonoGit
 
 - name: Zapline-JP
-  address: https://tiltpapa.github.io/zapline-jp
+  url: https://tiltpapa.github.io/zapline-jp
   description:
     ja: 日本ユーザーのZapの流れを観察できるサイト
     en: Watching Zap of Japan cluster
@@ -249,7 +249,7 @@
       url: https://github.com/tiltpapa
 
 - name: MAKIBISHI
-  address: https://nikolat.github.io/makibishi/
+  url: https://nikolat.github.io/makibishi/
   description:
     ja: あらゆるWebサイトにスターを付けられるようにする
     en: add a star to any website
@@ -258,7 +258,7 @@
       url: https://github.com/nikolat
 
 - name: Nostr hours
-  address: https://snowcait.github.io/nostr-hours/
+  url: https://snowcait.github.io/nostr-hours/
   description:
     ja: 活動時間の可視化
     en: How many hours do you spend in Nostr?
@@ -267,7 +267,7 @@
       url: https://github.com/SnowCait
 
 - name: 地鳳
-  address: https://nikolat.github.io/chiihou/
+  url: https://nikolat.github.io/chiihou/
   description:
     ja: オンライン麻雀ゲーム
     en: Mahjong game online
@@ -276,7 +276,7 @@
       url: https://github.com/nikolat
 
 - name: Nostr Follow Organizer
-  address: https://tsukemonogit.github.io/NFO/
+  url: https://tsukemonogit.github.io/NFO/
   description:
     ja: ユーザーのフォローリストを取得し、最新の投稿日時や相互フォローの有無などの情報を表示します。並び替え機能もあるので、最近投稿していない人など、フォローしているユーザーを簡単に整理できます。
     en: It retrieves a user's following list and displays information such as the time of their most recent post and whether or not they are following each other. There is also a sorting function, so you can easily organize your following, such as people who haven't posted recently.
@@ -285,7 +285,7 @@
       url: https://github.com/TsukemonoGit
 
 - name: nostr-share-component
-  address: https://tsukemonogit.github.io/nostr-share-component/
+  url: https://tsukemonogit.github.io/nostr-share-component/
   description:
     ja: サイトをNostrで共有するボタンを簡単に追加できるコンポーネントです。
     en: This component allows you to easily add a button to share a web page on Nostr.
@@ -294,7 +294,7 @@
       url: https://github.com/TsukemonoGit
 
 - name: MAKIMONO
-  address: https://makimono.lumilumi.app/
+  url: https://makimono.lumilumi.app/
   description:
     ja: 記事の編集機能を備えた軽量なロングフォームコンテンツエディタです。NIP-19によるNostr IDの埋め込みとカスタム絵文字の統合をサポートしています。
     en: A lightweight Long Form Content Editor with editing functionality for your articles. It supports embedding Nostr IDs via NIP-19 and custom emoji integration.
@@ -303,7 +303,7 @@
       url: https://github.com/TsukemonoGit
 
 - name: KUCHIYOSE
-  address: https://kuchiyose.vercel.app/
+  url: https://kuchiyose.vercel.app/
   description:
     ja: ソーシャルブックマーク
     en: social bookmarking service

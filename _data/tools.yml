@@ -1,5 +1,5 @@
 - name: nostr-keyx
-  address: https://github.com/susumuota/nostr-keyx
+  url: https://github.com/susumuota/nostr-keyx
   description:
     ja: OSキーチェーンやYubikeyを用いて秘密鍵を保護するNIP-07ブラウザ拡張
     en: "A NIP-07 browser extension that uses the OS's keychain or YubiKey to protect your private keys. "
@@ -8,7 +8,7 @@
       url: https://github.com/susumuota
 
 - name: share-on-nostr
-  address: https://github.com/penpenpng/share-on-nostr
+  url: https://github.com/penpenpng/share-on-nostr
   description:
     ja: アクティブなタブを短縮URLにしてNostrで共有するChrome拡張
     en: Chrome extension to share URL of an active tab on Nostr.
@@ -17,7 +17,7 @@
       url: https://github.com/penpenpng
 
 - name: nake
-  address: https://github.com/TsukemonoGit/nake
+  url: https://github.com/TsukemonoGit/nake
   description:
     ja: NostrのHEXIDとNIP-19 (bech32-encoded entities)を簡単に相互変換できるchrome & firefox 拡張機能
     en: chrome & firefox Extension easily convert between NOSTR's hexid⇔NIP-19 (bech32-encoded entities).
@@ -26,7 +26,7 @@
       url: https://github.com/TsukemonoGit
 
 - name: danmakustr
-  address: https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb
+  url: https://chromewebstore.google.com/detail/mohbdimkkpjjibdfipfajpgpmegnglhb
   description:
     ja: Nostrを基盤としたChrome拡張機能で、YouTube上でニコニコ風のコメントを送信できます
     en: A Chrome extension based on Nostr that allows users to send comments on YouTube in a style similar to Niconico.

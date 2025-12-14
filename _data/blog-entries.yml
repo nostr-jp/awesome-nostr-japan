@@ -1,5 +1,5 @@
 - name: Nostrプロトコル(damus)を触ってみた
-  address: https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286
+  url: https://qiita.com/gpsnmeajp/items/77eee9535fb1a092e286
   description:
     ja: 日本語で書かれたNostrプロトコルの概要
     en: An overview of the Nostr protocol written in Japanese
@@ -8,7 +8,7 @@
       url: https://github.com/gpsnmeajp
 
 - name: Damus (ダムス) for Nostr
-  address: https://stacksats.jp/damus-nostr
+  url: https://stacksats.jp/damus-nostr
   description:
     ja: NostrおよびDamusを紹介する記事
     en: Article introducing Nostr and Damus.

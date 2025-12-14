@@ -1,29 +1,29 @@
 - name: 話題の投稿がみれるサービス Nostrendsをつくったよ🤙 / About Nostrends
-  address: https://speakerdeck.com/akiomik/about-nostrends
+  url: https://speakerdeck.com/akiomik/about-nostrends
   authors:
     - name: akiomik
       url: https://github.com/akiomik
 
 - name: Nostr版togetterのNosliとNIP-33 / About Nosli and NIP-33
-  address: https://speakerdeck.com/akiomik/about-nosli-and-nip-33
+  url: https://speakerdeck.com/akiomik/about-nosli-and-nip-33
   authors:
     - name: akiomik
       url: https://github.com/akiomik
 
 - name: とある絵描きの Nostr の楽しみかた
-  address: https://speakerdeck.com/awayukinet/toaruhui-miao-kino-nostr-nole-simikata
+  url: https://speakerdeck.com/awayukinet/toaruhui-miao-kino-nostr-nole-simikata
   authors:
     - name: awayuki
       url: https://njump.me/awayuki.net
 
 - name: NIP-11a(NIP-111)の要望と変遷
-  address: https://speakerdeck.com/kappaseijin/nostr-study-meeting-1-by-kappaseijin
+  url: https://speakerdeck.com/kappaseijin/nostr-study-meeting-1-by-kappaseijin
   authors:
     - name: kappaseijin
       url: https://njump.me/kappa.seijin.jp
 
 - name: Passkey Authentication with Nostr (NIP-07, nostr-keyx, YubiKey)
-  address: https://speakerdeck.com/s_ota/nostr-keyx-20230310
+  url: https://speakerdeck.com/s_ota/nostr-keyx-20230310
   authors:
     - name: susumuota
       url: https://github.com/susumuota

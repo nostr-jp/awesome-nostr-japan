@@ -1,5 +1,5 @@
 - name: nostr-relay
-  address: https://github.com/mattn/nostr-relay
+  url: https://github.com/mattn/nostr-relay
   description:
     en: postgresql/mysql/sqlite3 backended nostr relay. backup by [litestream](https://litestream.io/) for sqlite
   authors:
@@ -7,7 +7,7 @@
       url: https://github.com/mattn
 
 - name: searchnos
-  address: https://github.com/darashi/searchnos
+  url: https://github.com/darashi/searchnos
   description:
     ja: NIP-50の試験的な実装
     en: An experimental implementation of NIP-50.
@@ -16,7 +16,7 @@
       url: https://github.com/darashi
 
 - name: cagliostr
-  address: https://github.com/mattn/cagliostr
+  url: https://github.com/mattn/cagliostr
   description:
     en: C++ implementation of Nostr relay
   authors:
@@ -24,7 +24,7 @@
       url: https://github.com/mattn
 
 - name: zig-nostr-relay
-  address: https://github.com/mattn/zig-nostr-relay
+  url: https://github.com/mattn/zig-nostr-relay
   description:
     en: Zig implementation of Nostr relay
   authors:
