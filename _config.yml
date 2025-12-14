@@ -2,5 +2,5 @@ title: awesome-nostr-japan
 theme: minima
 data_files_url: https://github.com/nostr-jp/awesome-nostr-japan/blob/main/_data
 header_pages:
-  - ja.md
+  - index.md
   - en.md
