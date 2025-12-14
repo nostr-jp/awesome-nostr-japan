@@ -32,6 +32,7 @@
   title:
     ja: 便利ツール
     en: Tools
+  entry_template: entry.md
 
 - entries: bots
   title:
