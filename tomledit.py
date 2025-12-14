@@ -141,12 +141,13 @@ class App:
             isinstance(values, dict),
         )): return toml_data
         keys = ["name", "address", "description", "description_ja", "author_name", "author_url"]
-        if len(values) != 6 or values not in keys: return toml_data
+        if len(values) != 6: return toml_data
+        if not all(tuple(True if e in keys else False for e in values.keys())): return toml_data
         if not all((
             isinstance(values["author_name"], list),
             isinstance(values["author_url"], list)
         )): return toml_data
-
+        
         try:
             toml_data[genre].update({field:values})
         except:
@@ -282,8 +283,8 @@ class App:
         # その他の入力内容を取得
         title = self.title_entry.get()
         url = self.url_entry.get()
-        summary_eng = self.summary_eng_entry.get("1.0", tk.END)
-        summary_jpn = self.summary_jpn_entry.get("1.0", tk.END)
+        summary_eng = self.summary_eng_entry.get("1.0", tk.END).replace('\r','').replace('\n','')
+        summary_jpn = self.summary_jpn_entry.get("1.0", tk.END).replace('\r','').replace('\n','')
         author_name = self.author_name_entry.get()
         author_url = self.author_url_entry.get()
 
