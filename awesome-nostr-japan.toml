@@ -585,6 +585,14 @@ caption = "Web Clients"
   author_url = ["https://github.com/jiftechnify"]
 
 
+  [WebClients.eHagaki]
+  name = "eHagaki"
+  address = "https://lokuyow.github.io/ehagaki/"
+  description = "Lightweight mobile client just for posting"
+  description_ja = "モバイルに特化した軽量な投稿専用クライアント"
+  author_name = ["Lokuyow"]
+  author_url = ["https://github.com/Lokuyow"]
+
 
 
 [CLIClients]
