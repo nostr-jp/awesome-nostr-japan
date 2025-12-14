@@ -1,0 +1,68 @@
+- name: Nostr勉強会#0 (nostrstudy #0)
+  address: https://www.youtube.com/live/IbMhpGNhUuE?feature=share
+  description:
+    ja: オンラインで開催されたnostr勉強会(1回目)
+    en: nostr conference 1 in Japan powered
+  authors:
+    - name: 四谷ラボ
+      url: https://428lab.net/
+
+- name: Nostr勉強会#1 (nostrstudy #1)
+  address: https://www.youtube.com/live/J6wgG4epGK0?feature=share
+  description:
+    ja: オンラインで開催されたnostr勉強会(2回目)
+    en: nostr conference 2 in Japan powered
+  authors:
+    - name: 四谷ラボ
+      url: https://428lab.net/
+
+- name: Nostr勉強会#2 (nostrstudy #2)
+  address: https://www.youtube.com/watch?v=j7IZeAzL67M
+  description:
+    ja: オンラインで開催されたnostr勉強会(3回目)
+    en: nostr conference 3 in Japan powered
+  authors:
+    - name: 四谷ラボ
+      url: https://428lab.net/
+
+- name: Nostr勉強会#3 (nostrstudy #3)
+  address: https://www.youtube.com/watch?v=t3VkJpr1_sA
+  description:
+    ja: オンラインで開催されたnostr勉強会(4回目)
+    en: nostr conference 4 in Japan powered
+  authors:
+    - name: 四谷ラボ
+      url: https://428lab.net/
+
+- name: Nostr勉強会#1 [わいがや副音声] (nostrstudy #1 public viewing)
+  address: https://youtube.com/live/jHuMltEjp2w
+  description:
+    ja: nostr勉強会パブリックビューイング会場
+    en: public viewing of the conference powered
+  authors:
+    - name: ROBO358
+      url: https://www.robo358.com/
+
+- name: Nostr勉強会#2 [わいがや副音声] (nostrstudy #2 public viewing)
+  address: https://www.youtube.com/watch?v=vJlTeZtRl0k
+  description:
+    ja: nostr勉強会パブリックビューイング会場
+    en: public viewing of the conference powered
+  authors:
+    - name: ROBO358
+      url: https://www.robo358.com/
+
+- name: Nostr勉強会#3 [わいがや副音声] (nostrstudy #3 public viewing)
+  address: https://www.youtube.com/watch?v=7AjroI3liEA
+  description:
+    ja: nostr勉強会パブリックビューイング会場
+    en: public viewing of the conference powered
+  authors:
+    - name: ROBO358
+      url: https://www.robo358.com/
+
+- name: 新時代の分散型SNS勉強会
+  address: https://www.youtube.com/watch?v=zdWKM9Lpaok
+  authors:
+    - name: 四谷ラボ
+      url: https://428lab.net/

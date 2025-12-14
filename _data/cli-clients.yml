@@ -1,0 +1,43 @@
+- name: algia
+  address: https://github.com/mattn/algia
+  description:
+    ja: nostr向けcliアプリケーション
+    en: A cli application for nostr
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: nostk
+  address: https://github.com/mitsugu/nostk
+  description:
+    ja: nostr向けcliアプリケーション
+    en: A cli application for nostr
+  authors:
+    - name: mitsugu oyama (orzbruford)
+      url: https://github.com/mitsugu
+
+- name: nosp
+  address: https://github.com/mitsugu/nosp
+  description:
+    en: A tui controller and pager for nostk
+  authors:
+    - name: mitsugu oyama (orzbruford)
+      url: https://github.com/mitsugu
+
+- name: nosdump
+  address: https://github.com/jiftechnify/nosdump
+  description:
+    ja: リレーに保存されたイベントをダンプするCLIツール
+    en: A cli tool for dumping events stored in relays
+  authors:
+    - name: jiftechnify
+      url: https://github.com/jiftechnify
+
+- name: nostui
+  address: https://github.com/akiomik/nostui
+  description:
+    ja: Nostr用TUIクライアント
+    en: A TUI client for Nostr
+  authors:
+    - name: akiomik
+      url: https://github.com/akiomik
