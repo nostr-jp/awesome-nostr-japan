@@ -756,69 +756,6 @@ caption = "Tools"
 
 caption = "Bots"
 
-  [Bots.haiku]
-  name = "haiku"
-  address = "https://njump.me/haiku@iris.to"
-  description = "[Haiku](https://en.wikipedia.org/wiki/Haiku) collector"
-  description_ja = "[俳句](https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5)コレクター"
-  author_name = ["mattn"]
-  author_url = ["https://github.com/mattn"]
-
-
-  [Bots.markovbot]
-  name = "markovbot"
-  address = "https://njump.me/markovbot@mattn.github.io"
-  description = "Markov chain bot"
-  description_ja = "マルコフ連鎖ボット"
-  author_name = ["mattn"]
-  author_url = ["https://github.com/mattn"]
-
-
-  [Bots.golang_news]
-  name = "golang_news"
-  address = "https://njump.me/golang_news@mattn.github.io"
-  description = "[Go](https://go.dev) language news"
-  description_ja = "[Go](https://go.dev) 言語ニュース"
-  author_name = ["mattn"]
-  author_url = ["https://github.com/mattn"]
-
-
-  [Bots.nips_changes]
-  name = "nips_changes"
-  address = "https://njump.me/nips_changes@mattn.github.io"
-  description = "Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)"
-  description_ja = "[github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)のgitコミットをお知らせ"
-  author_name = ["mattn"]
-  author_url = ["https://github.com/mattn"]
-
-
-  [Bots.makeitquote]
-  name = "makeitquote"
-  address = "https://njump.me/makeitquote@iris.to"
-  description = "Generate image of the post"
-  description_ja = "投稿から画像を生成"
-  author_name = ["mattn"]
-  author_url = ["https://github.com/mattn"]
-
-
-  [Bots.nullpoga]
-  name = "nullpoga"
-  address = "https://nostx.shino3.net/npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc"
-  description = "A misc bot"
-  description_ja = "いろいろbot"
-  author_name = ["mattn"]
-  author_url = ["https://github.com/mattn"]
-
-
-  [Bots.mahjong]
-  name = "mahjong"
-  address = "https://nostx.shino3.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x"
-  description = "A bot for playing mahjong game"
-  description_ja = "麻雀ゲームbot"
-  author_name = ["mattn"]
-  author_url = ["https://github.com/mattn"]
-
-
   [Bots.namazu]
   name = "EEWなまずくん予報"
   address = "https://njump.me/namazu@matsuu.org"
@@ -1089,20 +1026,56 @@ caption = "Bots"
   author_url = ["https://github.com/ShinoharaTa"]
 
 
-  [Bots.npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf]
-  name = "今日は何の日"
-  address = "https://nostx.shino3.net/npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf"
-  description = "Posts what's today at every morning"
-  description_ja = "今日は何の日かを毎朝投稿します"
-  author_name = ["mattn"]
-  author_url = ["https://github.com/mattn"]
+  [Bots.npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv]
+  name = "iroiroBot"
+  address = "https://njump.compile-error.net/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv"
+  description = "A BOT that posts tools made by users, tools that are useful for Nostr, and information related to Nostr at 16 minutes past the hour."
+  description_ja = "みんなの作ったツールとか、Nostrでお役立ちなツールとか、Nostrにゆかりのある情報とかを毎時16分にポストするBOT"
+  author_name = ["mono"]
+  author_url = ["https://github.com/TsukemonoGit"]
 
 
   [Bots.npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp]
   name = "不審者情報"
   address = "https://njump.compile-error.net/npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp"
-  description = "日本不審者情報センターの情報を転載しています。(Unofficial)"
+  description = "日本不審者情報センターの情報を転載しています。(非公式)"
   description_ja = "日本不審者情報センターの情報を転載しています。(非公式)"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub16xmrzayk8p4ekvpxc944q6a2pqd6npk2ea5adgnckqfmhwyw0r7s0q44ey]
+  name = "5000000000000000警察"
+  address = "https://njump.compile-error.net/npub16xmrzayk8p4ekvpxc944q6a2pqd6npk2ea5adgnckqfmhwyw0r7s0q44ey"
+  description = "5000000000000000警察です。間違いを指摘します。"
+  description_ja = "5000000000000000警察です。間違いを指摘します。"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub17a50460j8y99yglsqzjzfh4exq4f8q0r82ackzzv4pz0dyd3rnwsxc9tp2]
+  name = "Buzz Word"
+  address = "https://njump.compile-error.net/npub17a50460j8y99yglsqzjzfh4exq4f8q0r82ackzzv4pz0dyd3rnwsxc9tp2"
+  description = "人気のワードランキング(バズワード)をお届けします。"
+  description_ja = "人気のワードランキング(バズワード)をお届けします。"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub17qqekpej52c6wqmqlw84mkmlgp2ylz6xkryj3ccqk5vld4f7clys047uwf]
+  name = "Markov Chain"
+  address = "https://njump.compile-error.net/npub17qqekpej52c6wqmqlw84mkmlgp2ylz6xkryj3ccqk5vld4f7clys047uwf"
+  description = "マルコフ連鎖 bot"
+  description_ja = "マルコフ連鎖 bot"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6]
+  name = "mattn"
+  address = "https://njump.compile-error.net/npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6"
+  description = "Long-time #Golang user&contributor,  #GoogleDevExpert  Go, #Vim, #Windows hacker, ex-#GitHubStars, #runner."
+  description_ja = "Long-time #Golang user&contributor,  #GoogleDevExpert  Go, #Vim, #Windows hacker, ex-#GitHubStars, #runner."
   author_name = ["mattn"]
   author_url = ["https://github.com/mattn"]
 
@@ -1110,8 +1083,80 @@ caption = "Bots"
   [Bots.npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh]
   name = "サイゼガチャ"
   address = "https://njump.compile-error.net/npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh"
-  description = "サイゼリヤのメニューをお選びします。(Unofficial)"
-  description_ja = "サイゼリヤのメニューをお選びします。(非公式)"
+  description = "サイゼリヤのメニューをお選びします。"
+  description_ja = "サイゼリヤのメニューをお選びします。"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc]
+  name = "ぬるぽ・ｶﾞｯ"
+  address = "https://njump.compile-error.net/npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc"
+  description = "ぬるぽ を許さない"
+  description_ja = "ぬるぽ を許さない"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1ft7qy8qrf4huyk48nz0jf7parw3pfjs24az7py80ex8ympnqw6csz85fxu]
+  name = "俳句bot"
+  address = "https://njump.compile-error.net/npub1ft7qy8qrf4huyk48nz0jf7parw3pfjs24az7py80ex8ympnqw6csz85fxu"
+  description = "The haiku collector."
+  description_ja = "The haiku collector."
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1jdelt5c8400d3qf4v4x5ns0xywgymw7f8rgfx07zp2qpys50du4sm5jkhj]
+  name = "todo bot"
+  address = "https://njump.compile-error.net/npub1jdelt5c8400d3qf4v4x5ns0xywgymw7f8rgfx07zp2qpys50du4sm5jkhj"
+  description = "todo bot"
+  description_ja = "todo bot"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1k2s2288t7runm5rmw83pldgq5yn896402um2mz5tr9uqp6c6nvuqxrwnyz]
+  name = "NIPs Changes"
+  address = "https://njump.compile-error.net/npub1k2s2288t7runm5rmw83pldgq5yn896402um2mz5tr9uqp6c6nvuqxrwnyz"
+  description = "Git commit changes on github.com/nostr-protocol/nips"
+  description_ja = "Git commit changes on github.com/nostr-protocol/nips"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1psztp4ewrnntks87ehkxeuvx5kpaspnk7hens6ycr3u7uptndsuskn58dc]
+  name = "名言画像 bot"
+  address = "https://njump.compile-error.net/npub1psztp4ewrnntks87ehkxeuvx5kpaspnk7hens6ycr3u7uptndsuskn58dc"
+  description = "投稿に #makeitquote をリプライすると元の投稿を画像化します。"
+  description_ja = "投稿に #makeitquote をリプライすると元の投稿を画像化します。"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf]
+  name = "今日は何の日"
+  address = "https://njump.compile-error.net/npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf"
+  description = "今日は何の日かを投稿します。"
+  description_ja = "今日は何の日かを投稿します。"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x]
+  name = "Mahjong Game"
+  address = "https://njump.compile-error.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x"
+  description = "Mahjong Game"
+  description_ja = "Mahjong Game"
+  author_name = ["mattn"]
+  author_url = ["https://github.com/mattn"]
+
+
+  [Bots.npub1v75w6lnkc7derm3nvddd45rnl9rxkvh0yyeh8taj7vcdlta8plmqdp2g4e]
+  name = "Golang News"
+  address = "https://njump.compile-error.net/npub1v75w6lnkc7derm3nvddd45rnl9rxkvh0yyeh8taj7vcdlta8plmqdp2g4e"
+  description = "The Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/) The design is licensed under the Creative Commons 3.0 Attributions license. Read this article for more details: https://blog.golang.org/gopher"
+  description_ja = "The Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/) The design is licensed under the Creative Commons 3.0 Attributions license. Read this article for more details: https://blog.golang.org/gopher"
   author_name = ["mattn"]
   author_url = ["https://github.com/mattn"]
 
@@ -1124,13 +1169,6 @@ caption = "Bots"
   author_name = ["mattn"]
   author_url = ["https://github.com/mattn"]
 
-  [Bots.npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv]
-  name = "iroiroBot"
-  address = "https://njump.compile-error.net/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv"
-  description = "A BOT that posts tools made by users, tools that are useful for Nostr, and information related to Nostr at 16 minutes past the hour."
-  description_ja = "みんなの作ったツールとか、Nostrでお役立ちなツールとか、Nostrにゆかりのある情報とかを毎時16分にポストするBOT"
-  author_name = ["mono"]
-  author_url = ["https://github.com/TsukemonoGit"]
 
 [Libraries]
 
