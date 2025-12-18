@@ -1,66 +1,3 @@
-- name: haiku
-  url: https://njump.me/haiku@iris.to
-  description:
-    ja: "[俳句](https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5)コレクター"
-    en: "[Haiku](https://en.wikipedia.org/wiki/Haiku) collector"
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
-- name: markovbot
-  url: https://njump.me/markovbot@mattn.github.io
-  description:
-    ja: マルコフ連鎖ボット
-    en: Markov chain bot
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
-- name: golang_news
-  url: https://njump.me/golang_news@mattn.github.io
-  description:
-    ja: "[Go](https://go.dev) 言語ニュース"
-    en: "[Go](https://go.dev) language news"
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
-- name: nips_changes
-  url: https://njump.me/nips_changes@mattn.github.io
-  description:
-    ja: "[github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)のgitコミットをお知らせ"
-    en: Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
-- name: makeitquote
-  url: https://njump.me/makeitquote@iris.to
-  description:
-    ja: 投稿から画像を生成
-    en: Generate image of the post
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
-- name: nullpoga
-  url: https://nostx.shino3.net/npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc
-  description:
-    ja: いろいろbot
-    en: A misc bot
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
-- name: mahjong
-  url: https://nostx.shino3.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x
-  description:
-    ja: 麻雀ゲームbot
-    en: A bot for playing mahjong game
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
 - name: EEWなまずくん予報
   url: https://njump.me/namazu@matsuu.org
   description:
@@ -299,7 +236,7 @@
   url: https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64
   description:
     ja: kojira bot。呼んだ？
-    en: A kojira bot, 呼んだ？
+    en: A kojira bot. Did you call me?
   authors:
     - name: imksoo
       url: https://github.com/imksoo/nostr-kojirabot
@@ -331,42 +268,6 @@
     - name: ShinoharaTa
       url: https://github.com/ShinoharaTa
 
-- name: 今日は何の日
-  url: https://nostx.shino3.net/npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf
-  description:
-    ja: 今日は何の日かを毎朝投稿します
-    en: Posts what's today at every morning
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
-- name: 不審者情報
-  url: https://njump.compile-error.net/npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp
-  description:
-    ja: 日本不審者情報センターの情報を転載しています。(非公式)
-    en: 日本不審者情報センターの情報を転載しています。(Unofficial)
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
-- name: サイゼガチャ
-  url: https://njump.compile-error.net/npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh
-  description:
-    ja: サイゼリヤのメニューをお選びします。(非公式)
-    en: サイゼリヤのメニューをお選びします。(Unofficial)
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
-- name: Hot Post Ranking
-  url: https://njump.compile-error.net/npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl
-  description:
-    ja: 数時間内でホットな投稿をランキング表示します。
-    en: 数時間内でホットな投稿をランキング表示します。
-  authors:
-    - name: mattn
-      url: https://github.com/mattn
-
 - name: iroiroBot
   url: https://njump.compile-error.net/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv
   description:
@@ -375,3 +276,140 @@
   authors:
     - name: mono
       url: https://github.com/TsukemonoGit
+
+- name: 不審者情報
+  url: https://njump.compile-error.net/npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp
+  description:
+    ja: 日本不審者情報センターの情報を転載しています。(非公式)
+    en: A bot that reposts information from the Japan Suspicious Person Information Center. (Unofficial)
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: 5000000000000000警察
+  url: https://njump.compile-error.net/npub16xmrzayk8p4ekvpxc944q6a2pqd6npk2ea5adgnckqfmhwyw0r7s0q44ey
+  description:
+    ja: 5000000000000000警察です。間違いを指摘します。
+    en: The 5000000000000000 police. Points out mistakes.
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: Buzz Word
+  url: https://njump.compile-error.net/npub17a50460j8y99yglsqzjzfh4exq4f8q0r82ackzzv4pz0dyd3rnwsxc9tp2
+  description:
+    ja: 人気のワードランキング(バズワード)をお届けします。
+    en: A bot that posts popular word rankings (buzzwords).
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: Markov Chain
+  url: https://njump.compile-error.net/npub17qqekpej52c6wqmqlw84mkmlgp2ylz6xkryj3ccqk5vld4f7clys047uwf
+  description:
+    ja: マルコフ連鎖 bot
+    en: A Markov chain bot
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: mattn
+  url: https://njump.compile-error.net/npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6
+  description:
+    ja: Long-time #Golang user&contributor,  #GoogleDevExpert  Go, #Vim, #Windows hacker, ex-#GitHubStars, #runner.
+    en: Long-time #Golang user&contributor,  #GoogleDevExpert  Go, #Vim, #Windows hacker, ex-#GitHubStars, #runner.
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: サイゼガチャ
+  url: https://njump.compile-error.net/npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh
+  description:
+    ja: サイゼリヤのメニューをお選びします。
+    en: A bot that randomly selects Saizeriya menu items.
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: ぬるぽ・ｶﾞｯ
+  url: https://njump.compile-error.net/npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc
+  description:
+    ja: ぬるぽ を許さない
+    en: Never forgives NullPointerException
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: 俳句bot
+  url: https://njump.compile-error.net/npub1ft7qy8qrf4huyk48nz0jf7parw3pfjs24az7py80ex8ympnqw6csz85fxu
+  description:
+    ja: The haiku collector.
+    en: The haiku collector.
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: todo bot
+  url: https://njump.compile-error.net/npub1jdelt5c8400d3qf4v4x5ns0xywgymw7f8rgfx07zp2qpys50du4sm5jkhj
+  description:
+    ja: todo bot
+    en: todo bot
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: NIPs Changes
+  url: https://njump.compile-error.net/npub1k2s2288t7runm5rmw83pldgq5yn896402um2mz5tr9uqp6c6nvuqxrwnyz
+  description:
+    ja: Git commit changes on github.com/nostr-protocol/nips
+    en: Git commit changes on github.com/nostr-protocol/nips
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: 名言画像 bot
+  url: https://njump.compile-error.net/npub1psztp4ewrnntks87ehkxeuvx5kpaspnk7hens6ycr3u7uptndsuskn58dc
+  description:
+    ja: 投稿に #makeitquote をリプライすると元の投稿を画像化します。
+    en: Reply to a post with #makeitquote to convert the original post into an image.
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: 今日は何の日
+  url: https://njump.compile-error.net/npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf
+  description:
+    ja: 今日は何の日かを投稿します。
+    en: A bot that posts about historical events that occurred on this day.
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: Mahjong Game
+  url: https://njump.compile-error.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x
+  description:
+    ja: Mahjong Game
+    en: Mahjong Game
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: Golang News
+  url: https://njump.compile-error.net/npub1v75w6lnkc7derm3nvddd45rnl9rxkvh0yyeh8taj7vcdlta8plmqdp2g4e
+  description:
+    ja: "The Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/) The design is licensed under the Creative Commons 3.0 Attributions license. Read this article for more details: https://blog.golang.org/gopher"
+    en: "The Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/) The design is licensed under the Creative Commons 3.0 Attributions license. Read this article for more details: https://blog.golang.org/gopher"
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: Hot Post Ranking
+  url: https://njump.compile-error.net/npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl
+  description:
+    ja: 数時間内でホットな投稿をランキング表示します。
+    en: A bot that displays rankings of hot posts from the past few hours.
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+
