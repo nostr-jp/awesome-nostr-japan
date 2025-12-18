@@ -1,0 +1,26 @@
+- name: nokakoi
+  url: https://github.com/betonetojp/nokakoi
+  description:
+    ja: Nostrのリレーサーバーに接続して投稿したりグローバルタイムラインをリアルタイムに表示したりするアプリケーション
+    en: A nostr client for Windows just to post and browse the global timeline.
+  authors:
+    - name: betoneto
+      url: https://github.com/betonetojp
+
+- name: noka
+  url: https://github.com/betonetojp/noka
+  description:
+    ja: Nostrのリレーサーバーに接続してグローバルタイムラインをリアルタイムに表示するアプリケーション
+    en: A nostr client for Windows just to browse the global timeline.
+  authors:
+    - name: betoneto
+      url: https://github.com/betonetojp
+
+- name: nostalk
+  url: https://github.com/nikolat/nostalk
+  description:
+    ja: SSTP通信によるNostrイベント通知に対応した伺かゴースト
+    en: Ukagaka ghost with support for Nostr event notification via SSTP
+  authors:
+    - name: nikolat
+      url: https://github.com/nikolat

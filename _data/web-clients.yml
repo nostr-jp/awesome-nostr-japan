@@ -1,0 +1,125 @@
+- name: nostter
+  url: http://nostter.vercel.app
+  description:
+    ja: Nostr Webクライアント
+    en: Nostr client for web.
+  authors:
+    - name: SnowCait
+      url: https://github.com/SnowCait
+
+- name: Rabbit
+  url: https://rabbit.syusui.net/
+  description:
+    ja: TweetDeckライクなNostr Webクライアント
+    en: A nostr client like TweetDeck.
+  authors:
+    - name: syusui-s
+      url: https://github.com/syusui-s
+
+- name: Astraea
+  url: https://astraea.mousedev.page
+  description:
+    ja: Nostr Webクライアント
+    en: Nostr client for web.
+  authors:
+    - name: mouse
+      url: https://njump.me/mouse_484@mousedev.page
+
+- name: Lumilumi
+  url: https://lumilumi.app/
+  description:
+    ja: Nostr Webクライアント
+    en: Nostr client for web.
+  authors:
+    - name: mono
+      url: https://github.com/TsukemonoGit
+
+- name: Nos Haiku
+  url: https://nos-haiku.vercel.app/
+  description:
+    ja: Nostr Webクライアント
+    en: Nostr client for web.
+  authors:
+    - name: nikolat
+      url: https://github.com/nikolat
+
+- name: "Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)"
+  url: https://relay-jp.nostr.wirednet.jp/index.html
+  description:
+    ja: シンプルなリレーフィードリーダー
+    en: Simple Nostr Relay Feed Reader
+  authors:
+    - name: imksoo
+      url: https://github.com/imksoo
+
+- name: GARNET
+  url: https://garnet.nostrian.net
+  description:
+    ja: Nostr パブリックチャット(NIP-28) クライアント
+    en: Nostr Public Chat(NIP-28) Client.
+  authors:
+    - name: murakmii
+      url: https://github.com/murakmii
+
+- name: うにゅうハウス
+  url: https://unyu-house.vercel.app
+  description:
+    ja: NIP-28(パブリックチャット)用Webクライアント
+    en: The web client for NIP-28(Public Chat).
+  authors:
+    - name: nikolat
+      url: https://github.com/nikolat
+
+- name: nos.today
+  url: https://nos.today/
+  description:
+    ja: Web検索クライアント
+    en: search web client
+  authors:
+    - name: darashi
+      url: https://github.com/darashi
+
+- name: Nostr playground
+  url: https://snowcait.github.io/nostr-playground/
+  description:
+    ja: plain JavaScriptで作成された、JSONベースのNostr Webクライアント
+    en: JSON-based Nostr web client written in plain JavaScript.
+  authors:
+    - name: SnowCait
+      url: https://github.com/SnowCait
+
+- name: Angolmois
+  url: https://github.com/nikolat/angolmois
+  description:
+    ja: 投稿を表示すると同時に伺か互換ベースウェア(SSTPサーバー)にSSTPを送信し、ゴースト(キャラクター)に投稿を喋らせるNostr Webアプリ
+    en: Retrieve posts from Nostr and send SSTP to Ukagaka.
+  authors:
+    - name: nikolat
+      url: https://github.com/nikolat
+
+- name: vscode-nostr-client
+  url: https://marketplace.visualstudio.com/items?itemName=jiftechnify.nostr-client
+  description:
+    ja: VSCode拡張機能として動作するNostrクライアント
+    en: Nostr client as a VSCode extension.
+  authors:
+    - name: jiftechnify
+      url: https://github.com/jiftechnify
+
+- name: nostatus
+  url: https://nostatus.vercel.app
+  description:
+    ja: ユーザステータス(NIP-38) の閲覧に特化したクライアント
+    en: A nostr client that specializes in browsing user statuses (NIP-38).
+  authors:
+    - name: jiftechnify
+      url: https://github.com/jiftechnify
+
+- name: eHagaki
+  url: https://lokuyow.github.io/ehagaki/
+  description:
+    ja: モバイルに特化した軽量な投稿専用クライアント
+    en: Lightweight mobile client just for posting
+  authors:
+    - name: Lokuyow
+      url: https://github.com/Lokuyow

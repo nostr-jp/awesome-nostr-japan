@@ -1,0 +1,377 @@
+- name: haiku
+  url: https://njump.me/haiku@iris.to
+  description:
+    ja: "[俳句](https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5)コレクター"
+    en: "[Haiku](https://en.wikipedia.org/wiki/Haiku) collector"
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: markovbot
+  url: https://njump.me/markovbot@mattn.github.io
+  description:
+    ja: マルコフ連鎖ボット
+    en: Markov chain bot
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: golang_news
+  url: https://njump.me/golang_news@mattn.github.io
+  description:
+    ja: "[Go](https://go.dev) 言語ニュース"
+    en: "[Go](https://go.dev) language news"
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: nips_changes
+  url: https://njump.me/nips_changes@mattn.github.io
+  description:
+    ja: "[github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)のgitコミットをお知らせ"
+    en: Git commit changes on [github.com/nostr-protocol/nips](https://github.com/nostr-protocol/nips/)
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: makeitquote
+  url: https://njump.me/makeitquote@iris.to
+  description:
+    ja: 投稿から画像を生成
+    en: Generate image of the post
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: nullpoga
+  url: https://nostx.shino3.net/npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc
+  description:
+    ja: いろいろbot
+    en: A misc bot
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: mahjong
+  url: https://nostx.shino3.net/npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x
+  description:
+    ja: 麻雀ゲームbot
+    en: A bot for playing mahjong game
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: EEWなまずくん予報
+  url: https://njump.me/namazu@matsuu.org
+  description:
+    ja: 緊急地震速報
+    en: Earthquake Early Warning
+  authors:
+    - name: matsuu
+      url: https://njump.me/matsuu@matsuu.org
+
+- name: Nostify
+  url: https://github.com/kojira/nostify
+  description:
+    ja: Nostrのリレーサーバーに接続して、discordに投稿するdiscord bot
+    en: A bot that posts Nostr posts that match the filter settings to discord.
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: Nostr-chan
+  url: https://github.com/kojira/nostr-chan
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: communication bots powered by ChatGPT
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: Nostrchan
+  url: https://nostx.shino3.net/npub1f2v6jwct47c2wx5849zzyv5hmpkzulmj3tj44s0r5h7ljxfyay3s5fp3te
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: communication bots powered by ChatGPT
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: Nostrchan2
+  url: https://nostx.shino3.net/npub1ev3s5h5ngxscp8qd094wfd367xj38de4cjdc4gyj0r7ng99wmqeqj66k2s
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: communication bots powered by ChatGPT
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: Nostrchan3
+  url: https://nostx.shino3.net/npub1qpvchcscwvtxnn4aj4r0ya2lfujmvua76k7rn3mrcap47vjkp5nsu7rcm3
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: communication bots powered by ChatGPT
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: Nostrchan4
+  url: https://nostx.shino3.net/npub1ytrn8t6yeehhkgarfkd7hxdnpy665zfxkhd6gnjdm6wzmkjqjnlsgnz5r2
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: communication bots powered by ChatGPT
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: Nostrchan0
+  url: https://nostx.shino3.net/npub1hk8wmj288k48ezpqe9ptw3rkkmucue6c60gs9rtjk60ftpp9qxlqv2xhle
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: communication bots powered by ChatGPT
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: kojiranyan
+  url: https://nostx.shino3.net/npub1nnumvzrexs63usytjuwn6ntcy3gr4jqm3ek5tcqsuf2yqk2dkjrsrdxqrl
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: communication bots powered by ChatGPT
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: Nostaro
+  url: https://nostx.shino3.net/npub1nwzquyssngld942vwh58yfrwwmvk530um443w8w8y0h2cu3ju2dsl4hqsg
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: communication bots powered by ChatGPT
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: Skyka
+  url: https://nostx.shino3.net/npub1ae7eax3n5erecwys65kwjcp0lqlsxfj9789f842gwvuy79kq9dzqf7h6mm
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: communication bots powered by ChatGPT
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: Qchan
+  url: https://nostx.shino3.net/npub13exd4j32ldnktu7p34w4csw2nc2s9cypd6tw3h60cau7qvgrp49qpvqjhl
+  description:
+    ja: 日本語タイムラインの要約を作成
+    en: Create a Japanese timeline summary
+  authors:
+    - name: kojira
+      url: https://github.com/kojira
+
+- name: 日本人ユーザー (bot)
+  url: https://nostx.shino3.net/npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p
+  description:
+    ja: 日本語圏ユーザーをフォロー
+    en: Follow Japanese users.
+  authors:
+    - name: SnowCait
+      url: https://github.com/SnowCait
+
+- name: REQ
+  url: https://nostx.shino3.net/npub1x22zy06nn8h44cycdv4trxp8v0dv8qq3ayahpkrcn3rh90gp552sqs8hmv
+  description:
+    ja: REQ応答を返却するbot
+    en: A bot for replying REQ response
+  authors:
+    - name: SnowCait
+      url: https://github.com/SnowCait
+
+- name: search
+  url: https://nostx.shino3.net/npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26
+  description:
+    ja: 検索を補助するbot
+    en: A bot to help you search
+  authors:
+    - name: SnowCait
+      url: https://github.com/SnowCait
+
+- name: ログボbot
+  url: https://njump.me/cnpgirl@erechorse.github.io
+  description:
+    ja: '"ログインボーナス"を獲得できるbot'
+    en: A bot to earn "Login bonus"
+  authors:
+    - name: erechorse
+      url: https://nostx.shino3.net/npub17syr9cntr5f03gnhz7mqdxtt4mmgh39khpky5dw2sflkl09l2y0qra94wl
+
+- name: じほう
+  url: https://nostx.shino3.net/npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7
+  description:
+    ja: 日本標準時に基づいてお知らせするbot
+    en: a bot that tells JST time
+  authors:
+    - name: mono
+      url: https://github.com/TsukemonoGit
+
+- name: やぶみちゃん
+  url: https://nostx.shino3.net/npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r
+  description:
+    ja: wss://yabu.me リレーbot
+    en: A relay bot on wss://yabu.me
+  authors:
+    - name: 𓃠
+      url: https://nostx.shino3.net/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7
+
+- name: へんしんbot
+  url: https://nostx.shino3.net/npub1738uh3jagexkr27wyw7pwx2gh8xnrcfk09pxptqf6f6aqwtrf5hq3q0j8s
+  description:
+    ja: 仮面ライダーbot
+    en: An Kamen-Rider-like bot
+  authors:
+    - name: ひゅうが霄
+      url: https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4
+
+- name: 迫るショッカーbot
+  url: https://nostx.shino3.net/npub1r25zsj7hcpjqd0yur2ss4t3r0l9h6wavzp6na9vnnjhr87wttp2qmx0zct
+  description:
+    ja: ショッカー風bot
+    en: An Shocker-like bot
+  authors:
+    - name: ひゅうが霄
+      url: https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4
+
+- name: mochi
+  url: https://nostx.shino3.net/npub19xm6kcedxef3232d222gj0sxql8vs2tutyg0fq4z6875zfs3d8ascl440n
+  description:
+    ja: もちもちbot
+    en: A mochi mochi bot
+  authors:
+    - name: awayuki
+      url: https://nostx.shino3.net/npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76
+
+- name: Yodogawa-Janken
+  url: https://nostx.shino3.net/npub1y0d0eezhwaskpjhc7rvk6vkkwepu9mj42qt5pqjamzjr97amh2yszkevjg
+  description:
+    ja: じゃんけんbot
+    en: A bot for playing RPS game
+  authors:
+    - name: n0nakamura
+      url: https://github.com/n0nakamura
+
+- name: うにゅう
+  url: https://nostx.shino3.net/npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t
+  description:
+    ja: うにゅうbot。えんいー
+    en: An Unyu bot
+  authors:
+    - name: nikolat
+      url: https://github.com/nikolat
+
+- name: Scrapbox更新通知(bot)
+  url: https://nostx.shino3.net/npub1d0hysq6tqys54n2v4tdu2zh2f2e758kj9dr4fpgcvz3ps3l8dzmswes3pc
+  description:
+    ja: nostr Scrapboxの更新をお知らせするbot
+    en: A bot that serves notification about updated nostr Scrapbox articles
+  authors:
+    - name: jiftechnify
+      url: https://github.com/jiftechnify
+
+- name: リプライ連鎖数はかるくん
+  url: https://nostx.shino3.net/npub1cwve0du5w46zetzsqymx6ae5hr7ghyn6xs339e0tpkeft6htm07sm8qm6f
+  description:
+    ja: 他のbotのリプライ連鎖をカウントするbot
+    en: A bot that counts the number of chains of replies from other bots
+  authors:
+    - name: jiftechnify
+      url: https://github.com/jiftechnify
+
+- name: やる夫bot
+  url: https://nostx.shino3.net/npub1vf4huvhkfhgvys2qf4wlmncf855dzd3c6894mw2snktpxzh08vdsgcgkxx
+  description:
+    ja: ChatGPTにより会話できるbot
+    en: Communication bots powered by ChatGPT
+  authors:
+    - name: Hakkadaikon
+      url: https://github.com/Hakkadaikon
+
+- name: kojiraBot
+  url: https://nostx.shino3.net/npub1ddn7myeq28llwegqzejmqtr33hfm3j6mepspxcrk70hn4r4268sqvamy64
+  description:
+    ja: kojira bot。呼んだ？
+    en: A kojira bot, 呼んだ？
+  authors:
+    - name: imksoo
+      url: https://github.com/imksoo/nostr-kojirabot
+
+- name: ルークさん
+  url: https://nostx.shino3.net/npub185gk75vh09f9up248pjeqm53r3yvtau4cu82d32t8sxxg4qyxfcqxx3dm7
+  description:
+    ja: 犬bot
+    en: A dog bot
+  authors:
+    - name: NK1961
+      url: https://nostx.shino3.net/npub1dsjzgp8mnpk3sn975t4ea98glecg5d0ahadqyxvv4thdah5eh6ssgwpg5w
+
+- name: NIPs 占い
+  url: https://nostx.shino3.net/npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0
+  description:
+    ja: NIP占いをするbot
+    en: A NIPs fortune-telling bot
+  authors:
+    - name: AsaiToshiya
+      url: https://github.com/AsaiToshiya
+
+- name: 流速ちゃん
+  url: https://nostx.shino3.net/npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv
+  description:
+    ja: 日本のリレー投稿数を計測・集計しているbot
+    en: BOT measuring and tabulating the number of relay submissions in Japan
+  authors:
+    - name: ShinoharaTa
+      url: https://github.com/ShinoharaTa
+
+- name: 今日は何の日
+  url: https://nostx.shino3.net/npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf
+  description:
+    ja: 今日は何の日かを毎朝投稿します
+    en: Posts what's today at every morning
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: 不審者情報
+  url: https://njump.compile-error.net/npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp
+  description:
+    ja: 日本不審者情報センターの情報を転載しています。(非公式)
+    en: 日本不審者情報センターの情報を転載しています。(Unofficial)
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: サイゼガチャ
+  url: https://njump.compile-error.net/npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh
+  description:
+    ja: サイゼリヤのメニューをお選びします。(非公式)
+    en: サイゼリヤのメニューをお選びします。(Unofficial)
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: Hot Post Ranking
+  url: https://njump.compile-error.net/npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl
+  description:
+    ja: 数時間内でホットな投稿をランキング表示します。
+    en: 数時間内でホットな投稿をランキング表示します。
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: iroiroBot
+  url: https://njump.compile-error.net/npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv
+  description:
+    ja: みんなの作ったツールとか、Nostrでお役立ちなツールとか、Nostrにゆかりのある情報とかを毎時16分にポストするBOT
+    en: A BOT that posts tools made by users, tools that are useful for Nostr, and information related to Nostr at 16 minutes past the hour.
+  authors:
+    - name: mono
+      url: https://github.com/TsukemonoGit
