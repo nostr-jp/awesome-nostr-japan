@@ -4,7 +4,6 @@ https://nostr-jp.github.io/awesome-nostr-japan/
 
 ## Local Development
 
-```
-bundle install
-bundle exec jekyll serve
+```bash
+docker compose up
 ```
