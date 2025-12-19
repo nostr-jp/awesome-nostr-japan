@@ -1,5 +1,5 @@
 - name: nostter
-  url: http://nostter.vercel.app
+  url: http://nostter.app
   description:
     ja: Nostr Webクライアント
     en: Nostr client for web.
