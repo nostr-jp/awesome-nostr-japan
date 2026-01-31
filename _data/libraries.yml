@@ -63,3 +63,12 @@
   authors:
     - name: SnowCait
       url: https://github.com/SnowCait
+
+- name: swift-nostr-client
+  url: https://github.com/yysskk/swift-nostr-client
+  description:
+    ja: Swift Concurrency によるNostrプロトコルのためのクライアントライブラリ
+    en: A modern Swift library for the Nostr protocol, built with Swift 6 concurrency.
+  authors:
+    - name: yysskk
+      url: https://github.com/yysskk
