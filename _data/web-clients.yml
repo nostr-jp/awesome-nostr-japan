@@ -123,3 +123,21 @@
   authors:
     - name: Lokuyow
       url: https://github.com/Lokuyow
+
+- name: yomi
+  url: https://koteitan.github.io/yomi/
+  description:
+    ja: Nostr/Bluesky/Misskey.io/Discord のTTS読み上げクライアント
+    en: TTS reading and multi posting client for Nostr/Bluesky/Misskey.io/Discord
+  authors:
+    - name: koteitan
+      url: https://github.com/koteitan
+
+- name: mojimoji
+  url: https://koteitan.github.io/mojimoji/
+  description:
+    ja: Nostrモジュラー型クライアント
+    en: The Nostr Modular Client
+  authors:
+    - name: koteitan
+      url: https://github.com/koteitan
