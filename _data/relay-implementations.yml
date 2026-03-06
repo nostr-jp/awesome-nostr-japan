@@ -30,3 +30,59 @@
   authors:
     - name: mattn
       url: https://github.com/mattn
+
+- name: perl-nostr-relay
+  url: https://github.com/mattn/perl-nostr-relay
+  description:
+    en: Perl implementation of Nostr relay
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: ruby-nostr-relay
+  url: https://github.com/mattn/ruby-nostr-relay
+  description:
+    en: Ruby implementation of Nostr relay
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: mruby-nostr-relay
+  url: https://github.com/mattn/mruby-nostr-relay
+  description:
+    en: MRuby implementation of Nostr relay
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: nim-nostr-relay
+  url: https://github.com/mattn/nim-nostr-relay
+  description:
+    en: Nim implementation of Nostr relay
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: lua-nostr-relay
+  url: https://github.com/mattn/lua-nostr-relay
+  description:
+    en: Lua implementation of Nostr relay
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: lisp-nostr-relay
+  url: https://github.com/mattn/lisp-nostr-relay
+  description:
+    en: Lisp implementation of Nostr relay
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
+
+- name: crystal-nostr-relay
+  url: https://github.com/mattn/crystal-nostr-relay
+  description:
+    en: Crystal implementation of Nostr relay
+  authors:
+    - name: mattn
+      url: https://github.com/mattn
