@@ -127,8 +127,8 @@
 - name: yomi
   url: https://koteitan.github.io/yomi/
   description:
-    ja: Nostr/Bluesky/Misskey.io/Discord のTTS読み上げクライアント
-    en: TTS reading and multi posting client for Nostr/Bluesky/Misskey.io/Discord
+    ja: Nostr/Bluesky/Misskey.io/Discord/X のTTS読み上げクライアント
+    en: TTS reading and multi posting client for Nostr/Bluesky/Misskey.io/Discord/X
   authors:
     - name: koteitan
       url: https://github.com/koteitan

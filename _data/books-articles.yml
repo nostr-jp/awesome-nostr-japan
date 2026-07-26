@@ -40,3 +40,12 @@
     ja: nostrに関する日本語情報まとめ
     en: A knowledge base about nostr in Japanese.
   authors:
+
+- name: nostr-research
+  url: https://github.com/koteitan/nostr-research
+  description:
+    ja: リレー/リレーインスタンス/クライアントの実装調査
+    en: Exploring how Nostr relays, relay instances and clients are implemented
+  authors:
+    - name: koteitan
+      url: https://github.com/koteitan

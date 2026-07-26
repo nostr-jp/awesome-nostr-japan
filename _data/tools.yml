@@ -33,3 +33,30 @@
   authors:
     - name: cody
       url: https://github.com/CodyTseng
+
+- name: find-mine-fire
+  url: https://github.com/koteitan/find-mine-fire
+  description:
+    ja: SQLiteによる自分のNostr投稿のインクリメンタル検索ツール
+    en: Incremental search of yourself on Nostr by SQLite
+  authors:
+    - name: koteitan
+      url: https://github.com/koteitan
+
+- name: emoemo
+  url: https://koteitan.github.io/emoemo/
+  description:
+    ja: 絵文字マネージャー
+    en: Emoji manager
+  authors:
+    - name: koteitan
+      url: https://github.com/koteitan
+
+- name: warawo
+  url: https://koteitan.github.io/warawo/
+  description:
+    ja: フォロイーのリレー分析ツール
+    en: Relay analysis tool for followees
+  authors:
+    - name: koteitan
+      url: https://github.com/koteitan
